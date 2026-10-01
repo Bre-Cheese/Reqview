@@ -8,9 +8,9 @@
     "email": "t00756235@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-01T17:04:47.292Z",
+  "lastChangedOn": "2026-10-01T18:09:16.493Z",
   "lastChangedBy": {
-    "name": "T00748034",
+    "name": "Jay Erickson",
     "email": "t00748034@mytru.ca",
     "company": "Thompson Rivers University"
   },
@@ -86,7 +86,31 @@
     {
       "id": "13",
       "guid": "0a3abf12-57e3-4ef0-aee8-8a640c3a367a",
-      "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p>"
+      "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00748034@mytru.ca",
+            "name": "T00748034"
+          },
+          "changedOn": "2026-10-01T17:13:11.977Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p><p><br></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00748034@mytru.ca",
+            "name": "T00748034"
+          },
+          "changedOn": "2026-10-01T17:14:25.330Z"
+        }
+      ]
     },
     {
       "id": "14",
@@ -333,7 +357,42 @@
             {
               "id": "60",
               "guid": "30d54b8a-4748-4d18-903c-90efa782da61",
-              "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p>"
+              "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p><p><br></p><p>Works with an automatic government system to process background checks.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:43:57.929Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p><p>Works with an automatic government system to do background checks.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:44:06.021Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Record any assumptions that were made when conceiving the project and preparing this document. Note any major dependencies the project must rely upon for success, such as specific technologies, third-party vendors, development partners, or other business relationships.&gt;</p><p><br></p><p>Works with an automatic government system to do background checks.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:45:41.138Z"
+                }
+              ]
             }
           ]
         }
@@ -347,7 +406,31 @@
         {
           "id": "62",
           "guid": "c795a181-00bc-4d85-8364-e0c57d5f9301",
-          "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p>"
+          "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p><p><br></p><p>Establish a centralized volunteer management system that shows accurate demand from seniors and possible volunteers to perform proper planning for the needed cases.</p>",
+          "history": [
+            {
+              "attributesChanged": {
+                "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00748034@mytru.ca",
+                "name": "Jay Erickson"
+              },
+              "changedOn": "2026-10-01T17:56:01.264Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p>&lt;The project scope defines the concept and range of the proposed solution. It’s also helpful to define what will not be included in the product. Clarifying the scope and limitations helps to establish realistic expectations of the many stakeholders. It also provides a reference frame against which proposed features and requirements changes can be evaluated. Proposed requirements that are out of scope for the envisioned product must be rejected, unless they are so beneficial that the scope should be enlarged to accommodate them (with accompanying changes in budget, schedule, and/or resources).&gt;</p><p><br></p><p>Establish a centralized system that shows accurate demand from seniors and possible volunteers to perform proper planning for the needed cases.</p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00748034@mytru.ca",
+                "name": "Jay Erickson"
+              },
+              "changedOn": "2026-10-01T17:58:04.657Z"
+            }
+          ]
         },
         {
           "id": "63",
@@ -357,7 +440,53 @@
             {
               "id": "64",
               "guid": "825b949d-99b9-4458-baf8-513dc06f6f05",
-              "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p>"
+              "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p><p><br></p><p>1. Tracks 60% of senior cases and provides support to 85% of reported cases.</p><p>2. Supports 10k to 15k cases.</p><p>3. Reduce volunteer shortage to less than two times per year.</p><p>4. Daily notification of cases needed for the next week.</p><p>5. Reduce the volunteer assignment time to 30%, provide volunteer services within three days.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:21:55.694Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p><p>1. Tracks60% of senior cases and provides support to 85% of reported cases</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:23:26.264Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p><p>1.&nbsp;</p><p>2.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:45:33.486Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Include a numbered list of the major features of the new product, emphasizing those <span>features<span>&nbsp;&nbsp;</span>that</span> distinguish it from previous or competing products. Specific user requirements and functional requirements developed later may be traced back to these features.&gt;</p><p>1. Process background checks within 48 hours.</p><p>2. Tracks 60% of senior cases and provides support to 85% of reported cases.</p><p>3. Support 10k to 15k cases.</p><p>4. Reduce volunteer shortage to less than two times per year.</p><p>5. Daily notification of cases needed for the next week.</p><p>6. Reduce the volunteer assignment time to 30%, provide volunteer services within three days.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "Jay Erickson"
+                  },
+                  "changedOn": "2026-10-01T18:07:13.882Z"
+                }
+              ]
             }
           ]
         },
@@ -369,7 +498,64 @@
             {
               "id": "66",
               "guid": "116f7c9c-cf04-402b-9019-d11e0ed1785b",
-              "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p>"
+              "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p><p>Ensure volunteers have gone through the police certificate check and have the minimum educational skills.</p><p>Interface with the automated government system to process background checks, which should be ready in the next few months.</p><p>Benefits: Reduce the crime rate, increase business transactions of Downton shops by 10%.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:31:15.950Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p><p><br></p><p>Tracks 60% of senior cases and provides support to 85% of reported cases.</p><p>Should support 10k to 15k cases.</p><p>Reduce volunteer shortage to less than two times per year.</p><p>Notify daily of cases needed for the next week.</p><p>Reduce the volunteer assignment time to 30%, provide volunteer services within three days.</p><p>Benefits: Reduce the crime rate, increase business transactions by 10%</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:41:19.154Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p><p><br></p><p>Interface with the automatic government background check system to process background checks within 48 hours.</p><p>Tracks 60% of senior cases and provides support to 85% of reported cases.</p><p>Support 10k to 15k cases.</p><p>Reduce volunteer shortage to less than two times per year.</p><p>Daily notification of cases needed for the next week.</p><p>Reduce the volunteer assignment time to 30%, provide volunteer services within three days.</p><p>Benefits: Reduce the crime rate, increase business transactions of Downton shops by 10%</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "T00748034"
+                  },
+                  "changedOn": "2026-10-01T17:44:53.524Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p><p><br></p><p>Benefits: Reduce the crime rate, increase business transactions of Downton shops by 10%</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "Jay Erickson"
+                  },
+                  "changedOn": "2026-10-01T18:03:31.608Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Describe the intended major features that will be included in the initial release of the product. Consider the benefits the product is intended to bring to the various customer communities, and generally describe the product features and quality characteristics that will enable it to provide those benefits. Avoid the temptation to include every possible feature that any potential customer category might conceivably want some day. Focus on those features and product characteristics that will provide the most value, at the most acceptable development cost, to the broadest community. A feature tree or feature table is a useful way to represent this scope.&gt;</p><p>Ensure volunteers have the minimum educational skills.</p><p>Benefits: Reduce the crime rate, increase business transactions of Downton shops by 10%</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "Jay Erickson"
+                  },
+                  "changedOn": "2026-10-01T18:09:16.493Z"
+                }
+              ]
             }
           ]
         },
@@ -393,7 +579,42 @@
             {
               "id": "70",
               "guid": "72434ef5-10c0-448e-b276-dc2297569b00",
-              "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p>"
+              "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p><p><br></p><p>Does not offer remote tutors to kids but rather provides additional training for special cases.</p>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "Jay Erickson"
+                  },
+                  "changedOn": "2026-10-01T17:57:38.995Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p><p><br></p><p><br></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "Jay Erickson"
+                  },
+                  "changedOn": "2026-10-01T18:02:57.818Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>&lt;Identify any product features or characteristics that a stakeholder might anticipate, but which are not planned to be included in the new product.&gt;</p><p><br></p><p>Does not offer remote tutors to kids&nbsp;</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00748034@mytru.ca",
+                    "name": "Jay Erickson"
+                  },
+                  "changedOn": "2026-10-01T18:05:18.593Z"
+                }
+              ]
             }
           ]
         },

@@ -8,10 +8,10 @@
     "email": "t00756235@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-01T18:09:16.493Z",
+  "lastChangedOn": "2026-10-01T18:14:00.947Z",
   "lastChangedBy": {
-    "name": "Jay Erickson",
-    "email": "t00748034@mytru.ca",
+    "name": "Bre",
+    "email": "t00756235@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
@@ -695,7 +695,53 @@
             {
               "id": "85",
               "guid": "0e3b4ecb-154a-4031-ba3e-ac67d793065b",
-              "text": "<p>There are many ways to record stakeholder profiles. Here’s one template:&gt;</p><table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interest level</p></td><td><p>Influence level</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>·&nbsp;more stability</p><p>·&nbsp;to be notified of volunteer availability for the next week</p><p>·&nbsp;</p></td><td><p>·&nbsp;volunteers not having at least the minimum educational level</p><p>·&nbsp;suddenly having a shortage of available volunteers</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>·&nbsp;be assigned jobs quicker</p><p><br></p></td><td><p><br></p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>·&nbsp;help with making calls, providing wellness, education, ect.</p><p>·&nbsp;To receive service within 3 days</p></td><td><p><br></p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>low</p></td><td><p>Low</p></td><td><p>·&nbsp;support from volunteers in face of labor shortage</p></td><td><p><br></p></td></tr><tr><td><p>Administer of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>·&nbsp;more volunteer coaches and teachers</p></td><td><p>·&nbsp;volunteers not having background checks</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>·&nbsp;more dedicated hours of coaching and teaching</p></td><td><p>·&nbsp;</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>·&nbsp;lower crime rate</p></td><td><p><br></p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "text": "<p>There are many ways to record stakeholder profiles. Here’s one template:&gt;</p><table style=\"width:473.4pt;\"><tbody><tr><td style=\"width:.95in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Stakeholder</span></p></td><td style=\"width:67.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Roles</span></p></td><td style=\"width:85.5pt;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Interests</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Influence</span></p></td><td style=\"width:1.25in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Needs</span></p></td><td style=\"width:1.0in;\"><p style=\"text-align:center;\"><span style=\"color:black;\">Concerns</span></p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr><tr><td style=\"width:.95in;\"><p>&nbsp;</p></td><td style=\"width:67.5pt;\"><p>&nbsp;</p></td><td style=\"width:85.5pt;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.25in;\"><p>&nbsp;</p></td><td style=\"width:1.0in;\"><p>&nbsp;</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-10-01T18:13:18.412Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-10-01T18:13:41.580Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Stakeholder Profiles "
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-10-01T18:13:51.502Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><br></p><table><tbody><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interest level</p></td><td><p>Influence level</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>·&nbsp;more stability</p><p>·&nbsp;to be notified of volunteer availability for the next week</p><p>·&nbsp;</p></td><td><p>·&nbsp;volunteers not having at least the minimum educational level</p><p>·&nbsp;suddenly having a shortage of available volunteers</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>·&nbsp;be assigned jobs quicker</p><p><br></p></td><td><p><br></p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>·&nbsp;help with making calls, providing wellness, education, ect.</p><p>·&nbsp;To receive service within 3 days</p></td><td><p><br></p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>low</p></td><td><p>Low</p></td><td><p>·&nbsp;support from volunteers in face of labor shortage</p></td><td><p><br></p></td></tr><tr><td><p>Administer of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>·&nbsp;more volunteer coaches and teachers</p></td><td><p>·&nbsp;volunteers not having background checks</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>·&nbsp;more dedicated hours of coaching and teaching</p></td><td><p>·&nbsp;</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>·&nbsp;lower crime rate</p></td><td><p><br></p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-10-01T18:14:00.947Z"
+                }
+              ]
             }
           ]
         },

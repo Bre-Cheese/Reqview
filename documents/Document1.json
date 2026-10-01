@@ -8,17 +8,30 @@
     "email": "t00756235@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-01T16:59:29.270Z",
+  "lastChangedOn": "2026-10-01T17:04:47.292Z",
   "lastChangedBy": {
-    "name": "T00756235",
-    "email": "t00756235@mytru.ca",
+    "name": "T00748034",
+    "email": "t00748034@mytru.ca",
     "company": "Thompson Rivers University"
   },
   "data": [
     {
       "id": "2",
       "guid": "a7d0e07c-cf1d-40cb-93b1-3ac540969fd6",
-      "text": "<p>Vision and Scope Document</p>"
+      "text": "<p>Vision and Scope Document</p><p>adf</p><p><br></p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p>Vision and Scope Document</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00748034@mytru.ca",
+            "name": "T00748034"
+          },
+          "changedOn": "2026-10-01T17:04:47.292Z"
+        }
+      ]
     },
     {
       "id": "3",

@@ -1,0 +1,17 @@
+{
+  "id": "Assignment 1",
+  "documents": [
+    "Document1.json"
+  ],
+  "traceability": {
+    "reference": {
+      "name": "Reference",
+      "source": "References",
+      "target": "Referenced by"
+    }
+  },
+  "metadata": {
+    "format": "2.22",
+    "saveHistory": true
+  }
+}

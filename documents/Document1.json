@@ -1,0 +1,70 @@
+{
+  "id": "Document1",
+  "guid": "1d93e154-0a86-4c57-9c83-d2e748d247ac",
+  "lastId": 1,
+  "createdOn": "2026-10-01T16:47:43.949Z",
+  "createdBy": {
+    "name": "T00756235",
+    "email": "t00756235@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "lastChangedOn": "2026-10-01T16:47:50.584Z",
+  "lastChangedBy": {
+    "name": "T00756235",
+    "email": "t00756235@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "data": [
+    {
+      "id": "1",
+      "guid": "a4d0b742-60cd-454d-8752-cb0696a00a00",
+      "text": "<p>test</p>",
+      "history": [
+        {
+          "affectedNodeId": "#",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-01T16:47:50.584Z",
+          "docId": "Document1",
+          "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-01T16:47:50.584Z"
+        }
+      ]
+    }
+  ],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}

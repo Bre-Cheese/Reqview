@@ -8,9 +8,9 @@
     "email": "t00756235@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-10-01T18:14:00.947Z",
+  "lastChangedOn": "2026-10-05T16:48:56.242Z",
   "lastChangedBy": {
-    "name": "Bre",
+    "name": "T00756235",
     "email": "t00756235@mytru.ca",
     "company": "Thompson Rivers University"
   },
@@ -18,7 +18,7 @@
     {
       "id": "2",
       "guid": "a7d0e07c-cf1d-40cb-93b1-3ac540969fd6",
-      "text": "<p>Vision and Scope Document</p><p>adf</p><p><br></p>",
+      "text": "<p>Vision and Scope Document</p><p><br></p><p><br></p>",
       "history": [
         {
           "attributesChanged": {
@@ -30,6 +30,17 @@
             "name": "T00748034"
           },
           "changedOn": "2026-10-01T17:04:47.292Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p>Vision and Scope Document</p><p>adf</p><p><br></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:37:40.225Z"
         }
       ]
     },
@@ -51,7 +62,20 @@
     {
       "id": "6",
       "guid": "a5233ec2-43a6-41e6-9699-f4d7eec2ce69",
-      "text": "<p>Prepared by &lt;author&gt;</p>"
+      "text": "<p>Prepared by Bre, Jay and Kyle</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p>Prepared by &lt;author&gt;</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:48:56.242Z"
+        }
+      ]
     },
     {
       "id": "7",
@@ -86,7 +110,7 @@
     {
       "id": "13",
       "guid": "0a3abf12-57e3-4ef0-aee8-8a640c3a367a",
-      "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p>",
+      "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p><p><br></p><p><span>In light of the COVID pandemic, it was discovered that the current volunteer management system is slow, unreliable, and makes proper planning difficult as it is a manual, in-person, decentralized process. An online, automated or semi-automated procedure could dramatically speed up the process while permitting for more accurate information reporting and greater reliability. Additionally, by making the process easier, it could encourage more community action, lower crime-rates, and therefore, increase local business revenue.</span></p><p><br></p>",
       "history": [
         {
           "attributesChanged": {
@@ -109,68 +133,290 @@
             "name": "T00748034"
           },
           "changedOn": "2026-10-01T17:14:25.330Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Background<span>............................................................................. </span></span><span>1</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:38:12.244Z"
         }
       ]
     },
     {
       "id": "14",
       "guid": "85d8a7d6-2ecd-4aa4-8795-fba83960d5e5",
-      "text": "<p><span>1.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Problem or Opportunity<span>........................................... </span></span><span>1</span></p>"
+      "text": "<p><span>1.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Problem or Opportunity<span>........................................... </span></span><span>1</span></p><p><br></p><p>Situation:</p><p>The current volunteer management system is in-person, manual, and decentralized.</p><p><br></p><p>Problem:</p><p>The in-person and manual aspects slow down intake, reduce intake rates, and make it difficult to contact volunteers in the case of a situation like the COVID pandemic. The decentralized nature makes it difficult to access accurate data on demand and resource</p><p><br></p><p>Implication:</p><p>&nbsp;Due to inadequate data, planning procedures can break down and The City can be blind-sided by resource shortages, causing a system failure, that otherwise could have been predicted – or even avoided. If, in the future, another COVID-like situation occurs, there could be an extreme shortage of volunteers.</p><p><br></p><p>Benefit<strong>:&nbsp;</strong></p><p>Planning procedures can become easier. Accurate reporting can predict possible system failures before they happen. The system can become more robust against emergencies. An online automated or semi-automated system can be easily adapted to serve other purposes. Additionally, businesses can benefit from increased transactions due to lower crime rate due to increased community action. This economic boon could inspire sponsors to support the project or the volunteers.</p><p><br></p><p>Vision:&nbsp;</p><p>desired future state would be a state where the recruitment process is shortened to 3 days, system failures would occur fewer than two times a year, local shops see around a 10% increase in transactions, sponsors will support the project and volunteers. The solution would be adaptable enough to support volunteer management in other facets of municipal government.</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Problem or Opportunity<span>........................................... </span></span><span>1</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:38:32.547Z"
+        }
+      ]
     },
     {
       "id": "15",
       "guid": "553d1a66-3b8c-4f62-984d-43ac9cfc57f8",
-      "text": "<p><span>1.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Objectives<span>................................................................ </span></span><span>1</span></p>"
+      "text": "<p><span>1.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Objectives<span>................................................................ </span></span><span>1</span></p><p><br></p><p>•&nbsp;The solution shall reduce volunteer assignment time (after police check) from around four days to 24 hours or less.</p><p>•&nbsp;The solution shall reduce the annual quantity of system failures to fewer than two.</p><p>•&nbsp;The system shall track 60% of senior cases.</p><p>The system shall track 85% of reported cases.</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Objectives<span>................................................................ </span></span><span>1</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:38:47.363Z"
+        }
+      ]
     },
     {
       "id": "16",
       "guid": "eaad5089-d03d-4cb7-89f8-cd884c6bc236",
-      "text": "<p><span>1.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Success Metrics<span>....................................................................... </span></span><span>1</span></p>"
+      "text": "<p><span>1.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Success Metrics<span>....................................................................... </span></span><span>1</span></p><p><br></p><p>•&nbsp;Senior health outcomes</p><p>•&nbsp;Business profit margins / transaction reporting</p><p>Volunteer intake volume</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Success Metrics<span>....................................................................... </span></span><span>1</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:38:58.066Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Success Metrics<span>....................................................................... </span></span><span>1</span></p><p><br></p><p>Criteria to assess whether the business objectives have been met or whether the trends are moving in the desired direction toward the goal.&gt;</p><p>•&nbsp;Senior health outcomes</p><p>•&nbsp;Business profit margins / transaction reporting</p><p>Volunteer intake volume</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:39:05.005Z"
+        }
+      ]
     },
     {
       "id": "17",
       "guid": "afdde4e5-fc8c-442c-9149-ab93b1c2e055",
-      "text": "<p><span>1.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Vision Statement<span>..................................................................... </span></span><span>1</span></p>"
+      "text": "<p><span>1.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Vision Statement<span>..................................................................... </span></span><span>1</span></p><p><br></p><p>TBD</p><table><tbody><tr><td><p>For The City</p></td></tr><tr><td><p>Who needs accurate reporting, speed, and reliability</p></td></tr><tr><td><p>The TBD – unnamed</p></td></tr><tr><td><p>Is a volunteer management system</p></td></tr><tr><td><p>That TBD – Don’t know best features yet</p></td></tr><tr><td><p>Unlike TBD – Don’t know competitors if any</p></td></tr><tr><td><p>Our product TBD –&nbsp;</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Vision Statement<span>..................................................................... </span></span><span>1</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:39:21.133Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Vision Statement<span>..................................................................... </span></span><span>1</span></p><p><br></p><table><tbody><tr><td><p>For The City</p></td></tr><tr><td><p>Who needs accurate reporting, speed, and reliability</p></td></tr><tr><td><p>The TBD – unnamed</p></td></tr><tr><td><p>Is a volunteer management system</p></td></tr><tr><td><p>That TBD – Don’t know best features yet</p></td></tr><tr><td><p>Unlike TBD – Don’t know competitors if any</p></td></tr><tr><td><p>Our product TBD –&nbsp;</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:39:32.108Z"
+        }
+      ]
     },
     {
       "id": "18",
       "guid": "ea3e6b48-4f5e-4e39-a602-be45fa9a578a",
-      "text": "<p><span>1.6.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Risks<span>......................................................................... </span></span><span>2</span></p>"
+      "text": "<p><span>1.6.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Risks<span>......................................................................... </span></span><span>2</span></p><p><br></p><p><span>TBD – Have not had that conversation yet</span></p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.6.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Risks<span>......................................................................... </span></span><span>2</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:39:41.883Z"
+        }
+      ]
     },
     {
       "id": "19",
       "guid": "3d689c63-df30-4d28-9c7b-54f3af4f7322",
-      "text": "<p><span>1.7.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Assumptions and Dependencies<span>.............................. </span></span><span>2</span></p>"
+      "text": "<p><span>1.7.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Assumptions and Dependencies<span>.............................. </span></span><span>2</span></p><p><br></p><ul><li>Works with an automatic government system to process background checks.</li><li>Better application process implies more volunteers</li></ul>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.7.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Assumptions and Dependencies<span>.............................. </span></span><span>2</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:39:50.663Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span>1.7.</span><span><span><span>&nbsp;&nbsp;</span></span>Business Assumptions and Dependencies<span>.............................. </span></span><span>2</span></p><p><br></p><p>•&nbsp;Works with an automatic government system to process background checks.</p><p>· Better application process implies more volunteers</p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:40:01.627Z"
+        }
+      ]
     },
     {
       "id": "20",
       "guid": "699782c3-ebe3-4d32-a3fa-d49ced8d9c71",
-      "text": "<p><span>2.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Scope and Limitations<span>.................................................................... </span></span><span>2</span></p>"
+      "text": "<p><span>2.</span><span><span><span>&nbsp; &nbsp;&nbsp;</span></span>Scope and Limitations<span>.................................................................... </span></span><span>2</span></p><p><br></p><p><span>Establish a centralized volunteer management system that shows accurate demand from seniors and possible volunteers who can help them. This system will provide faster and efficient case assignments to seniors and quickly validate qualified volunteers who wish to help.</span></p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>2.</span><span><span><span>&nbsp;&nbsp;&nbsp;&nbsp;</span></span>Scope and Limitations<span>.................................................................... </span></span><span>2</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:40:15.022Z"
+        }
+      ]
     },
     {
       "id": "21",
       "guid": "1e66ab63-d029-4dca-83c4-f67093052bbc",
-      "text": "<p><span>2.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Major Features<span>........................................................................ </span></span><span>2</span></p>"
+      "text": "<p><span>2.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Major Features<span>........................................................................ </span></span><span>2</span></p><p><br></p><p>1.&nbsp;Supports 10k to 15k cases, tracks 60% of senior cases, and provides support to 85% of reported cases.</p><p>2.&nbsp;Process background checks within 48 hours by interfacing with the upcoming automated government system as opposed to taking 10 days to do it manually.</p><p>3.&nbsp;Reduce volunteer shortage to less than two times per year.</p><p>4.&nbsp;Daily notification and forecasts of cases needed for the next week.</p><p>5. Reduce the volunteer assignment time to 30%, provide volunteer services within three days.</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>2.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Major Features<span>........................................................................ </span></span><span>2</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:40:25.004Z"
+        }
+      ]
     },
     {
       "id": "22",
       "guid": "2f36c926-979b-4124-aaff-f2e716513cf7",
-      "text": "<p><span>2.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Initial Release<span>........................................................... </span></span><span>2</span></p>"
+      "text": "<p><span>2.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Initial Release<span>........................................................... </span></span><span>2</span></p><p><br></p><p>·&nbsp;Supports 10k to 15k cases, tracks 60% of senior cases, and provides support to 85% of reported cases. This will provide support to the majority of senior citizens who need help.</p><p>·&nbsp;Process background checks within 48 hours. This will help speed up the volunteer registration system and allow volunteers to start work sooner.</p><p>·&nbsp;Reduce volunteer shortage to less than two times per year and provide daily notification and forecasts of cases needed for the next week. This will prioritize cases and prevent gaps or overlap for efficient case management.</p><p>·&nbsp;Reduce the volunteer assignment time to 30%, provide volunteer services within three days. This will provide faster aid to seniors.</p><p>· This volunteer system can reduce the crime rate, increase business transactions of Downtown shops by 10%.</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>2.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Initial Release<span>........................................................... </span></span><span>2</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:40:35.166Z"
+        }
+      ]
     },
     {
       "id": "23",
       "guid": "9fd6e45e-9193-415c-a4ca-8e6feb69f2fc",
-      "text": "<p><span>2.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Subsequent Releases<span>................................................ </span></span><span>3</span></p>"
+      "text": "<p><span>2.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Subsequent Releases<span>................................................ </span></span><span>3</span></p><p><br></p><p>·&nbsp;Increase percent of senior cases tracked and supported.</p><p><br></p><p>· Reduce volunteer assignment time.</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>2.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope of Subsequent Releases<span>................................................ </span></span><span>3</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:40:49.990Z"
+        }
+      ]
     },
     {
       "id": "24",
       "guid": "bc02ae2c-d654-415b-b7ed-b9cae4fcb0e2",
-      "text": "<p><span>2.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Limitations and Exclusions<span>..................................................... </span></span><span>3</span></p>"
+      "text": "<p><span>2.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Limitations and Exclusions<span>..................................................... </span></span><span>3</span></p><p><br></p><p><span>Does not offer remote tutors to kids but rather provides additional training and coaching for special cases</span></p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>2.4.</span><span><span><span>&nbsp;&nbsp;</span></span>Limitations and Exclusions<span>..................................................... </span></span><span>3</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:40:56.839Z"
+        }
+      ]
     },
     {
       "id": "25",
       "guid": "6ff1fcdf-9173-46b3-b76e-cd6f59c0c18e",
-      "text": "<p><span>2.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope Representation<span>.............................................................. </span></span><span>3</span></p>"
+      "text": "<p><span>2.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope Representation<span>.............................................................. </span></span><span>3</span></p><p><br></p><p><br></p>",
+      "attachments": [
+        "Document1-25_1_Context_Diagram.webp",
+        "Document1-25_2_Feature_Tree.png"
+      ],
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>2.5.</span><span><span><span>&nbsp;&nbsp;</span></span>Scope Representation<span>.............................................................. </span></span><span>3</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:47:38.597Z"
+        },
+        {
+          "addedAttachment": "Document1-25_1_Context_Diagram.webp",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:47:44.690Z"
+        },
+        {
+          "addedAttachment": "Document1-25_2_Feature_Tree.png",
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:47:58.799Z"
+        }
+      ]
     },
     {
       "id": "26",
@@ -180,17 +426,67 @@
     {
       "id": "27",
       "guid": "1a6f6e2e-ecf2-4d88-88f2-a39474166a46",
-      "text": "<p><span>3.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Stakeholder Profiles<span>................................................................ </span></span><span>3</span></p>"
+      "text": "<p><span>3.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Stakeholder Profiles<span>................................................................ </span></span><span>3</span></p><p><br></p><p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>3.1.</span><span><span><span>&nbsp;&nbsp;</span></span>Stakeholder Profiles<span>................................................................ </span></span><span>3</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:42:41.707Z"
+        }
+      ]
     },
     {
       "id": "28",
       "guid": "638abbdf-09a3-4614-8b0a-56166a178231",
-      "text": "<p><span>3.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Project Priorities<span>...................................................................... </span></span><span>4</span></p>"
+      "text": "<p><span>3.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Project Priorities<span>...................................................................... </span></span><span>4</span></p><p><br></p><p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>3.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Project Priorities<span>...................................................................... </span></span><span>4</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:42:54.061Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><span>3.2.</span><span><span><span>&nbsp;&nbsp;</span></span>Project Priorities<span>...................................................................... </span></span><span>4</span></p><p><br></p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:43:18.759Z"
+        }
+      ]
     },
     {
       "id": "29",
       "guid": "db6d530d-fa3e-4b65-ac68-65f130a2a026",
-      "text": "<p><span>3.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Deployment Considerations<span>.................................................... </span></span><span>4</span></p>"
+      "text": "<p><span>3.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Deployment Considerations<span>.................................................... </span></span><span>4</span></p><p><br></p><p>Users and access. Everyone using it is in the one city, so no multi-region setup is expected. TBD: how people will access it</p><p><br></p><p>Capacity. City estimate is 10K to 15K senior cases. Tracking 60% in year 1 means roughly 6,000 to 9,000 cases. TBD: expected number of volunteers.</p><p><br></p><p>Integration. Needs to connect to the government police certificate system (Checks will only take 48-hours once live). Until then, checks stay manual at around 10 working days.</p><p><br></p><p>Data migration. TBD: need to know what volunteer and case records exist today and what format they're in.</p><p><br></p><p>Training and process changes. The manual assignment process gets replaced. TBD: who needs training and what the new process looks like.</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span>3.3.</span><span><span><span>&nbsp;&nbsp;</span></span>Deployment Considerations<span>.................................................... </span></span><span>4</span></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00756235@mytru.ca",
+            "name": "T00756235"
+          },
+          "changedOn": "2026-10-05T16:43:31.043Z"
+        }
+      ]
     },
     {
       "id": "30",

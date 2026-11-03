@@ -9,7 +9,7 @@
     "email": "t00727415@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-03T21:38:19.719Z",
+  "lastChangedOn": "2026-11-03T21:40:26.786Z",
   "lastChangedBy": {
     "name": "T00727415",
     "email": "t00727415@mytru.ca",
@@ -54,7 +54,33 @@
     {
       "id": "8",
       "guid": "8c7191b7-910a-45e7-b38d-5636cc8e3404",
-      "text": "<p><a><span>Table of Contents</span></a></p>"
+      "text": "<p>Revision History</p>",
+      "history": [
+        {
+          "attributesChanged": {
+            "heading": null,
+            "text": "<p><a><span>Table of Contents</span></a></p>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00727415@mytru.ca",
+            "name": "T00727415"
+          },
+          "changedOn": "2026-11-03T21:39:55.868Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": "Revision History",
+            "text": null
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00727415@mytru.ca",
+            "name": "T00727415"
+          },
+          "changedOn": "2026-11-03T21:40:11.491Z"
+        }
+      ]
     },
     {
       "id": "9",
@@ -69,7 +95,44 @@
     {
       "id": "11",
       "guid": "b4b59be1-30a8-42c2-bc4c-b90055df8591",
-      "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre&nbsp;Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr></tbody></table>"
+      "text": "<p>Revision History</p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr><tr><td style=\"width:1.5in;\">Kyle Rougeau</td><td style=\"width:58.5pt;\">03/11/26</td><td style=\"width:247.7pt;\">Reformatted tables and cloned into a new doc</td><td style=\"width:1.1in;\">2.0</td></tr></tbody></table>",
+      "history": [
+        {
+          "attributesChanged": {
+            "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre&nbsp;Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00727415@mytru.ca",
+            "name": "T00727415"
+          },
+          "changedOn": "2026-11-03T21:39:28.992Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": null,
+            "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre&nbsp;Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr><tr><td style=\"width:1.5in;\">Kyle Rougeau</td><td style=\"width:58.5pt;\">03/11/26</td><td style=\"width:247.7pt;\">Reformatted tables and cloned into a new doc</td><td style=\"width:1.1in;\">2.0</td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00727415@mytru.ca",
+            "name": "T00727415"
+          },
+          "changedOn": "2026-11-03T21:39:41.388Z"
+        },
+        {
+          "attributesChanged": {
+            "heading": "Revision History",
+            "text": "<table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr><tr><td style=\"width:1.5in;\">Kyle Rougeau</td><td style=\"width:58.5pt;\">03/11/26</td><td style=\"width:247.7pt;\">Reformatted tables and cloned into a new doc</td><td style=\"width:1.1in;\">2.0</td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "Thompson Rivers University",
+            "email": "t00727415@mytru.ca",
+            "name": "T00727415"
+          },
+          "changedOn": "2026-11-03T21:40:26.786Z"
+        }
+      ]
     },
     {
       "id": "12",

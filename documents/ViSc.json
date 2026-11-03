@@ -1,0 +1,425 @@
+{
+  "id": "ViSc",
+  "guid": "e1ae531f-1fdc-436c-998b-1c88fe2b2b1c",
+  "name": "Vision and Scope Document",
+  "lastId": 69,
+  "createdOn": "2026-11-03T21:38:19.719Z",
+  "createdBy": {
+    "name": "T00727415",
+    "email": "t00727415@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "lastChangedOn": "2026-11-03T21:38:19.719Z",
+  "lastChangedBy": {
+    "name": "T00727415",
+    "email": "t00727415@mytru.ca",
+    "company": "Thompson Rivers University"
+  },
+  "data": [
+    {
+      "id": "1",
+      "guid": "05de2197-e589-4d77-90ee-64c8e1a9915e",
+      "text": "<p>Vision and Scope Document</p><p><br></p><p><br></p>"
+    },
+    {
+      "id": "2",
+      "guid": "81d1f757-4d30-4d22-b616-1a4e0b646c91",
+      "text": "<p><span>for</span></p>"
+    },
+    {
+      "id": "3",
+      "guid": "a95f7072-295f-418e-a7eb-a32f982b0b76",
+      "text": "<p>&lt;Project&gt;</p>"
+    },
+    {
+      "id": "4",
+      "guid": "b88298e9-b84e-464e-bda3-2b08025fb038",
+      "text": "<p>Version 1.0 approved</p>"
+    },
+    {
+      "id": "5",
+      "guid": "4bce4d9a-4366-4b0d-8117-e2d7a7fc6a66",
+      "text": "<p>Prepared by Bre, Jay and Kyle</p>"
+    },
+    {
+      "id": "6",
+      "guid": "2af630cc-d739-4772-a631-b70eb9eaff41",
+      "text": "<p>&lt;organization&gt;</p>"
+    },
+    {
+      "id": "7",
+      "guid": "2ebdef97-ac20-4ad0-a884-da64de83daa5",
+      "text": "<p>&lt;date created&gt;</p>"
+    },
+    {
+      "id": "8",
+      "guid": "8c7191b7-910a-45e7-b38d-5636cc8e3404",
+      "text": "<p><a><span>Table of Contents</span></a></p>"
+    },
+    {
+      "id": "9",
+      "guid": "540f7b2b-310d-4240-ac98-a75f79cdbf64",
+      "text": "<p><span>Table of Contents<span>................................................................................. </span></span><span>ii</span></p>"
+    },
+    {
+      "id": "10",
+      "guid": "73b04dcb-ccb5-4a09-9d86-780c90ffbc4a",
+      "text": "<p><span>Revision History<span>................................................................................... </span></span><span>ii</span></p>"
+    },
+    {
+      "id": "11",
+      "guid": "b4b59be1-30a8-42c2-bc4c-b90055df8591",
+      "text": "<p><span><a>Revision History</a></span></p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre&nbsp;Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr></tbody></table>"
+    },
+    {
+      "id": "12",
+      "guid": "7fae6dd1-a2e8-4e91-aa5f-aeb1b99eb381",
+      "heading": "Business Requirements",
+      "children": [
+        {
+          "id": "13",
+          "guid": "1902e8be-fa1a-4bbb-9807-a80863e1b67c",
+          "heading": "Background",
+          "text": "<p><span>In light of the COVID pandemic, it was discovered that the current volunteer management system is slow, unreliable, and makes proper planning difficult as it is a manual, in-person, decentralized process. An online, automated or semi-automated procedure could dramatically speed up the process while permitting for more accurate information reporting and greater reliability. Additionally, by making the process easier, it could encourage more community action, lower crime-rates, and therefore, increase local business revenue.</span></p><p><br></p>"
+        },
+        {
+          "id": "14",
+          "guid": "ea164607-1313-4ef4-ad17-745000b34fdd",
+          "heading": "Business Problem or Opportunity",
+          "text": "<p>Situation:</p><p>The current volunteer management system is in-person, manual, and decentralized.</p><p><br></p><p>Problem:</p><p>The in-person and manual aspects slow down intake, reduce intake rates, and make it difficult to contact volunteers in the case of a situation like the COVID pandemic. The decentralized nature makes it difficult to access accurate data on demand and resource</p><p><br></p><p>Implication:</p><p>&nbsp;Due to inadequate data, planning procedures can break down and The City can be blind-sided by resource shortages, causing a system failure, that otherwise could have been predicted – or even avoided. If, in the future, another COVID-like situation occurs, there could be an extreme shortage of volunteers.</p><p><br></p><p>Benefit<strong>:&nbsp;</strong></p><p>Planning procedures can become easier. Accurate reporting can predict possible system failures before they happen. The system can become more robust against emergencies. An online automated or semi-automated system can be easily adapted to serve other purposes. Additionally, businesses can benefit from increased transactions due to lower crime rate due to increased community action. This economic boon could inspire sponsors to support the project or the volunteers.</p><p><br></p><p>Vision:&nbsp;</p><p>desired future state would be a state where the recruitment process is shortened to 3 days, system failures would occur fewer than two times a year, local shops see around a 10% increase in transactions, sponsors will support the project and volunteers. The solution would be adaptable enough to support volunteer management in other facets of municipal government.</p>"
+        },
+        {
+          "id": "15",
+          "guid": "77352298-e571-4e87-8c4e-2b3a161054a6",
+          "heading": "Business Objectives",
+          "children": [
+            {
+              "id": "16",
+              "guid": "4eddac83-f5d7-4fea-917d-b8cf347666e9",
+              "heading": "The system shall track 85% of reported cases."
+            },
+            {
+              "id": "17",
+              "guid": "2ddde0ae-bf8e-47a5-9343-b3a0923acaf0",
+              "heading": "The system shall track 60% of senior cases."
+            },
+            {
+              "id": "18",
+              "guid": "7553a013-5614-410f-843c-48fa7472b8ad",
+              "heading": "The solution shall reduce the annual quantity of system failures to fewer than two."
+            },
+            {
+              "id": "19",
+              "guid": "35aab811-1f82-49f4-9156-6f89c3ad9e77",
+              "heading": "The solution shall reduce volunteer assignment time (after police check) from around four days to 24 hours or less."
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "guid": "a062b39c-99a3-4851-8c29-4833d73548d5",
+          "heading": "Success Metrics",
+          "children": [
+            {
+              "id": "21",
+              "guid": "97e88e6d-4695-49f4-9dab-63b6bbc163df",
+              "heading": "Volunteer intake volume"
+            },
+            {
+              "id": "22",
+              "guid": "27830ed5-b4ef-40fb-8afd-df69dafb369c",
+              "heading": "Business profit margins / transaction reporting"
+            },
+            {
+              "id": "23",
+              "guid": "ba0a4c8c-a3e9-4afe-946f-74acebc387df",
+              "heading": "Senior health outcomes"
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "guid": "a440b960-622d-4513-a4dd-b804ee6981f9",
+          "heading": "Vision Statement",
+          "text": "<p>TBD</p><table><tbody><tr><td><p>For The City</p></td></tr><tr><td><p>Who needs accurate reporting, speed, and reliability</p></td></tr><tr><td><p>The TBD – unnamed</p></td></tr><tr><td><p>Is a volunteer management system</p></td></tr><tr><td><p>That TBD – Don’t know best features yet</p></td></tr><tr><td><p>Unlike TBD – Don’t know competitors if any</p></td></tr><tr><td><p>Our product TBD –&nbsp;</p></td></tr></tbody></table>"
+        },
+        {
+          "id": "25",
+          "guid": "9541243f-317d-43ae-a128-9fe2a457b625",
+          "heading": "Business Risks",
+          "text": "<p><span>TBD – Have not had that conversation yet</span></p>"
+        },
+        {
+          "id": "26",
+          "guid": "b258d1ad-951e-43d4-bd7c-a7475cf50f45",
+          "heading": "Business Assumptions and Dependencies",
+          "children": [
+            {
+              "id": "27",
+              "guid": "cc28f1a4-8670-4a24-b6c8-84fb6f89071f",
+              "heading": "Better application process implies more volunteers"
+            },
+            {
+              "id": "28",
+              "guid": "51d05d76-ddd6-4ec7-b3d9-9fe79cf23a15",
+              "heading": "Works with an automatic government system to process background checks."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "guid": "8fbe06f6-4f4c-4008-9ced-4d23e79b8a1e",
+      "heading": "Scope and Limitations",
+      "text": "<p><span>Establish a centralized volunteer management system that shows accurate demand from seniors and possible volunteers who can help them. This system will provide faster and efficient case assignments to seniors and quickly validate qualified volunteers who wish to help.</span></p>",
+      "children": [
+        {
+          "id": "30",
+          "guid": "cb1937d1-0ffd-4a3a-bcdd-120368861b7c",
+          "heading": "Major Features",
+          "children": [
+            {
+              "id": "31",
+              "guid": "14c8d466-a525-4dbe-9373-19d12c8da1a0",
+              "heading": "Reduce the volunteer assignment time to 30%, provide volunteer services within three days."
+            },
+            {
+              "id": "32",
+              "guid": "5e6ac1de-16f6-4d30-a8c6-a796d6ef883a",
+              "heading": "Daily notification and forecasts of cases needed for the next week."
+            },
+            {
+              "id": "33",
+              "guid": "df9982b3-3b5c-4c7e-9427-c6e6f0b51e61",
+              "heading": "Reduce volunteer shortage to less than two times per year."
+            },
+            {
+              "id": "34",
+              "guid": "cf9cc6d2-2f94-4b79-bfee-2a662005c87d",
+              "heading": "Process background checks within 48 hours by interfacing with the upcoming automated government system as opposed to taking 10 days to do it manually."
+            },
+            {
+              "id": "35",
+              "guid": "0d506e0c-89a9-4e41-a6ee-1dc90518917a",
+              "heading": "Supports 10k to 15k cases, tracks 60% of senior cases, and provides support to 85% of reported cases."
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "guid": "916755e6-d73c-41cf-a2d8-91579e869dd7",
+          "heading": "Scope of Initial Release",
+          "children": [
+            {
+              "id": "37",
+              "guid": "9e676250-a5e0-48c5-a339-002776a9eb25",
+              "heading": "This volunteer system can reduce the crime rate, increase business transactions of Downtown shops by 10%."
+            },
+            {
+              "id": "38",
+              "guid": "6b140145-7f12-415f-a22b-0fac49dbd32f",
+              "heading": "Reduce the volunteer assignment time to 30%, provide volunteer services within three days. This will provide faster aid to seniors."
+            },
+            {
+              "id": "39",
+              "guid": "9053379b-a28a-4bbc-81d0-00635ccbbc33",
+              "heading": "Reduce volunteer shortage to less than two times per year and provide daily notification and forecasts of cases needed for the next week. This will prioritize cases and prevent gaps or overlap for efficient case management."
+            },
+            {
+              "id": "40",
+              "guid": "ea2a79eb-b8a8-4e53-8565-d3c4b75e7da5",
+              "heading": "Process background checks within 48 hours. This will help speed up the volunteer registration system and allow volunteers to start work sooner."
+            },
+            {
+              "id": "41",
+              "guid": "3b275bfe-74d9-4a9b-9d0a-458c242cfb05",
+              "heading": "Supports 10k to 15k cases, tracks 60% of senior cases, and provides support to 85% of reported cases. This will provide support to the majority of senior citizens who need help."
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "guid": "7b001138-d4f8-42a6-a655-a92a0d4a2e8c",
+          "heading": "Scope of Subsequent Releases",
+          "children": [
+            {
+              "id": "43",
+              "guid": "d8a1f98b-a1c3-412f-9cfb-6d76d29211f1",
+              "heading": "Reduce volunteer assignment time."
+            },
+            {
+              "id": "44",
+              "guid": "6e2d25e3-38a3-448e-8ae5-11c4f515185d",
+              "heading": "Increase percent of senior cases tracked and supported."
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "guid": "e2d33f89-c06f-424c-95ef-467e1cabefa1",
+          "heading": "Limitations and Exclusions",
+          "text": "<p><span>Does not offer remote tutors to kids but rather provides additional training and coaching for special cases</span></p>"
+        },
+        {
+          "id": "46",
+          "guid": "c9ec6f7a-8deb-4c1e-ac27-cbc95fae9ada",
+          "heading": "Scope Representation",
+          "children": [
+            {
+              "id": "47",
+              "guid": "3bcbaeaa-54dd-43fb-bbd4-e0f1066c9bef",
+              "attachments": [
+                "ViSc-47_1_Context_Diagram.webp"
+              ]
+            },
+            {
+              "id": "48",
+              "guid": "566091b2-0cc6-410c-a305-669c112df805",
+              "attachments": [
+                "ViSc-48_1_Feature_Tree.png"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "guid": "4295dacb-cdc6-466f-9185-f92bba0c4a9f",
+      "heading": "Business Context",
+      "children": [
+        {
+          "id": "50",
+          "guid": "67206e3f-3711-4183-9e2f-5b73b3020296",
+          "heading": "Stakeholder Profiles",
+          "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead></table>",
+          "children": [
+            {
+              "id": "51",
+              "guid": "d11b140a-194c-4b8e-a897-10510865f03d",
+              "text": "<table><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "52",
+              "guid": "525a08c3-0bcc-416f-a171-d43a978e4f0f",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 14.5455%;\"><col style=\"width: 12.3636%;\"><col style=\"width: 8%;\"><col style=\"width: 7.2727%;\"><col style=\"width: 50.5455%;\"><col style=\"width: 7.2727%;\"></colgroup><tbody><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "53",
+              "guid": "bdf4c573-23b5-46f9-a161-26f9e7757409",
+              "text": "<table><tbody><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "54",
+              "guid": "c89abaac-c504-4706-8e79-dc60632d8c28",
+              "text": "<table><tbody><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "55",
+              "guid": "5664dfee-e3b8-4936-a428-295a362bd0b7",
+              "text": "<table><tbody><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "56",
+              "guid": "863bfa18-dd3c-46f2-b8c8-60b43cc5991b",
+              "text": "<table><tbody><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "57",
+              "guid": "9d97a958-df78-44a9-9838-1ae05746788a",
+              "text": "<table><tbody><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "guid": "55bd19d6-623e-4106-a8e7-bd0b390796a0",
+          "heading": "Project Priorities",
+          "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead></table>",
+          "children": [
+            {
+              "id": "59",
+              "guid": "1583e607-7193-4dad-aa63-4edc1c079d00",
+              "text": "<table><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "60",
+              "guid": "93a228da-c237-41c3-8ee4-ae52d593616f",
+              "text": "<table><tbody><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "61",
+              "guid": "8cc8d3b5-30cc-459d-a22f-e3f160a2ca27",
+              "text": "<table><tbody><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "62",
+              "guid": "b1c804c7-1684-4aa3-a825-31d0c70edd07",
+              "text": "<table><tbody><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+            },
+            {
+              "id": "63",
+              "guid": "4a0bd081-c5d2-4217-bdda-c4f4a34a6b73",
+              "text": "<table><tbody><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "guid": "1ad42a52-20af-466e-be5e-81c8e4eb8ced",
+          "heading": "Deployment Considerations",
+          "children": [
+            {
+              "id": "65",
+              "guid": "da1220f3-5ca7-487a-a363-a2f9aec69d17",
+              "heading": "Training and process changes. The manual assignment process gets replaced. TBD: who needs training and what the new process looks like."
+            },
+            {
+              "id": "66",
+              "guid": "9713f311-c1db-4719-b316-37826b12c12e",
+              "heading": "Data migration. TBD: need to know what volunteer and case records exist today and what format they're in."
+            },
+            {
+              "id": "67",
+              "guid": "3a4cdc09-3fa4-427a-871a-6e04ca184e0f",
+              "heading": "Integration. Needs to connect to the government police certificate system (Checks will only take 48-hours once live). Until then, checks stay manual at around 10 working days."
+            },
+            {
+              "id": "68",
+              "guid": "8b10b7e3-edf6-415d-a9e2-caedde04907d",
+              "heading": "Capacity. City estimate is 10K to 15K senior cases. Tracking 60% in year 1 means roughly 6,000 to 9,000 cases. TBD: expected number of volunteers."
+            },
+            {
+              "id": "69",
+              "guid": "2183ef1e-7321-4be7-94f0-e3fdb1b73f2e",
+              "heading": "Users and access. Everyone using it is in the one city, so no multi-region setup is expected. TBD: how people will access it"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}

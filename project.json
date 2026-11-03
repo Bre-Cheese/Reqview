@@ -1,7 +1,8 @@
 {
   "id": "Assignment 1",
   "documents": [
-    "Document1.json"
+    "Document1.json",
+    "ViSc.json"
   ],
   "traceability": {
     "reference": {

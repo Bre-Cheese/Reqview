@@ -1,14 +1,14 @@
 {
   "id": "Document1",
   "guid": "1d93e154-0a86-4c57-9c83-d2e748d247ac",
-  "lastId": 150,
+  "lastId": 166,
   "createdOn": "2026-10-01T16:47:43.949Z",
   "createdBy": {
     "name": "T00756235",
     "email": "t00756235@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-02T23:06:01.060Z",
+  "lastChangedOn": "2026-11-03T21:33:03.853Z",
   "lastChangedBy": {
     "name": "T00727415",
     "email": "t00727415@mytru.ca",
@@ -1551,10 +1551,6 @@
           "id": "25",
           "guid": "6ff1fcdf-9173-46b3-b76e-cd6f59c0c18e",
           "heading": "Scope Representation",
-          "attachments": [
-            "Document1-25_1_Context_Diagram.webp",
-            "Document1-25_2_Feature_Tree.png"
-          ],
           "history": [
             {
               "attributesChanged": {
@@ -1607,6 +1603,106 @@
                 "name": "T00727415"
               },
               "changedOn": "2026-11-02T22:38:23.604Z"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00727415@mytru.ca",
+                "name": "T00727415"
+              },
+              "changedOn": "2026-11-03T21:29:23.901Z",
+              "removedAttachment": "Document1-25_1_Context_Diagram.webp"
+            },
+            {
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00727415@mytru.ca",
+                "name": "T00727415"
+              },
+              "changedOn": "2026-11-03T21:29:48.228Z",
+              "removedAttachment": "Document1-25_2_Feature_Tree.png"
+            }
+          ],
+          "children": [
+            {
+              "id": "159",
+              "guid": "5fb7edbe-9288-4b5d-8d4d-db2bc169e40d",
+              "attachments": [
+                "Document1-159_1_Context_Diagram.webp"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "25",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:26:26.238Z",
+                  "docId": "Document1",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:27:45.270Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><a href=\"#\" style=\"text-align: start;\">Document1-25_1_Context_Diagram.webp</a></p><p><br></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:29:12.351Z"
+                },
+                {
+                  "addedAttachment": "Document1-159_1_Context_Diagram.webp",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:29:18.432Z"
+                }
+              ]
+            },
+            {
+              "id": "160",
+              "guid": "abf98ae2-505b-49ab-adea-c581c27172f8",
+              "attachments": [
+                "Document1-160_1_Feature_Tree.png"
+              ],
+              "history": [
+                {
+                  "affectedNodeId": "25",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:29:37.992Z",
+                  "docId": "Document1",
+                  "structureAction": "Create"
+                },
+                {
+                  "addedAttachment": "Document1-160_1_Feature_Tree.png",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:29:42.618Z"
+                }
+              ]
             }
           ]
         }
@@ -1635,7 +1731,7 @@
           "id": "112",
           "guid": "7daf7d5c-a6c1-4216-ac66-c7f0c45728b8",
           "heading": "Stakeholder Profiles",
-          "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>",
+          "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead></table>",
           "history": [
             {
               "affectedNodeId": "27",
@@ -1659,6 +1755,304 @@
                 "name": "T00727415"
               },
               "changedOn": "2026-11-02T22:39:19.335Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00727415@mytru.ca",
+                "name": "T00727415"
+              },
+              "changedOn": "2026-11-03T21:20:57.198Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p><br></p></td><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td></tr><tr><td><br></td><td><br></td><td><br></td><td><br></td><td><br></td><td><p><br></p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00727415@mytru.ca",
+                "name": "T00727415"
+              },
+              "changedOn": "2026-11-03T21:21:22.364Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "151",
+              "guid": "9461b95d-9374-4526-8fa2-97c0c4ff9fb8",
+              "text": "<table><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "112",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:16:26.936Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Stakeholder Profiles",
+                    "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:17:29.948Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><br></p><table><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr></tbody></table><p><br></p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:23:08.412Z"
+                }
+              ]
+            },
+            {
+              "id": "152",
+              "guid": "17a16b6b-2e52-47c8-8fd0-80c56186e54c",
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 14.5455%;\"><col style=\"width: 12.3636%;\"><col style=\"width: 8%;\"><col style=\"width: 7.2727%;\"><col style=\"width: 50.5455%;\"><col style=\"width: 7.2727%;\"></colgroup><tbody><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "112",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:18:26.402Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Stakeholder Profiles",
+                    "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:21:58.922Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><br></p><table><tbody><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:23:01.996Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><tbody><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:23:50.217Z"
+                }
+              ]
+            },
+            {
+              "id": "154",
+              "guid": "2249138a-a4bd-454f-9f7d-c99492c2c10e",
+              "text": "<table><tbody><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "152",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:19:38.288Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:22:21.944Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Stakeholder Profiles"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:22:26.185Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p><br></p><table><tbody><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:22:59.324Z"
+                }
+              ]
+            },
+            {
+              "id": "155",
+              "guid": "5bdf2a0f-e855-407e-b428-43391ab4b0ac",
+              "text": "<table><tbody><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "154",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:19:54.304Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Stakeholder Profiles",
+                    "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:22:54.667Z"
+                }
+              ]
+            },
+            {
+              "id": "156",
+              "guid": "54cab890-f466-4c6f-b060-24a3d53cbd7e",
+              "text": "<table><tbody><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "155",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:20:04.250Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:24:19.405Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Stakeholder Profiles"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:24:23.284Z"
+                }
+              ]
+            },
+            {
+              "id": "157",
+              "guid": "ba0cd09c-54cd-4dcf-81af-3ff06d178667",
+              "text": "<table><tbody><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "156",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:20:14.962Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Stakeholder Profiles",
+                    "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:24:41.082Z"
+                }
+              ]
+            },
+            {
+              "id": "158",
+              "guid": "11fc6c81-8632-41f7-a455-e4c3c36ee2e9",
+              "text": "<table><tbody><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "157",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:20:22.126Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Stakeholder Profiles",
+                    "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead><tbody><tr><td><p>Mayor</p></td><td><p>Project Sponsor</p></td><td><p>High</p></td><td><p>High</p></td><td><p>Central view of demand and volunteers</p><p><br></p><p>Daily forecast of next week's needed cases</p><p><br></p><p>Year 1: track 60% of senior cases, support 85% of reported cases</p><p><br></p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Sudden volunteer shortage</p><p><br></p><p>Volunteers without the minimum education level</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr><tr><td><p>Administrator of Elementary Education</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Med</p></td><td><p>More dedicated coaching and teaching hours for kids with special cases</p></td><td><p>Volunteers without minimum educational skills</p><p><br></p><p>Volunteers without a police background check</p></td></tr><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:24:59.779Z"
+                }
+              ]
             }
           ]
         },
@@ -1666,7 +2060,7 @@
           "id": "113",
           "guid": "f1d8643e-30a9-4def-b8e6-2a94dd4b908d",
           "heading": "Project Priorities",
-          "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>",
+          "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead></table>",
           "history": [
             {
               "affectedNodeId": "28",
@@ -1690,6 +2084,210 @@
                 "name": "T00727415"
               },
               "changedOn": "2026-11-02T22:39:37.723Z"
+            },
+            {
+              "attributesChanged": {
+                "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              },
+              "changedBy": {
+                "company": "Thompson Rivers University",
+                "email": "t00727415@mytru.ca",
+                "name": "T00727415"
+              },
+              "changedOn": "2026-11-03T21:31:05.288Z"
+            }
+          ],
+          "children": [
+            {
+              "id": "162",
+              "guid": "999359fb-47f6-401f-aa73-840ddb20c07b",
+              "text": "<table><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "113",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:30:26.031Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:31:37.342Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Project Priorities"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:31:41.098Z"
+                }
+              ]
+            },
+            {
+              "id": "163",
+              "guid": "336a5d8c-83e8-49d6-9b5a-33d8e78eff9c",
+              "text": "<table><tbody><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "162",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:30:33.703Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:31:54.525Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Project Priorities"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:32:16.119Z"
+                }
+              ]
+            },
+            {
+              "id": "164",
+              "guid": "1a077879-b494-4d36-a9fd-7a51ab98a970",
+              "text": "<table><tbody><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "163",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:30:42.000Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:32:10.179Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Project Priorities"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:32:14.087Z"
+                }
+              ]
+            },
+            {
+              "id": "165",
+              "guid": "72f50cd8-60c7-4ed6-9900-714b4291945a",
+              "text": "<table><tbody><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "164",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:30:45.067Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Project Priorities",
+                    "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:32:23.224Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": "<table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:32:39.919Z"
+                }
+              ]
+            },
+            {
+              "id": "166",
+              "guid": "7ffe714e-cbde-494e-aa02-272a5936ba07",
+              "text": "<table><tbody><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "history": [
+                {
+                  "affectedNodeId": "165",
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:30:50.709Z",
+                  "docId": "Document1",
+                  "structureAction": "Copy"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Project Priorities",
+                    "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "Thompson Rivers University",
+                    "email": "t00727415@mytru.ca",
+                    "name": "T00727415"
+                  },
+                  "changedOn": "2026-11-03T21:32:52.677Z"
+                }
+              ]
             }
           ]
         },

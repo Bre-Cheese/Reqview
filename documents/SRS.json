@@ -1,0 +1,41 @@
+{
+  "id": "SRS",
+  "guid": "93f0fa59-2c2f-4613-ae2d-fb12b6ccaa83",
+  "name": "SRS",
+  "lastId": 0,
+  "createdOn": "2026-11-05T16:47:03.810Z",
+  "createdBy": {
+    "name": "Bre",
+    "email": "a@mgail.com",
+    "company": "a"
+  },
+  "lastChangedOn": "2026-11-05T16:47:03.810Z",
+  "lastChangedBy": {
+    "name": "Bre",
+    "email": "a@mgail.com",
+    "company": "a"
+  },
+  "data": [],
+  "attributes": {
+  },
+  "templateColumns": {
+  },
+  "views": {
+    "Primary": {
+      "columns": [
+        {
+          "columnId": "id",
+          "width": 65
+        },
+        {
+          "columnId": "description",
+          "width": 500
+        }
+      ],
+      "default": true
+    }
+  },
+  "metadata": {
+    "format": "2.22"
+  }
+}

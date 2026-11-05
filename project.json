@@ -2,7 +2,6 @@
   "id": "Assignment 1",
   "documents": [
     "ViSc.json",
-    "SRS.json",
     "URD.json"
   ],
   "traceability": {

@@ -2,13 +2,110 @@
   "id": "Assignment 1",
   "documents": [
     "ViSc.json",
-    "SRS.json"
+    "SRS.json",
+    "URD.json"
   ],
   "traceability": {
     "reference": {
       "name": "Reference",
       "source": "References",
       "target": "Referenced by"
+    }
+  },
+  "integrations": {
+    "reqif": {
+      "datatypes": {
+        "_4cd886c5-f815-40ec-8794-162b397bd9df": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "XHTMLString",
+          "type": "XHTML"
+        },
+        "_4f162905-729a-41cb-a814-3efa373962a2": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "String",
+          "type": "STRING"
+        },
+        "_abb3533d-d5e5-491e-8830-fa938d7de07e": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "DateTime",
+          "type": "DATE"
+        }
+      },
+      "specTypes": {
+        "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295": {
+          "lastChange": "2026-11-05T17:01:29.396Z",
+          "longName": "URD Object Type",
+          "specAttributes": {
+            "_08ea30de-74be-4780-a76f-caed13cd7ce7": {
+              "datatypeRef": "_4f162905-729a-41cb-a814-3efa373962a2",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignID",
+              "reqviewAttrId": "ForeignID",
+              "type": "STRING"
+            },
+            "_a966b594-bb5d-4d87-97ac-89e62fb547d7": {
+              "datatypeRef": "_4f162905-729a-41cb-a814-3efa373962a2",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ChapterName",
+              "reqviewAttrId": "heading",
+              "type": "STRING"
+            },
+            "_c3d90ecf-8d42-4b4e-b93f-0dc1e9904177": {
+              "datatypeRef": "_4cd886c5-f815-40ec-8794-162b397bd9df",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.Text",
+              "reqviewAttrId": "text",
+              "type": "XHTML"
+            }
+          },
+          "type": "SPEC-OBJECT-TYPE"
+        },
+        "_8a34bad8-298f-464b-851c-d5572917f666": {
+          "lastChange": "2026-11-05T17:01:29.396Z",
+          "longName": "URD Type",
+          "specAttributes": {
+            "_2514d2d7-874b-4a14-8b4c-c0fe2bf75354": {
+              "datatypeRef": "_4f162905-729a-41cb-a814-3efa373962a2",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignCreatedBy",
+              "type": "STRING"
+            },
+            "_629e1203-2c65-4c89-84d3-55c834ee5f38": {
+              "datatypeRef": "_abb3533d-d5e5-491e-8830-fa938d7de07e",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignCreatedOn",
+              "type": "DATE"
+            },
+            "_6f154c67-8b5e-46ca-ba67-4726d0bad8f3": {
+              "datatypeRef": "_4f162905-729a-41cb-a814-3efa373962a2",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignID",
+              "type": "STRING"
+            },
+            "_74fc2632-2637-4f20-aff5-bcf602bdc1e3": {
+              "datatypeRef": "_4cd886c5-f815-40ec-8794-162b397bd9df",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.Description",
+              "type": "XHTML"
+            },
+            "_7ef3a914-441a-46aa-9198-b2fa14eff4d5": {
+              "datatypeRef": "_4f162905-729a-41cb-a814-3efa373962a2",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignModifiedBy",
+              "type": "STRING"
+            }
+          },
+          "type": "SPECIFICATION-TYPE"
+        }
+      }
     }
   },
   "metadata": {

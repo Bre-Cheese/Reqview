@@ -9,11 +9,11 @@
     "email": "t00727415@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-03T21:40:26.786Z",
+  "lastChangedOn": "2026-11-05T17:13:50.582Z",
   "lastChangedBy": {
-    "name": "T00727415",
-    "email": "t00727415@mytru.ca",
-    "company": "Thompson Rivers University"
+    "name": "Bre",
+    "email": "a@mgail.com",
+    "company": "a"
   },
   "data": [
     {
@@ -236,6 +236,64 @@
       "guid": "8fbe06f6-4f4c-4008-9ced-4d23e79b8a1e",
       "heading": "Scope and Limitations",
       "text": "<p><span>Establish a centralized volunteer management system that shows accurate demand from seniors and possible volunteers who can help them. This system will provide faster and efficient case assignments to seniors and quickly validate qualified volunteers who wish to help.</span></p>",
+      "history": [
+        {
+          "addedLink": {
+            "target": [
+              "ViSc-30"
+            ],
+            "type": "reference"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-05T17:13:16.032Z"
+        },
+        {
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-05T17:13:25.515Z",
+          "removedLink": {
+            "target": [
+              "ViSc-30"
+            ],
+            "type": "reference"
+          }
+        },
+        {
+          "addedLink": {
+            "target": [
+              "URD-15"
+            ],
+            "type": "reference"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-05T17:13:40.891Z"
+        },
+        {
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-05T17:13:50.582Z",
+          "removedLink": {
+            "target": [
+              "URD-15"
+            ],
+            "type": "reference"
+          }
+        }
+      ],
       "children": [
         {
           "id": "30",

@@ -788,10 +788,50 @@
     "Status": {
       "name": "Status",
       "type": "string"
+    },
+    "Priority": {
+      "name": "Priority",
+      "type": "enum",
+      "values": [
+        {
+          "key": "Low"
+        },
+        {
+          "key": "Medium"
+        },
+        {
+          "key": "High"
+        }
+      ]
+    },
+    "Source": {
+      "name": "Source",
+      "type": "string"
+    },
+    "Owner": {
+      "name": "Owner",
+      "type": "string"
+    },
+    "VerificationMethod": {
+      "name": "Verification Method",
+      "type": "enum",
+      "values": [
+        {
+          "key": "Inspection"
+        },
+        {
+          "key": "Analysis"
+        },
+        {
+          "key": "Demonstration"
+        },
+        {
+          "key": "Test"
+        }
+      ]
     }
   },
-  "templateColumns": {
-  },
+  "templateColumns": {},
   "views": {
     "Primary": {
       "columns": [

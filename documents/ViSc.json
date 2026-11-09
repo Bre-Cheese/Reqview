@@ -9,7 +9,7 @@
     "email": "t00727415@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-09T17:02:57.715Z",
+  "lastChangedOn": "2026-11-09T17:09:34.039Z",
   "lastChangedBy": {
     "name": "Bre",
     "email": "a@mgail.com",
@@ -95,7 +95,7 @@
     {
       "id": "11",
       "guid": "b4b59be1-30a8-42c2-bc4c-b90055df8591",
-      "text": "<p>Revision History</p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr><tr><td style=\"width:1.5in;\">Kyle Rougeau</td><td style=\"width:58.5pt;\">03/11/26</td><td style=\"width:247.7pt;\">Reformatted tables and cloned into a new doc</td><td style=\"width:1.1in;\">2.0</td></tr></tbody></table>",
+      "text": "<p>Revision History</p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr><tr><td style=\"width:1.5in;\">Kyle Rougeau</td><td style=\"width:58.5pt;\">03/11/26</td><td style=\"width:247.7pt;\">Reformatted tables and cloned into a new doc</td><td style=\"width:1.1in;\">2.0</td></tr><tr><td style=\"width:1.5in;\">Bre Mayall</td><td style=\"width:58.5pt;\">09/11/26</td><td style=\"width:247.7pt;\">Added a \"TBD\" status attribute to objects. this was done to support trackability and document completeness.<br></td><td style=\"width:1.1in;\">2.1</td></tr></tbody></table>",
       "history": [
         {
           "attributesChanged": {
@@ -131,6 +131,17 @@
             "name": "T00727415"
           },
           "changedOn": "2026-11-03T21:40:26.786Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p>Revision History</p><table><tbody><tr><td style=\"width:1.5in;\"><p>Name</p></td><td style=\"width:58.5pt;\"><p>Date</p></td><td style=\"width:247.7pt;\"><p>Reason For Changes</p></td><td style=\"width:1.1in;\"><p>Version</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Bre Mayall</p></td><td style=\"width:58.5pt;\"><p>&nbsp;05/10/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Full Commit</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.0</p></td></tr><tr><td style=\"width:1.5in;\"><p>&nbsp;Kyle Rougeau</p></td><td style=\"width:58.5pt;\"><p>&nbsp;02/11/26</p></td><td style=\"width:247.7pt;\"><p>&nbsp;Reformatting for integrity and traceability</p></td><td style=\"width:1.1in;\"><p>&nbsp;1.1</p></td></tr><tr><td style=\"width:1.5in;\">Kyle Rougeau</td><td style=\"width:58.5pt;\">03/11/26</td><td style=\"width:247.7pt;\">Reformatted tables and cloned into a new doc</td><td style=\"width:1.1in;\">2.0</td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-09T17:09:34.039Z"
         }
       ]
     },

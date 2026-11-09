@@ -4490,10 +4490,50 @@
     "TBD": {
       "name": "Status",
       "type": "string"
+    },
+    "Priority": {
+      "name": "Priority",
+      "type": "enum",
+      "values": [
+        {
+          "key": "Low"
+        },
+        {
+          "key": "Medium"
+        },
+        {
+          "key": "High"
+        }
+      ]
+    },
+    "Source": {
+      "name": "Source",
+      "type": "string"
+    },
+    "Owner": {
+      "name": "Owner",
+      "type": "string"
+    },
+    "VerificationMethod": {
+      "name": "Verification Method",
+      "type": "enum",
+      "values": [
+        {
+          "key": "Inspection"
+        },
+        {
+          "key": "Analysis"
+        },
+        {
+          "key": "Demonstration"
+        },
+        {
+          "key": "Test"
+        }
+      ]
     }
   },
-  "templateColumns": {
-  },
+  "templateColumns": {},
   "views": {
     "Primary": {
       "columns": [
@@ -5425,8 +5465,7 @@
           "specObjectTypeRef": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
         }
       },
-      "specRelations": {
-      },
+      "specRelations": {},
       "specification": {
         "attrValues": {
           "_2514d2d7-874b-4a14-8b4c-c0fe2bf75354": "Bre, a, a@mgail.com",

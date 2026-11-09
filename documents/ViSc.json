@@ -9,7 +9,7 @@
     "email": "t00727415@mytru.ca",
     "company": "Thompson Rivers University"
   },
-  "lastChangedOn": "2026-11-05T17:13:50.582Z",
+  "lastChangedOn": "2026-11-09T17:02:57.715Z",
   "lastChangedBy": {
     "name": "Bre",
     "email": "a@mgail.com",
@@ -204,13 +204,41 @@
           "id": "24",
           "guid": "a440b960-622d-4513-a4dd-b804ee6981f9",
           "heading": "Vision Statement",
-          "text": "<p>TBD</p><table><tbody><tr><td><p>For The City</p></td></tr><tr><td><p>Who needs accurate reporting, speed, and reliability</p></td></tr><tr><td><p>The TBD – unnamed</p></td></tr><tr><td><p>Is a volunteer management system</p></td></tr><tr><td><p>That TBD – Don’t know best features yet</p></td></tr><tr><td><p>Unlike TBD – Don’t know competitors if any</p></td></tr><tr><td><p>Our product TBD –&nbsp;</p></td></tr></tbody></table>"
+          "text": "<p>TBD</p><table><tbody><tr><td><p>For The City</p></td></tr><tr><td><p>Who needs accurate reporting, speed, and reliability</p></td></tr><tr><td><p>The TBD – unnamed</p></td></tr><tr><td><p>Is a volunteer management system</p></td></tr><tr><td><p>That TBD – Don’t know best features yet</p></td></tr><tr><td><p>Unlike TBD – Don’t know competitors if any</p></td></tr><tr><td><p>Our product TBD –&nbsp;</p></td></tr></tbody></table>",
+          "Status": "TBD",
+          "history": [
+            {
+              "attributesChanged": {
+                "Status": null
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-09T17:02:18.131Z"
+            }
+          ]
         },
         {
           "id": "25",
           "guid": "9541243f-317d-43ae-a128-9fe2a457b625",
           "heading": "Business Risks",
-          "text": "<p><span>TBD – Have not had that conversation yet</span></p>"
+          "text": "<p><span>TBD – Have not had that conversation yet</span></p>",
+          "Status": "TBD",
+          "history": [
+            {
+              "attributesChanged": {
+                "Status": null
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-09T17:02:26.403Z"
+            }
+          ]
         },
         {
           "id": "26",
@@ -415,6 +443,20 @@
           "guid": "67206e3f-3711-4183-9e2f-5b73b3020296",
           "heading": "Stakeholder Profiles",
           "text": "<p>Stakeholders pulled from the interview. Interest and influence ratings are our own estimates.</p><p>TBD: concerns for everyone except the Mayor and the Administrator of Elementary Education weren't covered in the interview. Need follow-up meetings with the Mayor/BA, plus short interviews with volunteers, seniors or care workers, and local business owners. Ratings should be confirmed at the same time.</p><table><thead><tr><td><p>Stakeholder</p></td><td><p>Roles</p></td><td><p>Interests</p></td><td><p>Influence</p></td><td><p>Needs</p></td><td><p>Concerns</p></td></tr></thead></table>",
+          "Status": "TBD",
+          "history": [
+            {
+              "attributesChanged": {
+                "Status": null
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-09T17:02:31.843Z"
+            }
+          ],
           "children": [
             {
               "id": "51",
@@ -424,17 +466,59 @@
             {
               "id": "52",
               "guid": "525a08c3-0bcc-416f-a171-d43a978e4f0f",
-              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 14.5455%;\"><col style=\"width: 12.3636%;\"><col style=\"width: 8%;\"><col style=\"width: 7.2727%;\"><col style=\"width: 50.5455%;\"><col style=\"width: 7.2727%;\"></colgroup><tbody><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              "text": "<table style=\"width: 100%;\"><colgroup><col style=\"width: 14.5455%;\"><col style=\"width: 12.3636%;\"><col style=\"width: 8%;\"><col style=\"width: 7.2727%;\"><col style=\"width: 50.5455%;\"><col style=\"width: 7.2727%;\"></colgroup><tbody><tr><td><p>Volunteers</p></td><td><p>End user</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Get assigned faster</p><p><br></p><p>Incentives/promotions from local sponsors</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:39.042Z"
+                }
+              ]
             },
             {
               "id": "53",
               "guid": "bdf4c573-23b5-46f9-a161-26f9e7757409",
-              "text": "<table><tbody><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Senior people</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>Help with daily calls, wellness education, etc.</p><p><br></p><p>Receive service within 3 days</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:40.178Z"
+                }
+              ]
             },
             {
               "id": "54",
               "guid": "c89abaac-c504-4706-8e79-dc60632d8c28",
-              "text": "<table><tbody><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Daily care workers</p></td><td><p>Community member</p></td><td><p>Low</p></td><td><p>Low</p></td><td><p>Volunteer support to cover the labor shortage</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:41.022Z"
+                }
+              ]
             },
             {
               "id": "55",
@@ -444,12 +528,40 @@
             {
               "id": "56",
               "guid": "863bfa18-dd3c-46f2-b8c8-60b43cc5991b",
-              "text": "<table><tbody><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Students</p></td><td><p>Community member</p></td><td><p>High</p></td><td><p>Low</p></td><td><p>More dedicated hours of coaching and teaching</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:43.158Z"
+                }
+              ]
             },
             {
               "id": "57",
               "guid": "9d97a958-df78-44a9-9838-1ae05746788a",
-              "text": "<table><tbody><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Local businesses</p></td><td><p>Sponsors</p></td><td><p>Med</p></td><td><p>Med</p></td><td><p>Lower crime rate (Mayor expects ~10%)</p><p><br></p><p>A way to offer promotions to volunteers</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:43.998Z"
+                }
+              ]
             }
           ]
         },
@@ -458,31 +570,115 @@
           "guid": "55bd19d6-623e-4106-a8e7-bd0b390796a0",
           "heading": "Project Priorities",
           "text": "<p>Priorities based on what the Mayor said. The interview gave no dates, budget, team size or quality targets, so those are TBD.</p><table><thead><tr><td><p>Dimension</p></td><td><p>Driver<br>&nbsp;(state objective)</p></td><td><p>Constraint<br>&nbsp;(state limits)</p></td><td><p>Degree of Freedom<br>&nbsp;(state allowable range)</p></td></tr></thead></table>",
+          "Status": "TBD",
+          "history": [
+            {
+              "attributesChanged": {
+                "Status": null
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-09T17:02:46.307Z"
+            }
+          ],
           "children": [
             {
               "id": "59",
               "guid": "1583e607-7193-4dad-aa63-4edc1c079d00",
-              "text": "<table><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Schedule</p></td><td><p>Hit year-1 targets: track 60% of senior cases, support 85% of reported cases</p></td><td><p>Depends on the government police check system (in testing, \"next few months\", no date given)</p></td><td><p>TBD: need release dates from the Mayor</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:47.423Z"
+                }
+              ]
             },
             {
               "id": "60",
               "guid": "93a228da-c237-41c3-8ee4-ae52d593616f",
-              "text": "<table><tbody><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Features</p></td><td><p>Daily forecast of next week's needed cases</p><p>Volunteer assignment time cut to 30% (service within 3 days)</p><p>Fewer than 2 volunteer shortages per year</p></td><td><p>Volunteers must pass the police certificate and meet a minimum education level</p></td><td><p>TBD: need to know what can wait for a later release</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:49.494Z"
+                }
+              ]
             },
             {
               "id": "61",
               "guid": "8cc8d3b5-30cc-459d-a22f-e3f160a2ca27",
-              "text": "<table><tbody><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Quality</p></td><td><p>TBD: need quality/acceptance targets</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:50.224Z"
+                }
+              ]
             },
             {
               "id": "62",
               "guid": "b1c804c7-1684-4aa3-a825-31d0c70edd07",
-              "text": "<table><tbody><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Staff</p></td><td><p>TBD: need team size and roles</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:50.911Z"
+                }
+              ]
             },
             {
               "id": "63",
               "guid": "4a0bd081-c5d2-4217-bdda-c4f4a34a6b73",
-              "text": "<table><tbody><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>"
+              "text": "<table><tbody><tr><td><p>Cost</p></td><td><p>TBD: need budget and who approves overruns</p></td><td><p>TBD</p></td><td><p>TBD</p></td></tr></tbody></table>",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:51.466Z"
+                }
+              ]
             }
           ]
         },
@@ -494,12 +690,40 @@
             {
               "id": "65",
               "guid": "da1220f3-5ca7-487a-a363-a2f9aec69d17",
-              "heading": "Training and process changes. The manual assignment process gets replaced. TBD: who needs training and what the new process looks like."
+              "heading": "Training and process changes. The manual assignment process gets replaced. TBD: who needs training and what the new process looks like.",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:53.364Z"
+                }
+              ]
             },
             {
               "id": "66",
               "guid": "9713f311-c1db-4719-b316-37826b12c12e",
-              "heading": "Data migration. TBD: need to know what volunteer and case records exist today and what format they're in."
+              "heading": "Data migration. TBD: need to know what volunteer and case records exist today and what format they're in.",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:54.071Z"
+                }
+              ]
             },
             {
               "id": "67",
@@ -509,12 +733,40 @@
             {
               "id": "68",
               "guid": "8b10b7e3-edf6-415d-a9e2-caedde04907d",
-              "heading": "Capacity. City estimate is 10K to 15K senior cases. Tracking 60% in year 1 means roughly 6,000 to 9,000 cases. TBD: expected number of volunteers."
+              "heading": "Capacity. City estimate is 10K to 15K senior cases. Tracking 60% in year 1 means roughly 6,000 to 9,000 cases. TBD: expected number of volunteers.",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:56.573Z"
+                }
+              ]
             },
             {
               "id": "69",
               "guid": "2183ef1e-7321-4be7-94f0-e3fdb1b73f2e",
-              "heading": "Users and access. Everyone using it is in the one city, so no multi-region setup is expected. TBD: how people will access it"
+              "heading": "Users and access. Everyone using it is in the one city, so no multi-region setup is expected. TBD: how people will access it",
+              "Status": "TBD",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "Status": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:02:57.715Z"
+                }
+              ]
             }
           ]
         }
@@ -522,6 +774,10 @@
     }
   ],
   "attributes": {
+    "Status": {
+      "name": "Status",
+      "type": "string"
+    }
   },
   "templateColumns": {
   },

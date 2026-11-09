@@ -9,7 +9,7 @@
     "email": "a@mgail.com",
     "company": "a"
   },
-  "lastChangedOn": "2026-11-05T18:13:52.055Z",
+  "lastChangedOn": "2026-11-09T17:00:43.114Z",
   "lastChangedBy": {
     "name": "Bre",
     "email": "a@mgail.com",
@@ -113,6 +113,7 @@
           "text": "<p><span>Any section which has not been completed in the current iteration of the project will be marked as TBD&nbsp;</span></p>",
           "ForeignID": "URD-6",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+          "TBD": "TBD",
           "history": [
             {
               "affectedNodeId": "3",
@@ -124,6 +125,50 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "TBD": null
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-09T16:53:00.150Z"
+            },
+            {
+              "attributesChanged": {
+                "TBD": true
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-09T16:53:28.030Z"
+            },
+            {
+              "attributesChanged": {
+                "TBD": false
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-09T16:54:40.564Z"
+            },
+            {
+              "attributesChanged": {
+                "TBD": null
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-09T16:55:07.578Z"
             }
           ]
         },
@@ -2034,6 +2079,7 @@
                   "id": "118",
                   "guid": "d8bb6f1a-4a23-4933-a682-4af0d701deb0",
                   "text": "<table><tbody><tr><td><p>Business Rules:</p></td><td><p>TBD When business rules are understood.</p></td></tr></tbody></table>",
+                  "TBD": "TBD",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -2056,6 +2102,17 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:59:14.992Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "TBD": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-09T17:00:27.334Z"
                     }
                   ]
                 },
@@ -2976,6 +3033,7 @@
                   "id": "157",
                   "guid": "54f636a8-57cf-4df6-9e36-00fd5239b65e",
                   "text": "<table><tbody><tr><td><p>Business Rules:</p></td><td><p>TBD</p></td></tr></tbody></table>",
+                  "TBD": "TBD",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -2998,6 +3056,17 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:08:15.558Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "TBD": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-09T17:00:33.916Z"
                     }
                   ]
                 },
@@ -3034,6 +3103,7 @@
                   "id": "159",
                   "guid": "1c765962-de93-4fda-84da-959a38ab6c60",
                   "text": "<table><tbody><tr><td><p>Other Information:</p></td><td><p>None (TBD?)</p></td></tr></tbody></table>",
+                  "TBD": "TBD",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -3056,6 +3126,17 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:08:25.607Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "TBD": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-09T17:00:35.592Z"
                     }
                   ]
                 }
@@ -3143,6 +3224,7 @@
               "text": "<p><span>TBD when more information is known about the hardware platform, geographical locations, and organizations related to the system.</span></p>",
               "ForeignID": "URD-33",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "TBD": "TBD",
               "history": [
                 {
                   "affectedNodeId": "32",
@@ -3154,6 +3236,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "TBD": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T17:00:43.114Z"
                 }
               ]
             }
@@ -3185,6 +3278,7 @@
               "text": "<p><span>TBD more information is to be added later.</span></p>",
               "ForeignID": "URD-35",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "TBD": "TBD",
               "history": [
                 {
                   "affectedNodeId": "34",
@@ -3196,6 +3290,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "TBD": null
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-09T16:59:41.416Z"
                 }
               ]
             },
@@ -4370,6 +4475,10 @@
           "label": "URD Object Type"
         }
       ]
+    },
+    "TBD": {
+      "name": "Status",
+      "type": "string"
     }
   },
   "templateColumns": {

@@ -9,6 +9,36 @@
       "name": "Reference",
       "source": "References",
       "target": "Referenced by"
+    },
+    "satisfaction": {
+      "name": "Satisfaction",
+      "source": "Satisfies",
+      "target": "Is satisfied by"
+    },
+    "implementation": {
+      "name": "Implementation",
+      "source": "Implements",
+      "target": "Is implemented by"
+    },
+    "verification": {
+      "name": "Verification",
+      "source": "Verifies",
+      "target": "Is verified by"
+    },
+    "usage": {
+      "name": "Usage",
+      "source": "Uses",
+      "target": "Is used by"
+    },
+    "mitigation": {
+      "name": "Mitigation",
+      "source": "Mitigates",
+      "target": "Is mitigated by"
+    },
+    "derivation": {
+      "name": "Derivation",
+      "source": "Derives from",
+      "target": "Is derived by"
     }
   },
   "integrations": {

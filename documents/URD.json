@@ -2,14 +2,14 @@
   "id": "URD",
   "guid": "31350325-e563-4144-8b42-d6195fa74867",
   "name": "URD",
-  "lastId": 196,
+  "lastId": 216,
   "createdOn": "2026-11-05T17:02:30.323Z",
   "createdBy": {
     "name": "Bre",
     "email": "a@mgail.com",
     "company": "a"
   },
-  "lastChangedOn": "2026-11-10T15:38:33.192Z",
+  "lastChangedOn": "2026-11-10T20:10:25.899Z",
   "lastChangedBy": {
     "name": "Bre",
     "email": "a@mgail.com",
@@ -4304,210 +4304,156 @@
       ],
       "children": [
         {
-          "id": "42",
-          "guid": "ccef46b9-0c5a-4fbd-98c5-17d4f4d07f93",
-          "text": "<p><em><span style=\"color:black;\">&lt;This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, stimulus, response, or combinations of these, whatever makes the most logical sense for your product.&gt;</span></em></p>",
-          "ForeignID": "URD-42",
-          "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-          "history": [
-            {
-              "affectedNodeId": "41",
-              "changedBy": {
-                "company": "a",
-                "email": "a@mgail.com",
-                "name": "Bre"
-              },
-              "changedOn": "2026-11-05T17:02:30.323Z",
-              "docId": "URD",
-              "structureAction": "Create"
-            }
-          ]
-        },
-        {
-          "id": "43",
-          "guid": "991842ec-a8f2-4a1d-b5af-630bc04b0d0e",
-          "heading": "System Feature 1",
+          "id": "197",
+          "guid": "966f223c-9809-48ee-afc9-d6e1e8e72824",
+          "heading": "Create New Volunteer",
           "ForeignID": "URD-43",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-          "history": [
-            {
-              "affectedNodeId": "41",
-              "changedBy": {
-                "company": "a",
-                "email": "a@mgail.com",
-                "name": "Bre"
-              },
-              "changedOn": "2026-11-05T17:02:30.323Z",
-              "docId": "URD",
-              "structureAction": "Create"
-            }
-          ],
           "children": [
             {
-              "id": "44",
-              "guid": "4bb97060-3538-4f75-9010-2cff9cd925ba",
-              "text": "<p><em><span style=\"color:black;\">&lt;Don’t really say “System Feature 1.” State the feature name in just a few words.&gt;</span></em></p>",
-              "ForeignID": "URD-44",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-              "history": [
-                {
-                  "affectedNodeId": "43",
-                  "changedBy": {
-                    "company": "a",
-                    "email": "a@mgail.com",
-                    "name": "Bre"
-                  },
-                  "changedOn": "2026-11-05T17:02:30.323Z",
-                  "docId": "URD",
-                  "structureAction": "Create"
-                }
-              ]
-            },
-            {
-              "id": "45",
-              "guid": "51624da4-e831-47fe-abfa-b510a06f4840",
+              "id": "198",
+              "guid": "a2f53cf0-8c32-4586-af1c-b013824cb34e",
               "heading": "Description",
+              "text": "<p><span style=\"color:black;\">Create a new volunteer profile to add to the VMS. This profile is based on personal information the potential volunteer provides and is entered into the system by a system administrator.</span></p><p><span style=\"color:black;\">High Priority</span></p>",
               "ForeignID": "URD-45",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-              "history": [
-                {
-                  "affectedNodeId": "43",
-                  "changedBy": {
-                    "company": "a",
-                    "email": "a@mgail.com",
-                    "name": "Bre"
-                  },
-                  "changedOn": "2026-11-05T17:02:30.323Z",
-                  "docId": "URD",
-                  "structureAction": "Create"
-                }
-              ],
-              "children": [
-                {
-                  "id": "46",
-                  "guid": "2669b49c-1f11-4eec-877d-c833431da5eb",
-                  "text": "<p><em><span style=\"color:black;\">&lt;Provide a short description of the feature and indicate whether it is of High, Medium, or Low priority.&gt;</span></em></p>",
-                  "ForeignID": "URD-46",
-                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-                  "history": [
-                    {
-                      "affectedNodeId": "45",
-                      "changedBy": {
-                        "company": "a",
-                        "email": "a@mgail.com",
-                        "name": "Bre"
-                      },
-                      "changedOn": "2026-11-05T17:02:30.323Z",
-                      "docId": "URD",
-                      "structureAction": "Create"
-                    }
-                  ]
-                }
-              ]
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
             },
             {
-              "id": "47",
-              "guid": "c6209d1b-6c97-4200-9f5c-1fd5fea11bd3",
+              "id": "199",
+              "guid": "e7e45fcf-7a67-475e-8079-fe6efb0c9e92",
               "heading": "Stimulus/Response Sequences",
+              "text": "<p>A potential volunteer contacts a system administrator wanting to become a volunteer and provides personal information about themself.</p>",
               "ForeignID": "URD-47",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-              "history": [
-                {
-                  "affectedNodeId": "43",
-                  "changedBy": {
-                    "company": "a",
-                    "email": "a@mgail.com",
-                    "name": "Bre"
-                  },
-                  "changedOn": "2026-11-05T17:02:30.323Z",
-                  "docId": "URD",
-                  "structureAction": "Create"
-                }
-              ],
-              "children": [
-                {
-                  "id": "48",
-                  "guid": "5d580f6d-615a-46db-860b-60609040c7ed",
-                  "text": "<p><em><span style=\"color:black;\">&lt;List the sequences of user actions and system responses that stimulate the behavior defined for this feature. These will correspond to the dialog elements associated with use cases.&gt;</span></em></p>",
-                  "ForeignID": "URD-48",
-                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-                  "history": [
-                    {
-                      "affectedNodeId": "47",
-                      "changedBy": {
-                        "company": "a",
-                        "email": "a@mgail.com",
-                        "name": "Bre"
-                      },
-                      "changedOn": "2026-11-05T17:02:30.323Z",
-                      "docId": "URD",
-                      "structureAction": "Create"
-                    }
-                  ]
-                }
-              ]
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
             },
             {
-              "id": "49",
-              "guid": "7892c4d0-7b2a-4024-8e1f-2d5da1c6de9d",
+              "id": "200",
+              "guid": "a4de3b5a-771f-47fb-9c45-36064a77b670",
               "heading": "Functional Requirements",
               "ForeignID": "URD-49",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-              "history": [
-                {
-                  "affectedNodeId": "43",
-                  "changedBy": {
-                    "company": "a",
-                    "email": "a@mgail.com",
-                    "name": "Bre"
-                  },
-                  "changedOn": "2026-11-05T17:02:30.323Z",
-                  "docId": "URD",
-                  "structureAction": "Create"
-                }
-              ],
               "children": [
                 {
-                  "id": "50",
-                  "guid": "b4296b1a-1cd9-4a2e-b343-fcf9d8df07af",
-                  "text": "<p><em><span style=\"color:black;\">&lt;Itemize the specific functional requirements associated with this feature. These are the software capabilities that must be implemented for the user to carry out the feature's services or to perform a use case. Describe how the product should respond to anticipated error conditions. Use “TBD” as a placeholder to indicate when necessary information is not yet available.&gt;</span></em></p>",
+                  "id": "201",
+                  "guid": "0f882a62-2bb4-4097-a870-67b15a565747",
+                  "heading": "Functional Requirement 1",
+                  "text": "<p>When an administrator wants to create a new volunteer to the VMS, the system shall create a blank volunteer profile template with fillable sections for information including name, date of birth, background check, education, experience, and notes on the person.</p><p><br></p>",
                   "ForeignID": "URD-50",
-                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-                  "history": [
-                    {
-                      "affectedNodeId": "49",
-                      "changedBy": {
-                        "company": "a",
-                        "email": "a@mgail.com",
-                        "name": "Bre"
-                      },
-                      "changedOn": "2026-11-05T17:02:30.323Z",
-                      "docId": "URD",
-                      "structureAction": "Create"
-                    }
-                  ]
+                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+                },
+                {
+                  "id": "202",
+                  "guid": "1a7c016a-abb9-4ac1-a506-a932db377823",
+                  "heading": "Functional Requirement 2",
+                  "text": "<p>When the administrator is finished filling out the template and wants to save the information, the system shall save the information to the VMS database to be viewed or edited by other administrators with permissions to the VMS.</p>"
+                },
+                {
+                  "id": "203",
+                  "guid": "f8ce8d3c-5190-4d80-873b-769f40d1f83f",
+                  "heading": "Functional Requirement 3",
+                  "text": "<p>When saving a new profile if there exists another profile with identical information the system shall display a warning before saving that this profile already exists and prompt the administrator to edit the original profile instead or send a request to a systems administrator to override this error.</p>"
+                },
+                {
+                  "id": "204",
+                  "guid": "c9646a3b-3083-4462-b57d-5846f2a7f7d9",
+                  "heading": "Functional Requirement 4",
+                  "text": "<p>&nbsp;If the profile is not filled out with necessary information the system shall display a warning to the administrator and highlight what needed information is missing. The system shall be able to save with incomplete information but shall flag the profile as incomplete.</p>"
                 }
               ]
             }
           ]
         },
         {
-          "id": "51",
-          "guid": "13528489-47dc-4c63-858f-65bfb15ef803",
-          "heading": "System Feature 2 (and so on)",
+          "id": "205",
+          "guid": "8c8e70c0-533b-4d50-933f-d9a50bfc7303",
+          "heading": "Approve New Volunteer",
           "ForeignID": "URD-51",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-          "history": [
+          "children": [
             {
-              "affectedNodeId": "41",
-              "changedBy": {
-                "company": "a",
-                "email": "a@mgail.com",
-                "name": "Bre"
-              },
-              "changedOn": "2026-11-05T17:02:30.323Z",
-              "docId": "URD",
-              "structureAction": "Create"
+              "id": "206",
+              "guid": "dbdd6c67-19e7-42f7-a0f0-911fc9746f85",
+              "heading": "Description",
+              "text": "<p><span style=\"color:black;\">The Volunteer Administrator reviews a new volunteer’s application and approves it afterthe required screening, background check, and (when applicable) educational certificateverification are complete.Create a new volunteer profile to add to the VMS. This profile is based on personal information the potential volunteer provides and is entered into the system by a system administrator.</span></p><p><span style=\"color:black;\">High Priority</span></p>",
+              "ForeignID": "URD-45",
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+            },
+            {
+              "id": "207",
+              "guid": "ec616178-6bfa-47dd-8c6a-d1636d95ca38",
+              "heading": "Stimulus/Response Sequences",
+              "text": "<p>The Volunteer Administrator selects a new volunteer profile for approval</p>",
+              "ForeignID": "URD-47",
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+            },
+            {
+              "id": "208",
+              "guid": "03331153-d5b1-4d85-8e37-c73bb162b5dc",
+              "heading": "Functional Requirements",
+              "ForeignID": "URD-49",
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "children": [
+                {
+                  "id": "209",
+                  "guid": "333d0a47-2456-455d-8b87-61b8264fce37",
+                  "heading": "Functional Requirement 1",
+                  "text": "<p>If a volunteer needs approval for a background check an administrator shall send a request to the system and it shall forward the request and the profile to the government system for background checks. The system shall display when the background check request has been sent and is complete and the status of the request if it is approved, in progress, or canceled.</p>",
+                  "ForeignID": "URD-50",
+                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+                },
+                {
+                  "id": "210",
+                  "guid": "954ab7cd-a0a0-4161-8dfa-d8892beabefe",
+                  "heading": "Functional Requirements 2",
+                  "text": "<p>If all checks for the profile are validated and an administrator approves of it, the administrator can select Approve on the profile and it shall be flagged as an approved profile that can be assigned cases.</p>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "211",
+          "guid": "84e3a94d-fc72-4694-9845-47425ae41e09",
+          "heading": "Generate Daily Report",
+          "children": [
+            {
+              "id": "212",
+              "guid": "ec634bbe-160d-4926-ad34-d61e184eaaec",
+              "heading": "Description",
+              "text": "<p>Generate a daily report of the forecasted number of cases for the next week</p><p><span style=\"color:black;\">Low Priority</span></p>",
+              "ForeignID": "URD-45",
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+            },
+            {
+              "id": "213",
+              "guid": "6ade2b01-49a3-4272-9bdd-83c650cf24fb",
+              "heading": "Stimulus/Response Sequences",
+              "text": "<p>Automatic (daily)</p>",
+              "ForeignID": "URD-47",
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+            },
+            {
+              "id": "214",
+              "guid": "7a745ff2-1b66-4402-8410-7ed20d349ad9",
+              "heading": "Functional Requirements",
+              "ForeignID": "URD-49",
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "children": [
+                {
+                  "id": "215",
+                  "guid": "4b3d48a1-6844-44d5-82a2-969aeef02e3d",
+                  "heading": "Functional Requirement 1",
+                  "text": "<p>The system shall output daily predictions of the number of cases and volunteer availability for the next week. These predictions shall be based on report case history that is analyzed and put through a prediction algorithm. These daily outputs shall be saved for future access.</p>",
+                  "ForeignID": "URD-50",
+                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+                },
+                {
+                  "id": "216",
+                  "guid": "40dfe9b2-b9b1-4ebb-9514-b8731ecf2f47",
+                  "heading": "Functional Requirement 2",
+                  "text": "<p>Daily case predictions should be displayed to volunteer administrators in a visual medium that is easy to understand and allows options to show more information on how these predictions are made and what data is used.</p>"
+                }
+              ]
             }
           ]
         }

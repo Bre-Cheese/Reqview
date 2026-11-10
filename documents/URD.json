@@ -9,17 +9,17 @@
     "email": "a@mgail.com",
     "company": "a"
   },
-  "lastChangedOn": "2026-11-10T07:49:44.370Z",
+  "lastChangedOn": "2026-11-10T15:38:33.192Z",
   "lastChangedBy": {
     "name": "Bre",
-    "email": "t00756235@mytru.ca",
-    "company": "TRU"
+    "email": "a@mgail.com",
+    "company": "a"
   },
   "data": [
     {
       "id": "2",
       "guid": "05edb9cc-de45-4563-bf01-c5b625891ce6",
-      "text": "<p><strong><span style=\"color:black;\">Revision History</span></strong></p><table><tbody><tr><td style=\"width:108.0pt;\"><p><strong><span>Name</span></strong></p></td><td style=\"width:77.25pt;\"><p><strong><span>Date</span></strong></p></td><td style=\"width:228.75pt;\"><p><strong><span>Reason For Changes</span></strong></p></td><td style=\"width:79.5pt;\"><p><strong><span>Version</span></strong></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Create New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.1</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayll</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.2 for potential actors</span></p></td><td style=\"width:79.5pt;\"><p><span>0.2</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.3.1 Use Case List</span></p></td><td style=\"width:79.5pt;\"><p><span>0.3</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Approve New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.4</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.5</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added and completed use case table “UC-7 Generate Daily Report” in section 2.3.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.6</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Fixed a mix-up between Actor and User Class</span></p></td><td style=\"width:79.5pt;\"><p><span>0.7</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Revised Use Case 3</span></p></td><td style=\"width:79.5pt;\"><p><span>0.8</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added System Model with glyph descriptions</span></p></td><td style=\"width:79.5pt;\"><p><span>0.9</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Defined document conventions in section 2.2</span></p></td><td style=\"width:79.5pt;\"><p><span>0.10</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Vaguely Filled out section 1, 1.1, 2.5, 2.6</span></p></td><td style=\"width:79.5pt;\"><p><span>0.11</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Completed section 1.1 and imported document into ReqView</span></p></td><td style=\"width:79.5pt;\"><p><span>1.0</span></p></td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">01/11/2026</td><td style=\"width:228.75pt;\">Separated tables into multiple objects to better support traceability&nbsp;</td><td style=\"width:79.5pt;\">1.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">09/11/2026</td><td style=\"width:228.75pt;\">Added a \"TBD\" status attribute to objects. this was done to support trackability and document completeness.<br></td><td style=\"width:79.5pt;\">1.2</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">10/11/2026</td><td style=\"width:228.75pt;\">Wrote Data dictionary&nbsp;</td><td style=\"width:79.5pt;\">1.3</td></tr></tbody></table>",
+      "text": "<p><strong><span style=\"color:black;\">Revision History</span></strong></p><table><tbody><tr><td style=\"width:108.0pt;\"><p><strong><span>Name</span></strong></p></td><td style=\"width:77.25pt;\"><p><strong><span>Date</span></strong></p></td><td style=\"width:228.75pt;\"><p><strong><span>Reason For Changes</span></strong></p></td><td style=\"width:79.5pt;\"><p><strong><span>Version</span></strong></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Create New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.1</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayll</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.2 for potential actors</span></p></td><td style=\"width:79.5pt;\"><p><span>0.2</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.3.1 Use Case List</span></p></td><td style=\"width:79.5pt;\"><p><span>0.3</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Approve New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.4</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.5</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added and completed use case table “UC-7 Generate Daily Report” in section 2.3.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.6</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Fixed a mix-up between Actor and User Class</span></p></td><td style=\"width:79.5pt;\"><p><span>0.7</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Revised Use Case 3</span></p></td><td style=\"width:79.5pt;\"><p><span>0.8</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added System Model with glyph descriptions</span></p></td><td style=\"width:79.5pt;\"><p><span>0.9</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Defined document conventions in section 2.2</span></p></td><td style=\"width:79.5pt;\"><p><span>0.10</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Vaguely Filled out section 1, 1.1, 2.5, 2.6</span></p></td><td style=\"width:79.5pt;\"><p><span>0.11</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Completed section 1.1 and imported document into ReqView</span></p></td><td style=\"width:79.5pt;\"><p><span>1.0</span></p></td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">01/11/2026</td><td style=\"width:228.75pt;\">Separated tables into multiple objects to better support traceability&nbsp;</td><td style=\"width:79.5pt;\">1.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">09/11/2026</td><td style=\"width:228.75pt;\">Added a \"TBD\" status attribute to objects. this was done to support trackability and document completeness.<br></td><td style=\"width:79.5pt;\">1.2</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">10/11/2026</td><td style=\"width:228.75pt;\">Wrote Data dictionary&nbsp;</td><td style=\"width:79.5pt;\">1.3.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">10/11/2026</td><td style=\"width:228.75pt;\">Reformatted tables&nbsp;</td><td style=\"width:79.5pt;\">1.3.2</td></tr></tbody></table>",
       "ForeignID": "URD-2",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
@@ -66,6 +66,17 @@
             "name": "Bre"
           },
           "changedOn": "2026-11-10T07:49:44.370Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><strong><span style=\"color:black;\">Revision History</span></strong></p><table><tbody><tr><td style=\"width:108.0pt;\"><p><strong><span>Name</span></strong></p></td><td style=\"width:77.25pt;\"><p><strong><span>Date</span></strong></p></td><td style=\"width:228.75pt;\"><p><strong><span>Reason For Changes</span></strong></p></td><td style=\"width:79.5pt;\"><p><strong><span>Version</span></strong></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Create New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.1</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayll</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.2 for potential actors</span></p></td><td style=\"width:79.5pt;\"><p><span>0.2</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.3.1 Use Case List</span></p></td><td style=\"width:79.5pt;\"><p><span>0.3</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Approve New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.4</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.5</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added and completed use case table “UC-7 Generate Daily Report” in section 2.3.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.6</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Fixed a mix-up between Actor and User Class</span></p></td><td style=\"width:79.5pt;\"><p><span>0.7</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Revised Use Case 3</span></p></td><td style=\"width:79.5pt;\"><p><span>0.8</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added System Model with glyph descriptions</span></p></td><td style=\"width:79.5pt;\"><p><span>0.9</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Defined document conventions in section 2.2</span></p></td><td style=\"width:79.5pt;\"><p><span>0.10</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Vaguely Filled out section 1, 1.1, 2.5, 2.6</span></p></td><td style=\"width:79.5pt;\"><p><span>0.11</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Completed section 1.1 and imported document into ReqView</span></p></td><td style=\"width:79.5pt;\"><p><span>1.0</span></p></td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">01/11/2026</td><td style=\"width:228.75pt;\">Separated tables into multiple objects to better support traceability&nbsp;</td><td style=\"width:79.5pt;\">1.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">09/11/2026</td><td style=\"width:228.75pt;\">Added a \"TBD\" status attribute to objects. this was done to support trackability and document completeness.<br></td><td style=\"width:79.5pt;\">1.2</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">10/11/2026</td><td style=\"width:228.75pt;\">Wrote Data dictionary&nbsp;</td><td style=\"width:79.5pt;\">1.3</td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T15:38:33.192Z"
         }
       ]
     },
@@ -135,7 +146,6 @@
           "text": "<p><span>Any section which has not been completed in the current iteration of the project will be marked as TBD&nbsp;</span></p>",
           "ForeignID": "URD-6",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
-          "TBD": "TBD",
           "history": [
             {
               "affectedNodeId": "3",
@@ -191,6 +201,17 @@
                 "name": "Bre"
               },
               "changedOn": "2026-11-09T16:55:07.578Z"
+            },
+            {
+              "attributesChanged": {
+                "TBD": "TBD"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T15:19:53.192Z"
             }
           ]
         },
@@ -1554,6 +1575,34 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:52:59.544Z"
+                    },
+                    {
+                      "addedLink": {
+                        "target": [
+                          "URD-57"
+                        ],
+                        "type": "reference"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:21:12.520Z"
+                    },
+                    {
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:21:23.469Z",
+                      "removedLink": {
+                        "target": [
+                          "URD-57"
+                        ],
+                        "type": "reference"
+                      }
                     }
                   ]
                 },
@@ -1583,6 +1632,34 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:53:07.004Z"
+                    },
+                    {
+                      "addedLink": {
+                        "target": [
+                          "URD-57"
+                        ],
+                        "type": "reference"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:21:12.520Z"
+                    },
+                    {
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:21:27.733Z",
+                      "removedLink": {
+                        "target": [
+                          "URD-57"
+                        ],
+                        "type": "reference"
+                      }
                     }
                   ]
                 },
@@ -1612,6 +1689,34 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:53:14.618Z"
+                    },
+                    {
+                      "addedLink": {
+                        "target": [
+                          "URD-57"
+                        ],
+                        "type": "reference"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:21:12.520Z"
+                    },
+                    {
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:21:30.262Z",
+                      "removedLink": {
+                        "target": [
+                          "URD-57"
+                        ],
+                        "type": "reference"
+                      }
                     }
                   ]
                 },
@@ -1707,8 +1812,7 @@
             {
               "id": "27",
               "guid": "5fc63de4-c3a8-4d03-bcdc-22fa671ad7ba",
-              "heading": "Use Case 3",
-              "text": "<table><tbody><tr><td style=\"width:106.5pt;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td style=\"width:337.5pt;\"><p><span>UC-3 Create New Volunteer</span></p></td></tr></tbody></table>",
+              "heading": "UC-3 Create New Volunteer",
               "ForeignID": "URD-27",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
@@ -1790,13 +1894,25 @@
                     "oldType": "reference"
                   },
                   "changedOn": "2026-11-09T17:27:26.763Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Use Case 3",
+                    "text": "<table><tbody><tr><td style=\"width:106.5pt;\"><p style=\"text-align:right;\"><span>ID and Name:</span></p></td><td style=\"width:337.5pt;\"><p><span>UC-3 Create New Volunteer</span></p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:30:35.623Z"
                 }
               ],
               "children": [
                 {
                   "id": "129",
                   "guid": "e0d3c3bf-12e1-4fba-9b3c-bb48433bc1bc",
-                  "text": "<table><tbody><tr><td><p>Author:</p></td><td><p>Jay Erickson</p></td><td><p>Date Created:</p></td><td><p>18/10/2026</p></td></tr></tbody></table>",
+                  "text": "<p>Author: Jay Erickson</p><p>Date Created: 18/10/2026</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -1819,13 +1935,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:57:59.977Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Author:</p></td><td><p>Jay Erickson</p></td><td><p>Date Created:</p></td><td><p>18/10/2026</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:30:20.196Z"
                     }
                   ]
                 },
                 {
                   "id": "128",
                   "guid": "31dd1377-3497-4afb-bd6a-d44b443a0973",
-                  "text": "<table><tbody><tr><td><p>Primary Actor:</p></td><td><p>Volunteer</p></td></tr></tbody></table>",
+                  "text": "<p>Primary Actor:&nbsp;</p><p>Volunteer</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -1848,13 +1975,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:58:06.727Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Primary Actor:</p></td><td><p>Volunteer</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:30:50.401Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Primary Actor: Volunteer</p>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:18.130Z"
                     }
                   ]
                 },
                 {
                   "id": "127",
                   "guid": "1ccffd4a-7a8e-4ea0-a3d2-20a8120137ad",
-                  "text": "<table><tbody><tr><td><p>Secondary Actors:</p></td><td><p>System Administrator</p></td></tr></tbody></table>",
+                  "text": "<p>Secondary Actors:&nbsp;</p><p>System Administrator</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -1877,13 +2026,46 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:58:12.652Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Secondary Actors:</p></td><td><p>System Administrator</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:30:59.903Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Secondary Actors:</p><p>System Administrator</p>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:02.898Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Secondary Actors: System Administrator</p>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:15.436Z"
                     }
                   ]
                 },
                 {
                   "id": "126",
                   "guid": "0078d47d-ca75-4b2f-8741-374f25ec262d",
-                  "text": "<table><tbody><tr><td><p>Description:</p></td><td><p>Create a new volunteer profile to add to the VMS. This profile is based on personal information the potential volunteer provides and is entered into the system by a system administrator.</p></td></tr></tbody></table>",
+                  "text": "<p>Description:</p><p>Create a new volunteer profile to add to the VMS. This profile is based on personal information the potential volunteer provides and is entered into the system by a system administrator.</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -1906,13 +2088,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:58:19.800Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Description:</p></td><td><p>Create a new volunteer profile to add to the VMS. This profile is based on personal information the potential volunteer provides and is entered into the system by a system administrator.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:07.315Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:11.093Z"
                     }
                   ]
                 },
                 {
                   "id": "125",
                   "guid": "528a0844-fca7-49ca-9c3c-43960e3cb0d2",
-                  "text": "<table><tbody><tr><td><p>Trigger:</p></td><td><p>A potential volunteer contacts a system administrator wanting to become a volunteer and provides personal information about themself.</p></td></tr></tbody></table>",
+                  "text": "<p>Trigger:</p><p>A potential volunteer contacts a system administrator wanting to become a volunteer and provides personal information about themself.</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -1935,13 +2139,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:58:25.714Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Trigger:</p></td><td><p>A potential volunteer contacts a system administrator wanting to become a volunteer and provides personal information about themself.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:23.343Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:25.384Z"
                     }
                   ]
                 },
                 {
                   "id": "124",
                   "guid": "b302512f-bd7c-464e-93ec-d23894945330",
-                  "text": "<table><tbody><tr><td><p>Preconditions:</p></td><td><p>None</p></td></tr></tbody></table>",
+                  "text": "<p>Preconditions:</p><p>None</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -1964,13 +2190,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:58:32.012Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Preconditions:</p></td><td><p>None</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:31.082Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:36.134Z"
                     }
                   ]
                 },
                 {
                   "id": "123",
                   "guid": "5713cc18-5f69-4463-b088-078cb6d8d915",
-                  "text": "<table><tbody><tr><td><p>Postconditions:</p></td><td><p>POST-1. A volunteer profile is added to the VMS.</p><p>POST-2. The profile awaits approval for police background and required education checks.</p></td></tr></tbody></table>",
+                  "text": "<p>Postconditions:</p><p>POST-1. A volunteer profile is added to the VMS.</p><p>POST-2. The profile awaits approval for police background and required education checks.</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -1993,13 +2241,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:58:37.902Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Postconditions:</p></td><td><p>POST-1. A volunteer profile is added to the VMS.</p><p>POST-2. The profile awaits approval for police background and required education checks.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:40.363Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:41.922Z"
                     }
                   ]
                 },
                 {
                   "id": "122",
                   "guid": "f3b06901-b925-4e5d-a745-a3476a4de0a2",
-                  "text": "<table><tbody><tr><td><p>Normal Flow:</p></td><td><p>1.0 Person wants to sign up as a volunteer.</p><p>1.1 Person provides personal information to system administrators.</p><p>1.2 System Administrator creates a blank volunteer profile</p><p>1.3 System Administrator fills in the volunteer profile with information provided by the person.</p><p>1.4 Volunteer profile is added to the VMS.</p></td></tr></tbody></table>",
+                  "text": "<p>Normal Flow:</p><p>1.0 Person wants to sign up as a volunteer.</p><p>1.1 Person provides personal information to system administrators.</p><p>1.2 System Administrator creates a blank volunteer profile</p><p>1.3 System Administrator fills in the volunteer profile with information provided by the person.</p><p>1.4 Volunteer profile is added to the VMS.</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -2022,13 +2292,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:58:43.720Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Normal Flow:</p></td><td><p>1.0 Person wants to sign up as a volunteer.</p><p>1.1 Person provides personal information to system administrators.</p><p>1.2 System Administrator creates a blank volunteer profile</p><p>1.3 System Administrator fills in the volunteer profile with information provided by the person.</p><p>1.4 Volunteer profile is added to the VMS.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:48.073Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:49.553Z"
                     }
                   ]
                 },
                 {
                   "id": "121",
                   "guid": "dbd5c117-e1dc-493a-a6b4-272e03717175",
-                  "text": "<table><tbody><tr><td><p>Alternative Flows:</p></td><td><p>1.1.1 Person provides personal information to the VMS digitally and waits to be approved and officially added to the system later by a system administrator.&nbsp;</p></td></tr></tbody></table>",
+                  "text": "<p>Alternative Flows:</p><p>1.1.1 Person provides personal information to the VMS digitally and waits to be approved and officially added to the system later by a system administrator.&nbsp;</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -2051,13 +2343,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:58:58.640Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Alternative Flows:</p></td><td><p>1.1.1 Person provides personal information to the VMS digitally and waits to be approved and officially added to the system later by a system administrator.&nbsp;</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:56.976Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:31:59.221Z"
                     }
                   ]
                 },
                 {
                   "id": "120",
                   "guid": "8141c16a-d70e-48f2-9d2a-dbf8daea3798",
-                  "text": "<table><tbody><tr><td><p>Exceptions:</p></td><td><p>1.1.E1 Personal information is invalid, illegible, or incomplete.</p></td></tr></tbody></table>",
+                  "text": "<p>Exceptions:</p><p>1.1.E1 Personal information is invalid, illegible, or incomplete.</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -2080,13 +2394,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:59:04.186Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Exceptions:</p></td><td><p>1.1.E1 Personal information is invalid, illegible, or incomplete.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:02.448Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:03.678Z"
                     }
                   ]
                 },
                 {
                   "id": "119",
                   "guid": "46e6d349-61b5-43f3-b384-d02fc03c799b",
-                  "text": "<table><tbody><tr><td><p>Priority:</p></td><td><p>High</p></td></tr></tbody></table>",
+                  "text": "<p>Priority:</p><p>High</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -2109,13 +2445,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:59:09.450Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Priority:</p></td><td><p>High</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:07.099Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:08.282Z"
                     }
                   ]
                 },
                 {
                   "id": "118",
                   "guid": "d8bb6f1a-4a23-4933-a682-4af0d701deb0",
-                  "text": "<table><tbody><tr><td><p>Business Rules:</p></td><td><p>TBD When business rules are understood.</p></td></tr></tbody></table>",
+                  "text": "<p>Business Rules:</p><p>TBD When business rules are understood.</p>",
                   "TBD": "TBD",
                   "history": [
                     {
@@ -2150,13 +2508,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-09T17:00:27.334Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Business Rules:</p></td><td><p>TBD When business rules are understood.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:12.767Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:15.604Z"
                     }
                   ]
                 },
                 {
                   "id": "117",
                   "guid": "4a024715-5a8f-428b-a4f0-46abc207b2bf",
-                  "text": "<table><tbody><tr><td><p>Assumptions:</p></td><td><p>Potential volunteers can contact system administrators. Volunteers provide accurate personal information to the best of their ability. It is the job of system administrators to create new volunteer profiles.</p></td></tr></tbody></table>",
+                  "text": "<p>Assumptions:</p><p>Potential volunteers can contact system administrators. Volunteers provide accurate personal information to the best of their ability. It is the job of system administrators to create new volunteer profiles.</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -2179,13 +2559,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:59:23.070Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Assumptions:</p></td><td><p>Potential volunteers can contact system administrators. Volunteers provide accurate personal information to the best of their ability. It is the job of system administrators to create new volunteer profiles.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:19.184Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:20.542Z"
                     }
                   ]
                 },
                 {
                   "id": "130",
                   "guid": "45787607-43ec-4742-b935-645a09cca00c",
-                  "text": "<table><tbody><tr><td><p>Other Information:</p></td><td><p>&nbsp;None</p></td></tr></tbody></table>",
+                  "text": "<p>Other Information:</p><p>&nbsp;None</p>",
                   "history": [
                     {
                       "affectedNodeId": "27",
@@ -2208,6 +2610,28 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T17:59:55.552Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Other Information:</p></td><td><p>&nbsp;None</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:24.302Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:32:25.521Z"
                     }
                   ]
                 }
@@ -2216,8 +2640,7 @@
             {
               "id": "28",
               "guid": "e890fd44-34d4-4cdf-804a-8cba399707b7",
-              "heading": "Use Case 4",
-              "text": "<table><tbody><tr><td><p>ID and Name:</p></td><td><p>UC-4 Approve New Volunteer</p></td></tr></tbody></table>",
+              "heading": "UC-4 Approve New Volunteer",
               "ForeignID": "URD-28",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
@@ -2288,13 +2711,25 @@
                     "oldType": "reference"
                   },
                   "changedOn": "2026-11-09T17:27:22.187Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Use Case 4",
+                    "text": "<table><tbody><tr><td><p>ID and Name:</p></td><td><p>UC-4 Approve New Volunteer</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:32:58.109Z"
                 }
               ],
               "children": [
                 {
                   "id": "131",
                   "guid": "3a0fb6e6-d07a-49de-b6c9-d1de0f316388",
-                  "text": "<table><tbody><tr><td><p>Author:</p></td><td><p>Bre Mayall</p></td><td><p>Date Created:</p></td><td><p>18/10/2026</p></td></tr></tbody></table>",
+                  "text": "<p>Author: Bre Mayall</p><p>Date Created: 18/10/2026</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2317,13 +2752,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:13.986Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Author:</p></td><td><p>Bre Mayall</p></td><td><p>Date Created:</p></td><td><p>18/10/2026</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:33:07.638Z"
                     }
                   ]
                 },
                 {
                   "id": "132",
                   "guid": "68e25449-13d5-419f-9362-75703a6012f3",
-                  "text": "<table><tbody><tr><td><p>Primary Actor:</p></td><td><p>Volunteer Administrator</p></td></tr></tbody></table>",
+                  "text": "<p>Primary Actor:</p><p>Volunteer Administrator</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2346,13 +2792,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:25.034Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Primary Actor:</p></td><td><p>Volunteer Administrator</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:33:12.445Z"
                     }
                   ]
                 },
                 {
                   "id": "133",
                   "guid": "d110fec9-838a-4977-83b9-5a4c0601a757",
-                  "text": "<table><tbody><tr><td><p>Secondary Actors:</p></td><td><p>Background Check System (BCS); Police Officer (for manual approval); certificate verification source (when applicable)</p></td></tr></tbody></table>",
+                  "text": "<p>Secondary Actors:</p><p>Background Check System (BCS); Police Officer (for manual approval); certificate verification source (when applicable)</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2375,13 +2832,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:29.415Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Secondary Actors:</p></td><td><p>Background Check System (BCS); Police Officer (for manual approval); certificate verification source (when applicable)</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:33:17.265Z"
                     }
                   ]
                 },
                 {
                   "id": "134",
                   "guid": "b4cd7abc-3378-409c-8403-0fba697f10f0",
-                  "text": "<table><tbody><tr><td><p>Description:</p></td><td><p>The Volunteer Administrator reviews a new volunteer’s application and approves it after the required screening, background check, and (when applicable) educational certificate verification are complete.</p></td></tr></tbody></table>",
+                  "text": "<p>Description:</p><p>The Volunteer Administrator reviews a new volunteer’s application and approves it after the required screening, background check, and (when applicable) educational certificate verification are complete.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2404,13 +2872,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:33.793Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Description:</p></td><td><p>The Volunteer Administrator reviews a new volunteer’s application and approves it after the required screening, background check, and (when applicable) educational certificate verification are complete.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:33:22.732Z"
                     }
                   ]
                 },
                 {
                   "id": "135",
                   "guid": "210c1579-ad06-407a-96e4-9efdedaff38b",
-                  "text": "<table><tbody><tr><td><p>Trigger:</p></td><td><p>The Volunteer Administrator selects a new volunteer profile for approval.</p></td></tr></tbody></table>",
+                  "text": "<p>Trigger:</p><p>The Volunteer Administrator selects a new volunteer profile for approval.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2433,13 +2912,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:39.400Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Trigger:</p></td><td><p>The Volunteer Administrator selects a new volunteer profile for approval.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:33:26.001Z"
                     }
                   ]
                 },
                 {
                   "id": "136",
                   "guid": "a36fccb2-5ccc-4ea7-a58a-9ad0eef57230",
-                  "text": "<table><tbody><tr><td><p>Preconditions:</p></td><td><p>PRE-1. The administrator is authenticated and authorized to approve volunteers.<br>&nbsp;PRE-2. The volunteer profile has been submitted, and initial screening is complete.<br>&nbsp;PRE-3. The required background-check result, including any required police approval, has been received.<br>&nbsp;PRE-4. Educational certificates have been verified if the volunteer will teach young children.</p></td></tr></tbody></table>",
+                  "text": "<p>Preconditions:</p><p>PRE-1. The administrator is authenticated and authorized to approve volunteers.<br>&nbsp;PRE-2. The volunteer profile has been submitted, and initial screening is complete.<br>&nbsp;PRE-3. The required background-check result, including any required police approval, has been received.<br>&nbsp;PRE-4. Educational certificates have been verified if the volunteer will teach young children.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2462,13 +2952,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:43.766Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Preconditions:</p></td><td><p>PRE-1. The administrator is authenticated and authorized to approve volunteers.<br>&nbsp;PRE-2. The volunteer profile has been submitted, and initial screening is complete.<br>&nbsp;PRE-3. The required background-check result, including any required police approval, has been received.<br>&nbsp;PRE-4. Educational certificates have been verified if the volunteer will teach young children.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:33:38.876Z"
                     }
                   ]
                 },
                 {
                   "id": "137",
                   "guid": "4bc59184-8664-4eeb-ac73-039d5d82e504",
-                  "text": "<table><tbody><tr><td><p>Postconditions:</p></td><td><p>&nbsp;POST-1. The volunteer’s status is saved as Approved.<br>&nbsp;POST-2. The approval decision is recorded in the VMS.</p></td></tr></tbody></table>",
+                  "text": "<p>Postconditions:</p><p>&nbsp;POST-1. The volunteer’s status is saved as Approved.<br>&nbsp;POST-2. The approval decision is recorded in the VMS.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2491,13 +2992,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:48.093Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Postconditions:</p></td><td><p>&nbsp;POST-1. The volunteer’s status is saved as Approved.<br>&nbsp;POST-2. The approval decision is recorded in the VMS.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:33:44.457Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:33:45.640Z"
                     }
                   ]
                 },
                 {
                   "id": "138",
                   "guid": "45019e02-b541-497d-8ba4-f961e770e9af",
-                  "text": "<table><tbody><tr><td><p>Normal Flow:</p></td><td><p>1. Administrator opens the list of new volunteer registrations.</p><p>2. VMS displays volunteer profiles and their screening/check statuses.</p><p>3. Administrator selects a volunteer whose required checks are complete.</p><p>4. VMS displays the volunteer’s profile and verification results.</p><p>5. Administrator selects Approve.</p><p>6. VMS validates that all required checks are complete and saves the approval.</p><p>7. VMS updates the volunteer status to Approved and confirms the result.</p></td></tr></tbody></table>",
+                  "text": "<p>Normal Flow:</p><p>1. Administrator opens the list of new volunteer registrations.</p><p>2. VMS displays volunteer profiles and their screening/check statuses.</p><p>3. Administrator selects a volunteer whose required checks are complete.</p><p>4. VMS displays the volunteer’s profile and verification results.</p><p>5. Administrator selects Approve.</p><p>6. VMS validates that all required checks are complete and saves the approval.</p><p>7. VMS updates the volunteer status to Approved and confirms the result.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2520,13 +3043,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:52.678Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Normal Flow:</p></td><td><p>1. Administrator opens the list of new volunteer registrations.</p><p>2. VMS displays volunteer profiles and their screening/check statuses.</p><p>3. Administrator selects a volunteer whose required checks are complete.</p><p>4. VMS displays the volunteer’s profile and verification results.</p><p>5. Administrator selects Approve.</p><p>6. VMS validates that all required checks are complete and saves the approval.</p><p>7. VMS updates the volunteer status to Approved and confirms the result.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:34:05.377Z"
                     }
                   ]
                 },
                 {
                   "id": "139",
                   "guid": "cc2f6d96-a723-4964-8632-1922eb7cc443",
-                  "text": "<table><tbody><tr><td><p>Alternative Flows:</p></td><td><p>1. Certificate verification applies (branches from 3): If the volunteer will teach young children, the administrator confirms the educational certificates are verified before approving; then continue at 5</p><p>2. Further review needed (branches from 4): The administrator does not approve the application and leaves it pending for further review.</p></td></tr></tbody></table>",
+                  "text": "<p>Alternative Flows:</p><p>1. Certificate verification applies (branches from 3): If the volunteer will teach young children, the administrator confirms the educational certificates are verified before approving; then continue at 5</p><p>2. Further review needed (branches from 4): The administrator does not approve the application and leaves it pending for further review.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2549,13 +3083,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:02:58.346Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Alternative Flows:</p></td><td><p>1. Certificate verification applies (branches from 3): If the volunteer will teach young children, the administrator confirms the educational certificates are verified before approving; then continue at 5</p><p>2. Further review needed (branches from 4): The administrator does not approve the application and leaves it pending for further review.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:34:09.861Z"
                     }
                   ]
                 },
                 {
                   "id": "140",
                   "guid": "8cb25619-ca1f-4b07-8c8a-5eed70b46dae",
-                  "text": "<table><tbody><tr><td><p>Exceptions:</p></td><td><p>E1 — Background check pending or incomplete: VMS prevents approval and displays the outstanding check status</p><p>E2 — Required certificate verification missing: VMS prevents approval when the volunteer will teach young children.</p><p>E3 — Save/network failure: VMS reports that approval was not confirmed and does not show Approved unless the change was successfully saved.</p></td></tr></tbody></table>",
+                  "text": "<p>Exceptions:</p><p>E1 — Background check pending or incomplete: VMS prevents approval and displays the outstanding check status</p><p>E2 — Required certificate verification missing: VMS prevents approval when the volunteer will teach young children.</p><p>E3 — Save/network failure: VMS reports that approval was not confirmed and does not show Approved unless the change was successfully saved.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2578,13 +3123,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:03:03.835Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Exceptions:</p></td><td><p>E1 — Background check pending or incomplete: VMS prevents approval and displays the outstanding check status</p><p>E2 — Required certificate verification missing: VMS prevents approval when the volunteer will teach young children.</p><p>E3 — Save/network failure: VMS reports that approval was not confirmed and does not show Approved unless the change was successfully saved.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:34:52.574Z"
                     }
                   ]
                 },
                 {
                   "id": "141",
                   "guid": "88889e1c-121a-45cb-8b46-f4095b233eec",
-                  "text": "<table><tbody><tr><td><p>Priority:</p></td><td><p>High</p></td></tr></tbody></table>",
+                  "text": "<p>Priority:</p><p>High</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2607,13 +3163,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:03:07.987Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Priority:</p></td><td><p>High</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:35:00.162Z"
                     }
                   ]
                 },
                 {
                   "id": "142",
                   "guid": "6be31196-c504-4400-bda3-caa9f7004524",
-                  "text": "<table><tbody><tr><td><p>Business Rules:</p></td><td><p>No rule identifiers are provided in the supplied requirements document. Applicable rule: a volunteer must pass the required background check before approval; educational certificates must be verified for volunteers teaching young children.</p></td></tr></tbody></table>",
+                  "text": "<p>Business Rules:</p><p>No rule identifiers are provided in the supplied requirements document. Applicable rule: a volunteer must pass the required background check before approval; educational certificates must be verified for volunteers teaching young children.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2636,13 +3203,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:03:16.006Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Business Rules:</p></td><td><p>No rule identifiers are provided in the supplied requirements document. Applicable rule: a volunteer must pass the required background check before approval; educational certificates must be verified for volunteers teaching young children.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:35:04.349Z"
                     }
                   ]
                 },
                 {
                   "id": "143",
                   "guid": "1e1e1cda-7a6e-4fcb-a3c6-898899e94cee",
-                  "text": "<table><tbody><tr><td><p>Assumptions:</p></td><td><p>The Volunteer Administrator is the final approver. BCS performs background checks, with police approval handled manually during working hours. Certificate verification is required only for volunteers who will teach young children.</p></td></tr></tbody></table>",
+                  "text": "<p>Assumptions:</p><p>The Volunteer Administrator is the final approver. BCS performs background checks, with police approval handled manually during working hours. Certificate verification is required only for volunteers who will teach young children.</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2665,13 +3243,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:03:20.883Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Assumptions:</p></td><td><p>The Volunteer Administrator is the final approver. BCS performs background checks, with police approval handled manually during working hours. Certificate verification is required only for volunteers who will teach young children.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:35:08.532Z"
                     }
                   ]
                 },
                 {
                   "id": "144",
                   "guid": "eb562929-837a-4f9a-afab-93693a9ba674",
-                  "text": "<table><tbody><tr><td><p>Other Information:</p></td><td><p>Only authorized administrators may approve volunteers. The VMS should retain an auditable approval status. If a system or network failure occurs, the approval must not be treated as complete unless the status change is saved successfully</p></td></tr></tbody></table>",
+                  "text": "<p>Other Information:</p><p>Only authorized administrators may approve volunteers. The VMS should retain an auditable approval status. If a system or network failure occurs, the approval must not be treated as complete unless the status change is saved successfully</p>",
                   "history": [
                     {
                       "affectedNodeId": "28",
@@ -2694,6 +3283,17 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:03:24.789Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Other Information:</p></td><td><p>Only authorized administrators may approve volunteers. The VMS should retain an auditable approval status. If a system or network failure occurs, the approval must not be treated as complete unless the status change is saved successfully</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:35:13.848Z"
                     }
                   ]
                 }
@@ -2702,8 +3302,7 @@
             {
               "id": "29",
               "guid": "5fae7c4c-6e17-4e3c-bff8-7d90e9e99640",
-              "heading": "Use Case 7",
-              "text": "<table><tbody><tr><td><p>ID and Name:</p></td><td><p>UC-7 Generate Daily Report</p></td></tr></tbody></table>",
+              "heading": "UC-7 Generate Daily Report",
               "ForeignID": "URD-29",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
@@ -2774,13 +3373,25 @@
                     "oldType": "reference"
                   },
                   "changedOn": "2026-11-09T17:27:00.274Z"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": "Use Case 7",
+                    "text": "<table><tbody><tr><td><p>ID and Name:</p></td><td><p>UC-7 Generate Daily Report</p></td></tr></tbody></table>"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:35:32.333Z"
                 }
               ],
               "children": [
                 {
                   "id": "146",
                   "guid": "80b19501-8064-4597-9bc6-98082426356b",
-                  "text": "<table><tbody><tr><td><p>Author:</p></td><td><p>Kyle Rougeau</p></td><td><p>Date Created:</p></td><td><p>18/10/2026</p></td></tr></tbody></table>",
+                  "text": "<p>Author: Kyle Rougeau</p><p>Date Created: 18/10/2026</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -2803,13 +3414,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:14.313Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Author:</p></td><td><p>Kyle Rougeau</p></td><td><p>Date Created:</p></td><td><p>18/10/2026</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:35:37.829Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Author:</p><p>Kyle Rougeau</p><p>Date Created:</p><p>18/10/2026</p>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:35:44.175Z"
                     }
                   ]
                 },
                 {
                   "id": "147",
                   "guid": "7227a413-23c6-4ac2-a552-bc05edb636cb",
-                  "text": "<table><tbody><tr><td><p>Primary Actor:</p></td><td><p>Administrative Manager</p></td></tr></tbody></table>",
+                  "text": "<p>Primary Actor:</p><p>Administrative Manager</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -2832,13 +3465,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:24.387Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Primary Actor:</p></td><td><p>Administrative Manager</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:35:48.011Z"
                     }
                   ]
                 },
                 {
                   "id": "148",
                   "guid": "4362e224-5cdb-4340-a931-b608c8e50ad5",
-                  "text": "<table><tbody><tr><td><p>Secondary Actors:</p></td><td><p><br></p></td></tr></tbody></table>",
+                  "text": "<p>Secondary Actors:&nbsp;</p><p>None</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -2861,13 +3505,35 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:29.037Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Secondary Actors:</p></td><td><p><br></p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:35:54.147Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p><br></p></td><td><br></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:01.949Z"
                     }
                   ]
                 },
                 {
                   "id": "149",
                   "guid": "187e546c-c40b-4e7b-b536-c0ca9639c45b",
-                  "text": "<table><tbody><tr><td><p>Description:</p></td><td><p>Generate a daily report of the forecasted number of cases for the next week.</p></td></tr></tbody></table>",
+                  "text": "<p>Description:</p><p>Generate a daily report of the forecasted number of cases for the next week.</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -2890,13 +3556,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:33.429Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Description:</p></td><td><p>Generate a daily report of the forecasted number of cases for the next week.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:06.960Z"
                     }
                   ]
                 },
                 {
                   "id": "150",
                   "guid": "d454fb4e-b7ef-4358-95f2-9a9cf4935d3e",
-                  "text": "<table><tbody><tr><td><p>Trigger:</p></td><td><p>Automatic (daily)</p></td></tr></tbody></table>",
+                  "text": "<p>Trigger:</p><p>Automatic (daily)</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -2919,13 +3596,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:37.935Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Trigger:</p></td><td><p>Automatic (daily)</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:11.982Z"
                     }
                   ]
                 },
                 {
                   "id": "151",
                   "guid": "7dcf5197-88b6-4e58-8a6e-f02994d0f812",
-                  "text": "<table><tbody><tr><td><p>Preconditions:</p></td><td><p>None</p></td></tr></tbody></table>",
+                  "text": "<p>Preconditions:</p><p>None</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -2948,13 +3636,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:43.389Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Preconditions:</p></td><td><p>None</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:18.839Z"
                     }
                   ]
                 },
                 {
                   "id": "152",
                   "guid": "2f2ad3db-40e4-462f-9bde-b8ec778da1f9",
-                  "text": "<table><tbody><tr><td><p>Postconditions:</p></td><td><p>POST-1. Report is generated.</p><p>POST-2. Report is stored for future access.</p></td></tr></tbody></table>",
+                  "text": "<p>Postconditions:</p><p>POST-1. Report is generated.</p><p>POST-2. Report is stored for future access.</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -2977,13 +3676,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:48.160Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Postconditions:</p></td><td><p>POST-1. Report is generated.</p><p>POST-2. Report is stored for future access.</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:26.679Z"
                     }
                   ]
                 },
                 {
                   "id": "153",
                   "guid": "ccfc5abe-c1e8-4292-a357-9ce5b97e9af2",
-                  "text": "<table><tbody><tr><td><p>Normal Flow:</p></td><td><p><strong>7.0 Generate a Forecast Report</strong></p><ol start=\"1\" type=\"1\"><li>VMS accesses case report history.</li><li>VMS pipes report history to prediction algorithm.</li><li>VMS uses algorithm output to generate the report.</li><li>Report is stored for future access.</li></ol></td></tr></tbody></table>",
+                  "text": "<p>Normal Flow:</p><p><strong>7.0 Generate a Forecast Report</strong></p><ol start=\"1\" type=\"1\"><li>VMS accesses case report history.</li><li>VMS pipes report history to prediction algorithm.</li><li>VMS uses algorithm output to generate the report.</li><li>Report is stored for future access.</li></ol>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -3006,13 +3716,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:53.323Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Normal Flow:</p></td><td><p><strong>7.0 Generate a Forecast Report</strong></p><ol start=\"1\" type=\"1\"><li>VMS accesses case report history.</li><li>VMS pipes report history to prediction algorithm.</li><li>VMS uses algorithm output to generate the report.</li><li>Report is stored for future access.</li></ol></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:32.342Z"
                     }
                   ]
                 },
                 {
                   "id": "154",
                   "guid": "de539448-e986-4c8c-886a-f0475d6d9c6c",
-                  "text": "<table><tbody><tr><td><p>Alternative Flows:</p></td><td><p>None</p></td></tr></tbody></table>",
+                  "text": "<p>Alternative Flows:</p><p>None</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -3035,13 +3756,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:07:57.790Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Alternative Flows:</p></td><td><p>None</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:40.269Z"
                     }
                   ]
                 },
                 {
                   "id": "155",
                   "guid": "6741dc52-bf26-4524-a8bd-fcfee42b5fe5",
-                  "text": "<table><tbody><tr><td><p>Exceptions:</p></td><td><p>None</p></td></tr></tbody></table>",
+                  "text": "<p>Exceptions:</p><p>None</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -3064,13 +3796,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:08:02.047Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Exceptions:</p></td><td><p>None</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:43.569Z"
                     }
                   ]
                 },
                 {
                   "id": "156",
                   "guid": "c0055c67-7544-49bc-9313-141b773a491a",
-                  "text": "<table><tbody><tr><td><p>Priority:</p></td><td><p>Low</p></td></tr></tbody></table>",
+                  "text": "<p>Priority:</p><p>Low</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -3093,13 +3836,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:08:05.901Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Priority:</p></td><td><p>Low</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:47.148Z"
                     }
                   ]
                 },
                 {
                   "id": "157",
                   "guid": "54f636a8-57cf-4df6-9e36-00fd5239b65e",
-                  "text": "<table><tbody><tr><td><p>Business Rules:</p></td><td><p>TBD</p></td></tr></tbody></table>",
+                  "text": "<p>Business Rules:</p><p>TBD</p>",
                   "TBD": "TBD",
                   "history": [
                     {
@@ -3134,13 +3888,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-09T17:00:33.916Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Business Rules:</p></td><td><p>TBD</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:51.129Z"
                     }
                   ]
                 },
                 {
                   "id": "158",
                   "guid": "44c92165-9d64-4a10-b81e-188fc63d79a0",
-                  "text": "<table><tbody><tr><td><p>Assumptions:</p></td><td><p>Case report history exists and is accessible&nbsp;</p></td></tr></tbody></table>",
+                  "text": "<p>Assumptions:</p><p>Case report history exists and is accessible&nbsp;</p>",
                   "history": [
                     {
                       "affectedNodeId": "29",
@@ -3163,13 +3928,24 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-05T18:08:20.022Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Assumptions:</p></td><td><p>Case report history exists and is accessible&nbsp;</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:54.978Z"
                     }
                   ]
                 },
                 {
                   "id": "159",
                   "guid": "1c765962-de93-4fda-84da-959a38ab6c60",
-                  "text": "<table><tbody><tr><td><p>Other Information:</p></td><td><p>None (TBD?)</p></td></tr></tbody></table>",
+                  "text": "<p>Other Information:</p><p>None (TBD?)</p>",
                   "TBD": "TBD",
                   "history": [
                     {
@@ -3204,6 +3980,17 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-09T17:00:35.592Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<table><tbody><tr><td><p>Other Information:</p></td><td><p>None (TBD?)</p></td></tr></tbody></table>"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:36:58.731Z"
                     }
                   ]
                 }
@@ -3835,6 +4622,13 @@
               "text": "<p>A person registered to help seniors. Created in UC-3, approved in UC-4, assigned in UC-5.</p>",
               "ForeignID": "URD-57",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "links": {
+                "reference": [
+                  "URD-114",
+                  "URD-113",
+                  "URD-112"
+                ]
+              },
               "history": [
                 {
                   "affectedNodeId": "56",
@@ -3869,6 +4663,48 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-10T07:40:19.500Z"
+                },
+                {
+                  "addedLink": {
+                    "target": [
+                      "URD-114"
+                    ],
+                    "type": "reference"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:21:23.469Z"
+                },
+                {
+                  "addedLink": {
+                    "target": [
+                      "URD-113"
+                    ],
+                    "type": "reference"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:21:27.733Z"
+                },
+                {
+                  "addedLink": {
+                    "target": [
+                      "URD-112"
+                    ],
+                    "type": "reference"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:21:30.262Z"
                 }
               ],
               "children": [
@@ -4014,6 +4850,7 @@
                   "id": "165",
                   "guid": "4360bfa4-956e-49bf-92a1-e6d0fd371810",
                   "text": "<p>Interested case types: list, zero or more. Case type list TBD.</p>",
+                  "TBD": "TBD",
                   "history": [
                     {
                       "affectedNodeId": "57",
@@ -4036,6 +4873,17 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-10T07:41:48.732Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "TBD": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:22:59.563Z"
                     }
                   ]
                 },
@@ -4162,6 +5010,12 @@
               "guid": "747483c3-f251-4a88-a79c-efb1bf453849",
               "heading": "DD-2 Senior Case",
               "text": "<p>A request for support for a senior, reported by a Client Ambassador (UC-1) and matched to a volunteer (UC-5).</p>",
+              "links": {
+                "reference": [
+                  "URD-112",
+                  "URD-116"
+                ]
+              },
               "history": [
                 {
                   "affectedNodeId": "56",
@@ -4185,6 +5039,21 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-10T07:42:25.988Z"
+                },
+                {
+                  "addedLink": {
+                    "target": [
+                      "URD-112",
+                      "URD-116"
+                    ],
+                    "type": "reference"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:22:25.030Z"
                 }
               ],
               "children": [
@@ -4250,6 +5119,7 @@
                   "id": "176",
                   "guid": "01d839b3-2a5b-4c4f-856e-5379aaba14e0",
                   "text": "<p>Case type: enumeration. Values TBD.</p>",
+                  "TBD": "TBD",
                   "history": [
                     {
                       "affectedNodeId": "170",
@@ -4272,6 +5142,17 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-10T07:43:03.156Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "TBD": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:22:47.524Z"
                     }
                   ]
                 },
@@ -4337,6 +5218,7 @@
                   "id": "173",
                   "guid": "38945060-32e0-40b2-a828-6fba72ed88e5",
                   "text": "<p>Case status: Unassigned, Pending acceptance or Assigned. Closed TBD.</p>",
+                  "TBD": "TBD",
                   "history": [
                     {
                       "affectedNodeId": "170",
@@ -4359,6 +5241,17 @@
                         "name": "Bre"
                       },
                       "changedOn": "2026-11-10T07:43:14.104Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "TBD": null
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T15:22:43.366Z"
                     }
                   ]
                 }
@@ -4369,6 +5262,11 @@
               "guid": "24a262bf-6eff-4d3a-9d17-3d4a0d6f4998",
               "heading": "DD-3 Assignment",
               "text": "<p>Links one volunteer to one case (UC-5). A volunteer’s Assignments make up their volunteering history.</p>",
+              "links": {
+                "reference": [
+                  "URD-112"
+                ]
+              },
               "history": [
                 {
                   "affectedNodeId": "56",
@@ -4392,6 +5290,20 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-10T07:44:09.556Z"
+                },
+                {
+                  "addedLink": {
+                    "target": [
+                      "URD-112"
+                    ],
+                    "type": "reference"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:23:38.410Z"
                 }
               ],
               "children": [
@@ -4754,6 +5666,11 @@
               "guid": "1bd4f7a9-5a61-4353-9c72-4ee4045a4c8f",
               "heading": "DD-5 Daily Forecast Report",
               "text": "<p>Automatically generated forecast of cases for the next week (UC-7), stored for later access.</p>",
+              "links": {
+                "reference": [
+                  "URD-110"
+                ]
+              },
               "history": [
                 {
                   "affectedNodeId": "56",
@@ -4777,6 +5694,20 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-10T07:46:06.711Z"
+                },
+                {
+                  "addedLink": {
+                    "target": [
+                      "URD-110"
+                    ],
+                    "type": "reference"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T15:25:35.579Z"
                 }
               ],
               "children": [

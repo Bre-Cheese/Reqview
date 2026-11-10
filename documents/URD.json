@@ -2,24 +2,24 @@
   "id": "URD",
   "guid": "31350325-e563-4144-8b42-d6195fa74867",
   "name": "URD",
-  "lastId": 159,
+  "lastId": 196,
   "createdOn": "2026-11-05T17:02:30.323Z",
   "createdBy": {
     "name": "Bre",
     "email": "a@mgail.com",
     "company": "a"
   },
-  "lastChangedOn": "2026-11-09T17:29:25.013Z",
+  "lastChangedOn": "2026-11-10T07:49:44.370Z",
   "lastChangedBy": {
     "name": "Bre",
-    "email": "a@mgail.com",
-    "company": "a"
+    "email": "t00756235@mytru.ca",
+    "company": "TRU"
   },
   "data": [
     {
       "id": "2",
       "guid": "05edb9cc-de45-4563-bf01-c5b625891ce6",
-      "text": "<p><strong><span style=\"color:black;\">Revision History</span></strong></p><table><tbody><tr><td style=\"width:108.0pt;\"><p><strong><span>Name</span></strong></p></td><td style=\"width:77.25pt;\"><p><strong><span>Date</span></strong></p></td><td style=\"width:228.75pt;\"><p><strong><span>Reason For Changes</span></strong></p></td><td style=\"width:79.5pt;\"><p><strong><span>Version</span></strong></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Create New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.1</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayll</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.2 for potential actors</span></p></td><td style=\"width:79.5pt;\"><p><span>0.2</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.3.1 Use Case List</span></p></td><td style=\"width:79.5pt;\"><p><span>0.3</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Approve New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.4</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.5</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added and completed use case table “UC-7 Generate Daily Report” in section 2.3.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.6</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Fixed a mix-up between Actor and User Class</span></p></td><td style=\"width:79.5pt;\"><p><span>0.7</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Revised Use Case 3</span></p></td><td style=\"width:79.5pt;\"><p><span>0.8</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added System Model with glyph descriptions</span></p></td><td style=\"width:79.5pt;\"><p><span>0.9</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Defined document conventions in section 2.2</span></p></td><td style=\"width:79.5pt;\"><p><span>0.10</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Vaguely Filled out section 1, 1.1, 2.5, 2.6</span></p></td><td style=\"width:79.5pt;\"><p><span>0.11</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Completed section 1.1 and imported document into ReqView</span></p></td><td style=\"width:79.5pt;\"><p><span>1.0</span></p></td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">01/11/2026</td><td style=\"width:228.75pt;\">Separated tables into multiple objects to better support traceability&nbsp;</td><td style=\"width:79.5pt;\">1.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">09/11/2026</td><td style=\"width:228.75pt;\">Added a \"TBD\" status attribute to objects. this was done to support trackability and document completeness.<br></td><td style=\"width:79.5pt;\">1.2</td></tr></tbody></table>",
+      "text": "<p><strong><span style=\"color:black;\">Revision History</span></strong></p><table><tbody><tr><td style=\"width:108.0pt;\"><p><strong><span>Name</span></strong></p></td><td style=\"width:77.25pt;\"><p><strong><span>Date</span></strong></p></td><td style=\"width:228.75pt;\"><p><strong><span>Reason For Changes</span></strong></p></td><td style=\"width:79.5pt;\"><p><strong><span>Version</span></strong></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Create New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.1</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayll</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.2 for potential actors</span></p></td><td style=\"width:79.5pt;\"><p><span>0.2</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.3.1 Use Case List</span></p></td><td style=\"width:79.5pt;\"><p><span>0.3</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Approve New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.4</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.5</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added and completed use case table “UC-7 Generate Daily Report” in section 2.3.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.6</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Fixed a mix-up between Actor and User Class</span></p></td><td style=\"width:79.5pt;\"><p><span>0.7</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Revised Use Case 3</span></p></td><td style=\"width:79.5pt;\"><p><span>0.8</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added System Model with glyph descriptions</span></p></td><td style=\"width:79.5pt;\"><p><span>0.9</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Defined document conventions in section 2.2</span></p></td><td style=\"width:79.5pt;\"><p><span>0.10</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Vaguely Filled out section 1, 1.1, 2.5, 2.6</span></p></td><td style=\"width:79.5pt;\"><p><span>0.11</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Completed section 1.1 and imported document into ReqView</span></p></td><td style=\"width:79.5pt;\"><p><span>1.0</span></p></td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">01/11/2026</td><td style=\"width:228.75pt;\">Separated tables into multiple objects to better support traceability&nbsp;</td><td style=\"width:79.5pt;\">1.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">09/11/2026</td><td style=\"width:228.75pt;\">Added a \"TBD\" status attribute to objects. this was done to support trackability and document completeness.<br></td><td style=\"width:79.5pt;\">1.2</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">10/11/2026</td><td style=\"width:228.75pt;\">Wrote Data dictionary&nbsp;</td><td style=\"width:79.5pt;\">1.3</td></tr></tbody></table>",
       "ForeignID": "URD-2",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
@@ -55,6 +55,17 @@
             "name": "Bre"
           },
           "changedOn": "2026-11-09T17:10:06.593Z"
+        },
+        {
+          "attributesChanged": {
+            "text": "<p><strong><span style=\"color:black;\">Revision History</span></strong></p><table><tbody><tr><td style=\"width:108.0pt;\"><p><strong><span>Name</span></strong></p></td><td style=\"width:77.25pt;\"><p><strong><span>Date</span></strong></p></td><td style=\"width:228.75pt;\"><p><strong><span>Reason For Changes</span></strong></p></td><td style=\"width:79.5pt;\"><p><strong><span>Version</span></strong></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Create New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.1</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayll</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.2 for potential actors</span></p></td><td style=\"width:79.5pt;\"><p><span>0.2</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.3.1 Use Case List</span></p></td><td style=\"width:79.5pt;\"><p><span>0.3</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Approve New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.4</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.5</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added and completed use case table “UC-7 Generate Daily Report” in section 2.3.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.6</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Fixed a mix-up between Actor and User Class</span></p></td><td style=\"width:79.5pt;\"><p><span>0.7</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Revised Use Case 3</span></p></td><td style=\"width:79.5pt;\"><p><span>0.8</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added System Model with glyph descriptions</span></p></td><td style=\"width:79.5pt;\"><p><span>0.9</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Defined document conventions in section 2.2</span></p></td><td style=\"width:79.5pt;\"><p><span>0.10</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Vaguely Filled out section 1, 1.1, 2.5, 2.6</span></p></td><td style=\"width:79.5pt;\"><p><span>0.11</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Completed section 1.1 and imported document into ReqView</span></p></td><td style=\"width:79.5pt;\"><p><span>1.0</span></p></td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">01/11/2026</td><td style=\"width:228.75pt;\">Separated tables into multiple objects to better support traceability&nbsp;</td><td style=\"width:79.5pt;\">1.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">09/11/2026</td><td style=\"width:228.75pt;\">Added a \"TBD\" status attribute to objects. this was done to support trackability and document completeness.<br></td><td style=\"width:79.5pt;\">1.2</td></tr></tbody></table>"
+          },
+          "changedBy": {
+            "company": "TRU",
+            "email": "t00756235@mytru.ca",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T07:49:44.370Z"
         }
       ]
     },
@@ -3820,7 +3831,8 @@
             {
               "id": "57",
               "guid": "ba72b996-7cc2-4a0f-aef2-4b6066ad4a1c",
-              "text": "<p><em><span style=\"color:black;\">&lt;The data dictionary defines the composition of data structures and the meaning, data type, length, format, and allowed values for the data elements that make up those structures. In many cases, you're better off storing the data dictionary as a separate artifact, rather than embedding it in the middle of an SRS. That also increases its reusability potential in other projects.&gt;</span></em></p>",
+              "heading": "DD-1 Volunteer Profile",
+              "text": "<p>A person registered to help seniors. Created in UC-3, approved in UC-4, assigned in UC-5.</p>",
               "ForeignID": "URD-57",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
@@ -3834,6 +3846,1084 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": "<p><em><span style=\"color:black;\">&lt;The data dictionary defines the composition of data structures and the meaning, data type, length, format, and allowed values for the data elements that make up those structures. In many cases, you're better off storing the data dictionary as a separate artifact, rather than embedding it in the middle of an SRS. That also increases its reusability potential in other projects.&gt;</span></em></p>"
+                  },
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:39:57.984Z"
+                },
+                {
+                  "attributesChanged": {
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:40:19.500Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "162",
+                  "guid": "2837ee8c-b10d-4598-b288-e4a1a4a80c7c",
+                  "text": "<p>Volunteer ID: text, 10 characters. Unique, system-generated.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:05.823Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:34.037Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "160",
+                  "guid": "0a67ae4d-8626-488d-bde3-ce5e10addb46",
+                  "text": "<p>Name: text, up to 100 characters. Required.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:40:12.709Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:40:12.709Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": "<p>Volunteer ID: text, 10 characters. Unique, system-generated.</p>"
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:32.992Z"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:38.380Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "163",
+                  "guid": "1584f101-1efb-408f-a3ae-101729cef8a4",
+                  "text": "<p>Contact info: text, up to 100 characters. Phone and email required, valid format.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:11.530Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:42.017Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "164",
+                  "guid": "0dbb5368-e403-47cc-92e1-c1f113107837",
+                  "text": "<p>Education / certificates: text plus verified flag. Verification required only for volunteers teaching young children.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:20.167Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:45.480Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "165",
+                  "guid": "4360bfa4-956e-49bf-92a1-e6d0fd371810",
+                  "text": "<p>Interested case types: list, zero or more. Case type list TBD.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:23.602Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:48.732Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "166",
+                  "guid": "384c4e1b-637f-44d2-ade4-255e4df331a2",
+                  "text": "<p>Approval status: Pending, Approved or Denied.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:27.308Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:52.693Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "167",
+                  "guid": "a80f5ae5-d832-4c43-a2fa-538ee049017a",
+                  "text": "<p>Assignment status: Not assigned or Assigned.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:30.038Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:41:56.859Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "168",
+                  "guid": "cbf70262-0840-4a1a-ae4f-9540b54ac64b",
+                  "text": "<p>Engagement score: number from 0 to 100. System-calculated; formula TBD.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:07.251Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:07.251Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "169",
+                  "guid": "4678f982-dc60-4c26-8b08-4bed742c4d8f",
+                  "text": "<p>Date created: DD/MM/YYYY. System-set.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "57",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:12.679Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:12.679Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "170",
+              "guid": "747483c3-f251-4a88-a79c-efb1bf453849",
+              "heading": "DD-2 Senior Case",
+              "text": "<p>A request for support for a senior, reported by a Client Ambassador (UC-1) and matched to a volunteer (UC-5).</p>",
+              "history": [
+                {
+                  "affectedNodeId": "56",
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:42:25.988Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:42:25.988Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "171",
+                  "guid": "c9a485c4-8bdc-42f3-97bf-593aa7f2db6a",
+                  "text": "<p>Case ID: text, 10 characters. Unique, system-generated.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "170",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:32.218Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:56.047Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "172",
+                  "guid": "1fdfcc4e-087a-401b-bd4e-4a452eadc6a1",
+                  "text": "<p>Senior name / contact: text, up to 100 characters. Required.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "170",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:39.163Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:59.919Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "176",
+                  "guid": "01d839b3-2a5b-4c4f-856e-5379aaba14e0",
+                  "text": "<p>Case type: enumeration. Values TBD.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "170",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:51.109Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:43:03.156Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "175",
+                  "guid": "472107ca-23d5-4580-a7fe-028ed9b4f2c0",
+                  "text": "<p>Health issues: text, up to 500 characters. Optional; added via UC-6.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "170",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:48.612Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:43:06.668Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "174",
+                  "guid": "03155522-7dea-4a62-898c-b29a5c9e9b0b",
+                  "text": "<p>Date reported: DD/MM/YYYY. Cannot be in the future.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "170",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:46.012Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:43:09.855Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "173",
+                  "guid": "38945060-32e0-40b2-a828-6fba72ed88e5",
+                  "text": "<p>Case status: Unassigned, Pending acceptance or Assigned. Closed TBD.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "170",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:42:43.287Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:43:14.104Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "177",
+              "guid": "24a262bf-6eff-4d3a-9d17-3d4a0d6f4998",
+              "heading": "DD-3 Assignment",
+              "text": "<p>Links one volunteer to one case (UC-5). A volunteer’s Assignments make up their volunteering history.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "56",
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:44:09.556Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:44:09.556Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "178",
+                  "guid": "2415a864-3adc-47ec-9033-78ee899617c0",
+                  "text": "<p>Assignment ID: text. Unique, system-generated.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "177",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:14.284Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:19.888Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "179",
+                  "guid": "be6ceb05-b797-4ed1-81b2-d30bb6fe31d6",
+                  "text": "<p>Case ID: reference to an existing case with status Unassigned.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "177",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:27.092Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:27.092Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "180",
+                  "guid": "d411c08f-9fd8-4151-beea-a96062c4d35d",
+                  "text": "<p>Volunteer ID: reference to an Approved volunteer with status Not assigned.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "177",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:32.991Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:32.991Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "181",
+                  "guid": "381601db-5421-41d2-a121-5bea01ead32a",
+                  "text": "<p>Assigned by: reference to the Volunteer Administrator.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "177",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:39.749Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:39.749Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "182",
+                  "guid": "7c23e6fb-5b83-4bea-9728-7e220232a739",
+                  "text": "<p>Date assigned: DD/MM/YYYY. System-set on confirmation.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "177",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:45.670Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:45.670Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "183",
+                  "guid": "50627265-9c59-4367-b721-e6c559a94c54",
+                  "text": "<p>Volunteer response: Pending, Accepted or Declined. The case becomes Assigned only when the response is Accepted.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "177",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:53.168Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:44:53.168Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "184",
+              "guid": "ec36e647-18f6-4c14-81fa-e88d735c591b",
+              "heading": "DD-4 Background Check Record",
+              "text": "<p>Police background check result for one volunteer, required before approval (UC-4).</p>",
+              "history": [
+                {
+                  "affectedNodeId": "56",
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:45:11.323Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:45:11.323Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "185",
+                  "guid": "08da650c-790a-456e-bfa0-088196455747",
+                  "text": "<p>Check ID: text. Unique, system-generated.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "184",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:19.019Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:19.019Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "186",
+                  "guid": "532a5c90-2262-407f-96d6-5aa3fd2200a5",
+                  "text": "<p>Volunteer ID: reference to an existing volunteer profile.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "184",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:26.491Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:26.491Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "187",
+                  "guid": "61bf26a9-df85-483f-b928-81d9f67d8c95",
+                  "text": "<p>Check status: Pending, Passed or Failed.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "184",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:31.728Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:31.728Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "188",
+                  "guid": "85ac5603-92f8-49e6-bd7f-4a82234e9f8d",
+                  "text": "<p>Police approval: yes/no. Manual checks only.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "184",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:38.313Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:38.313Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "189",
+                  "guid": "417733c9-1012-451d-b591-6a8dd0cf3996",
+                  "text": "<p>Date submitted / completed: DD/MM/YYYY. Completed cannot be before submitted.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "184",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:46.011Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:45:46.011Z"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "190",
+              "guid": "1bd4f7a9-5a61-4353-9c72-4ee4045a4c8f",
+              "heading": "DD-5 Daily Forecast Report",
+              "text": "<p>Automatically generated forecast of cases for the next week (UC-7), stored for later access.</p>",
+              "history": [
+                {
+                  "affectedNodeId": "56",
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:46:06.711Z",
+                  "docId": "URD",
+                  "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "heading": null,
+                    "text": null
+                  },
+                  "changedBy": {
+                    "company": "TRU",
+                    "email": "t00756235@mytru.ca",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T07:46:06.711Z"
+                }
+              ],
+              "children": [
+                {
+                  "id": "192",
+                  "guid": "6c468a19-013e-455d-aa34-e28e4f5d1889",
+                  "text": "<p>Report ID: text. Unique, system-generated.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "190",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:16.716Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:16.716Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "193",
+                  "guid": "4d6d953e-c0c4-4357-85b5-5b960d307c23",
+                  "text": "<p>Date generated: DD/MM/YYYY. One per day.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "190",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:25.744Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:25.744Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "194",
+                  "guid": "8b277c6e-3381-43df-8bcd-150b69acc364",
+                  "text": "<p>Forecast period: the 7 days after Date generated.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "190",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:32.553Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:32.553Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "195",
+                  "guid": "b4d4bfc6-7260-4092-848e-695d7c138d08",
+                  "text": "<p>Forecasted cases per day: 7 whole numbers, each 0 or more.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "190",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:38.967Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:38.967Z"
+                    }
+                  ]
+                },
+                {
+                  "id": "196",
+                  "guid": "0af774d2-f9c5-4955-ad6a-97bfd434967e",
+                  "text": "<p>Total forecasted cases: whole number. Sum of the daily values.</p>",
+                  "history": [
+                    {
+                      "affectedNodeId": "190",
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:45.581Z",
+                      "docId": "URD",
+                      "structureAction": "Create"
+                    },
+                    {
+                      "attributesChanged": {
+                        "text": null
+                      },
+                      "changedBy": {
+                        "company": "TRU",
+                        "email": "t00756235@mytru.ca",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T07:47:45.581Z"
+                    }
+                  ]
                 }
               ]
             }

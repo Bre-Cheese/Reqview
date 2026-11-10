@@ -9,18 +9,17 @@
     "email": "a@mgail.com",
     "company": "a"
   },
-  "lastChangedOn": "2026-11-10T21:15:10.785Z",
+  "lastChangedOn": "2026-11-10T21:47:26.906Z",
   "lastChangedBy": {
-    "name": "T00727415",
-    "email": "t00727415@mytru.ca",
-    "company": "Thompson Rivers University"
+    "name": "Bre",
+    "email": "a@mgail.com",
+    "company": "a"
   },
   "data": [
     {
       "id": "2",
       "guid": "05edb9cc-de45-4563-bf01-c5b625891ce6",
       "text": "<p><strong><span style=\"color:black;\">Revision History</span></strong></p><table><tbody><tr><td style=\"width:108.0pt;\"><p><strong><span>Name</span></strong></p></td><td style=\"width:77.25pt;\"><p><strong><span>Date</span></strong></p></td><td style=\"width:228.75pt;\"><p><strong><span>Reason For Changes</span></strong></p></td><td style=\"width:79.5pt;\"><p><strong><span>Version</span></strong></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Create New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.1</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayll</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.2 for potential actors</span></p></td><td style=\"width:79.5pt;\"><p><span>0.2</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.3.1 Use Case List</span></p></td><td style=\"width:79.5pt;\"><p><span>0.3</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added use case table for Approve New Volunteer</span></p></td><td style=\"width:79.5pt;\"><p><span>0.4</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Filled out section 2.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.5</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added and completed use case table “UC-7 Generate Daily Report” in section 2.3.1</span></p></td><td style=\"width:79.5pt;\"><p><span>0.6</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Fixed a mix-up between Actor and User Class</span></p></td><td style=\"width:79.5pt;\"><p><span>0.7</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Revised Use Case 3</span></p></td><td style=\"width:79.5pt;\"><p><span>0.8</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Kyle Rougeau</span></p></td><td style=\"width:77.25pt;\"><p><span>18/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Added System Model with glyph descriptions</span></p></td><td style=\"width:79.5pt;\"><p><span>0.9</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Defined document conventions in section 2.2</span></p></td><td style=\"width:79.5pt;\"><p><span>0.10</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Jay Erickson</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Vaguely Filled out section 1, 1.1, 2.5, 2.6</span></p></td><td style=\"width:79.5pt;\"><p><span>0.11</span></p></td></tr><tr><td style=\"width:108.0pt;\"><p><span>Bre Mayall</span></p></td><td style=\"width:77.25pt;\"><p><span>19/10/2026</span></p></td><td style=\"width:228.75pt;\"><p><span>Completed section 1.1 and imported document into ReqView</span></p></td><td style=\"width:79.5pt;\"><p><span>1.0</span></p></td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">01/11/2026</td><td style=\"width:228.75pt;\">Separated tables into multiple objects to better support traceability&nbsp;</td><td style=\"width:79.5pt;\">1.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">09/11/2026</td><td style=\"width:228.75pt;\">Added a \"TBD\" status attribute to objects. this was done to support trackability and document completeness.<br></td><td style=\"width:79.5pt;\">1.2</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">10/11/2026</td><td style=\"width:228.75pt;\">Wrote Data dictionary&nbsp;</td><td style=\"width:79.5pt;\">1.3.1</td></tr><tr><td style=\"width:108.0pt;\">Bre Mayall</td><td style=\"width:77.25pt;\">10/11/2026</td><td style=\"width:228.75pt;\">Reformatted tables&nbsp;</td><td style=\"width:79.5pt;\">1.3.2</td></tr><tr><td style=\"width:108.0pt;\">Kyle Rougeau</td><td style=\"width:77.25pt;\">10/11/2026</td><td style=\"width:228.75pt;\">Added Data Model and View Mock-Ups</td><td style=\"width:79.5pt;\">1.3.3</td></tr></tbody></table>",
-      "ForeignID": "URD-2",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -88,6 +87,17 @@
             "name": "T00727415"
           },
           "changedOn": "2026-11-10T21:15:10.785Z"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-2"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ]
     },
@@ -95,7 +105,6 @@
       "id": "3",
       "guid": "764ceedb-9794-4ace-9182-ab4b04792e03",
       "heading": "Introduction",
-      "ForeignID": "URD-3",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -108,6 +117,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-3"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -115,7 +135,6 @@
           "id": "4",
           "guid": "e76b59c3-021a-4cc2-a7e6-d4cb9c57835b",
           "text": "<p><span>This Software Requirements Specification (SRS) document defines the requirements for the volunteer management system (VMS), a new product that can organize volunteers and requests for them so seniors and students looking for support can be helped more efficiently</span></p>",
-          "ForeignID": "URD-4",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -128,6 +147,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-4"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         },
@@ -135,7 +165,6 @@
           "id": "5",
           "guid": "896cae48-8ee1-4b95-bd7d-1a8ae210be62",
           "text": "<p><span>Project managers should read sections 1 and 2. Developers should refer to section 2, particularly the use cases and user requirements to support development of the product.</span></p>",
-          "ForeignID": "URD-5",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -148,6 +177,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-5"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         },
@@ -155,7 +195,6 @@
           "id": "6",
           "guid": "4c7f1603-01ad-4e25-8016-a301607dc32c",
           "text": "<p><span>Any section which has not been completed in the current iteration of the project will be marked as TBD&nbsp;</span></p>",
-          "ForeignID": "URD-6",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -223,6 +262,17 @@
                 "name": "Bre"
               },
               "changedOn": "2026-11-10T15:19:53.192Z"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-6"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         },
@@ -230,7 +280,6 @@
           "id": "7",
           "guid": "4c54f434-1f74-4218-b397-21191daa6d00",
           "heading": "Document Purpose",
-          "ForeignID": "URD-7",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -243,6 +292,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-7"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -250,7 +310,6 @@
               "id": "8",
               "guid": "3e65d447-8fe1-43f0-98d6-f25bfb3b1b6e",
               "text": "<p><span>This document details the software requirements specification for the Volunteer Management System version 1.0. It is intended to help developers have a clear idea of the system functions and help project managers understand the user requirements.</span></p>",
-              "ForeignID": "URD-8",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -263,6 +322,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-8"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -272,7 +342,6 @@
           "id": "9",
           "guid": "119cff08-c336-403d-891e-fd58ebf2bd99",
           "heading": "Document Conventions",
-          "ForeignID": "URD-9",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -285,6 +354,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-9"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -292,7 +372,6 @@
               "id": "10",
               "guid": "dfaacb90-4dc7-418e-af9d-17e56f69008f",
               "text": "<p><em><span>User classes are classified as Direct or Indirect, and as Favoured, Disfavoured, or Ignored.&nbsp;</span></em></p>",
-              "ForeignID": "URD-10",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -305,6 +384,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-10"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             },
@@ -312,7 +402,6 @@
               "id": "11",
               "guid": "1f1bcdb9-2771-44f7-8701-07c1eefb87d4",
               "text": "<p><em><span>Use case IDs use the format UC-#; preconditions, postconditions, and exceptions are labelled PRE-#, POST-#, and E#.</span></em></p>",
-              "ForeignID": "URD-11",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -325,6 +414,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-11"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             },
@@ -332,7 +432,6 @@
               "id": "12",
               "guid": "32682d7d-ca75-428d-9fb5-0c42a653f6e0",
               "text": "<p><em><span>Dates use DD/MM/YYYY.&nbsp;</span></em></p>",
-              "ForeignID": "URD-12",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -345,6 +444,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-12"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             },
@@ -352,7 +462,6 @@
               "id": "13",
               "guid": "212c918f-84e0-4570-b6f8-9a658514e8a9",
               "text": "<p><em><span>\"TBD\" marks information not yet available.</span></em></p>",
-              "ForeignID": "URD-13",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -365,6 +474,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-13"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -374,7 +494,6 @@
           "id": "14",
           "guid": "98599d17-4f99-4435-af46-c4f57ef4da7c",
           "heading": "Project Scope",
-          "ForeignID": "URD-14",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -387,6 +506,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-14"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -394,7 +524,6 @@
               "id": "15",
               "guid": "97d525bb-3e2e-4b1c-94d6-768bad500bf8",
               "text": "<p>Please refer to the linked vision and scope document</p>",
-              "ForeignID": "URD-15",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
                 "reference": [
@@ -426,6 +555,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-05T17:13:59.251Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-15"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -435,7 +575,6 @@
           "id": "16",
           "guid": "a50db399-7c02-4adf-9d0d-6e76e1080c48",
           "heading": "References",
-          "ForeignID": "URD-16",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -448,6 +587,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-16"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         }
@@ -457,7 +607,6 @@
       "id": "17",
       "guid": "004b4351-053d-4184-a46d-d1c7e6db8770",
       "heading": "Overall Description",
-      "ForeignID": "URD-17",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -470,6 +619,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-17"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -477,7 +637,6 @@
           "id": "18",
           "guid": "b2bb506e-1d7c-4e0e-8bcf-bbf882896d27",
           "heading": "Product Perspective",
-          "ForeignID": "URD-18",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -490,6 +649,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-18"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -497,7 +667,6 @@
               "id": "19",
               "guid": "1711494f-e0ae-46d0-9551-941cc6156c28",
               "text": "<p><span>The Volunteer Management System (VMS) is a new product that is intended to organize volunteers and requests for them to more efficiently help seniors who need support. The VMS interfaces with a government system to validate police background checks of volunteers before they are approved for the VMS.</span></p>",
-              "ForeignID": "URD-19",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -510,6 +679,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-19"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -519,7 +699,6 @@
           "id": "20",
           "guid": "ac435ea6-bd9b-421f-be1f-b8184ced4123",
           "heading": "User Classes and Characteristics",
-          "ForeignID": "URD-20",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -532,6 +711,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-20"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -539,7 +729,6 @@
               "id": "21",
               "guid": "919f4604-7021-4129-a805-39010a17b052",
               "text": "<table><tbody><tr><td style=\"width:168.0pt;\"><p><strong>User Class</strong></p></td><td style=\"width:313.5pt;\"><p><strong>User Characteristics</strong></p></td></tr></tbody></table>",
-              "ForeignID": "URD-21",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -695,6 +884,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-05T17:23:35.608Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-21"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ],
               "children": [
@@ -1065,7 +1265,6 @@
               "guid": "71c79ccd-b974-4579-ae4b-d5b212da0b40",
               "heading": "Potential Actors",
               "text": "<table><tbody><tr><td><p><strong>Actor&nbsp;</strong></p></td><td><p><strong>Type</strong></p></td><td><p><strong>Description</strong></p></td></tr></tbody></table>",
-              "ForeignID": "URD-23",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -1122,6 +1321,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-05T18:11:54.271Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-23"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ],
               "children": [
@@ -1365,7 +1575,6 @@
           "id": "24",
           "guid": "dc866d9e-8163-4c1d-88d2-b87bd2505303",
           "heading": "Use Cases and Models",
-          "ForeignID": "URD-24",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -1378,6 +1587,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-24"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -1386,7 +1606,6 @@
               "guid": "e3ee820d-d299-4df2-b606-d4ab13bbb13e",
               "heading": "Use Case list",
               "text": "<table><tbody><tr><td><p><strong>Primary Actor</strong></p></td><td><p><strong>Use Case</strong></p></td><td><p><strong>Description</strong></p></td></tr></tbody></table>",
-              "ForeignID": "URD-26",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -1477,6 +1696,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-05T18:12:00.777Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-26"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ],
               "children": [
@@ -1824,7 +2054,6 @@
               "id": "27",
               "guid": "5fc63de4-c3a8-4d03-bcdc-22fa671ad7ba",
               "heading": "UC-3 Create New Volunteer",
-              "ForeignID": "URD-27",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
                 "satisfaction": [
@@ -1917,6 +2146,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-10T15:30:35.623Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-27"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ],
               "children": [
@@ -2652,7 +2892,6 @@
               "id": "28",
               "guid": "e890fd44-34d4-4cdf-804a-8cba399707b7",
               "heading": "UC-4 Approve New Volunteer",
-              "ForeignID": "URD-28",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
                 "satisfaction": [
@@ -2734,6 +2973,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-10T15:32:58.109Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-28"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ],
               "children": [
@@ -3314,7 +3564,6 @@
               "id": "29",
               "guid": "5fae7c4c-6e17-4e3c-bff8-7d90e9e99640",
               "heading": "UC-7 Generate Daily Report",
-              "ForeignID": "URD-29",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
                 "satisfaction": [
@@ -3396,6 +3645,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-10T15:35:32.333Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-29"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ],
               "children": [
@@ -4011,7 +4271,6 @@
               "id": "30",
               "guid": "97876a63-d911-4255-9c2f-e59f25df0eb7",
               "heading": "Use Case Models",
-              "ForeignID": "URD-30",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -4036,13 +4295,23 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-05T18:08:48.025Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-30"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             },
             {
               "id": "31",
               "guid": "335df8ec-1a2b-4a84-ae2a-e90fda9f2be1",
-              "ForeignID": "URD-31",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
                 "derivation": [
@@ -4077,6 +4346,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-09T17:29:25.013Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-31"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -4086,7 +4366,6 @@
           "id": "32",
           "guid": "0274ebcf-9088-4686-9949-7bfd9d2dfca5",
           "heading": "Operating Environment",
-          "ForeignID": "URD-32",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -4099,6 +4378,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-32"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -4106,7 +4396,6 @@
               "id": "33",
               "guid": "2f428ac0-d3d7-42b4-981d-9060d4fe3c7e",
               "text": "<p><span>TBD when more information is known about the hardware platform, geographical locations, and organizations related to the system.</span></p>",
-              "ForeignID": "URD-33",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "TBD": "TBD",
               "history": [
@@ -4131,6 +4420,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-09T17:00:43.114Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-33"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -4140,7 +4440,6 @@
           "id": "34",
           "guid": "d2f878b3-0757-4dc7-86c6-de9f1e773a49",
           "heading": "Design and Implementation Constraints",
-          "ForeignID": "URD-34",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -4153,6 +4452,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-34"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -4160,7 +4470,6 @@
               "id": "35",
               "guid": "48586914-d60e-40ec-8230-971f5cb388e1",
               "text": "<p><span>TBD more information is to be added later.</span></p>",
-              "ForeignID": "URD-35",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "TBD": "TBD",
               "history": [
@@ -4185,6 +4494,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-09T16:59:41.416Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-35"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             },
@@ -4192,7 +4512,6 @@
               "id": "36",
               "guid": "a18de772-ee98-4d29-b355-bdb01fff9ed6",
               "text": "<p><span>Policies of privacy and security of personal information.</span></p>",
-              "ForeignID": "URD-36",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -4205,6 +4524,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-36"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             },
@@ -4212,7 +4542,6 @@
               "id": "37",
               "guid": "a2207ff4-7442-46e2-a69b-ecc120b15953",
               "text": "<p><span>Interfacing with a government system to validate background checks.</span></p>",
-              "ForeignID": "URD-37",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -4225,6 +4554,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-37"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -4234,7 +4574,6 @@
           "id": "38",
           "guid": "f12b809a-ba3c-4da6-9913-267b527e50af",
           "heading": "Assumptions and Dependencies",
-          "ForeignID": "URD-38",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -4247,6 +4586,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-38"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -4254,7 +4604,6 @@
               "id": "39",
               "guid": "46393e8f-4b63-4675-a313-f3007d8ba3c9",
               "text": "<p><span>The VMS is dependent on a government system to validate volunteer background checks. Said government system is currently under development to be fully automated within the next few months. The VMS could be further delayed if the government system is not complete by that time.</span></p>",
-              "ForeignID": "URD-39",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -4267,6 +4616,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-39"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             },
@@ -4274,7 +4634,6 @@
               "id": "40",
               "guid": "03e7b34a-d02b-4e29-9b1c-8550cde43fa0",
               "text": "<p><span>The VMS is assumed to have enough volunteers to handle senior cases. If not enough volunteers are available then senior cases will have less support and might cause a backup of unresolved cases.</span></p>",
-              "ForeignID": "URD-40",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -4287,6 +4646,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-40"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -4298,7 +4668,6 @@
       "id": "41",
       "guid": "3bd490f1-92d9-42a3-9f3a-9ce186bb4a82",
       "heading": "System Features",
-      "ForeignID": "URD-41",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -4311,6 +4680,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-41"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -4318,39 +4698,99 @@
           "id": "197",
           "guid": "966f223c-9809-48ee-afc9-d6e1e8e72824",
           "heading": "Create New Volunteer",
-          "ForeignID": "URD-43",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+          "history": [
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-43"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
+            }
+          ],
           "children": [
             {
               "id": "198",
               "guid": "a2f53cf0-8c32-4586-af1c-b013824cb34e",
               "heading": "Description",
               "text": "<p><span style=\"color:black;\">Create a new volunteer profile to add to the VMS. This profile is based on personal information the potential volunteer provides and is entered into the system by a system administrator.</span></p><p><span style=\"color:black;\">High Priority</span></p>",
-              "ForeignID": "URD-45",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-45"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ]
             },
             {
               "id": "199",
               "guid": "e7e45fcf-7a67-475e-8079-fe6efb0c9e92",
               "heading": "Stimulus/Response Sequences",
               "text": "<p>A potential volunteer contacts a system administrator wanting to become a volunteer and provides personal information about themself.</p>",
-              "ForeignID": "URD-47",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-47"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ]
             },
             {
               "id": "200",
               "guid": "a4de3b5a-771f-47fb-9c45-36064a77b670",
               "heading": "Functional Requirements",
-              "ForeignID": "URD-49",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-49"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ],
               "children": [
                 {
                   "id": "201",
                   "guid": "0f882a62-2bb4-4097-a870-67b15a565747",
                   "heading": "Functional Requirement 1",
                   "text": "<p>When an administrator wants to create a new volunteer to the VMS, the system shall create a blank volunteer profile template with fillable sections for information including name, date of birth, background check, education, experience, and notes on the person.</p><p><br></p>",
-                  "ForeignID": "URD-50",
-                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "ForeignID": "URD-50"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T21:47:26.906Z"
+                    }
+                  ]
                 },
                 {
                   "id": "202",
@@ -4378,39 +4818,99 @@
           "id": "205",
           "guid": "8c8e70c0-533b-4d50-933f-d9a50bfc7303",
           "heading": "Approve New Volunteer",
-          "ForeignID": "URD-51",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+          "history": [
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-51"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
+            }
+          ],
           "children": [
             {
               "id": "206",
               "guid": "dbdd6c67-19e7-42f7-a0f0-911fc9746f85",
               "heading": "Description",
               "text": "<p><span style=\"color:black;\">The Volunteer Administrator reviews a new volunteer’s application and approves it afterthe required screening, background check, and (when applicable) educational certificateverification are complete.Create a new volunteer profile to add to the VMS. This profile is based on personal information the potential volunteer provides and is entered into the system by a system administrator.</span></p><p><span style=\"color:black;\">High Priority</span></p>",
-              "ForeignID": "URD-45",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-45"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ]
             },
             {
               "id": "207",
               "guid": "ec616178-6bfa-47dd-8c6a-d1636d95ca38",
               "heading": "Stimulus/Response Sequences",
               "text": "<p>The Volunteer Administrator selects a new volunteer profile for approval</p>",
-              "ForeignID": "URD-47",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-47"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ]
             },
             {
               "id": "208",
               "guid": "03331153-d5b1-4d85-8e37-c73bb162b5dc",
               "heading": "Functional Requirements",
-              "ForeignID": "URD-49",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-49"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ],
               "children": [
                 {
                   "id": "209",
                   "guid": "333d0a47-2456-455d-8b87-61b8264fce37",
                   "heading": "Functional Requirement 1",
                   "text": "<p>If a volunteer needs approval for a background check an administrator shall send a request to the system and it shall forward the request and the profile to the government system for background checks. The system shall display when the background check request has been sent and is complete and the status of the request if it is approved, in progress, or canceled.</p>",
-                  "ForeignID": "URD-50",
-                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "ForeignID": "URD-50"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T21:47:26.906Z"
+                    }
+                  ]
                 },
                 {
                   "id": "210",
@@ -4432,31 +4932,79 @@
               "guid": "ec634bbe-160d-4926-ad34-d61e184eaaec",
               "heading": "Description",
               "text": "<p>Generate a daily report of the forecasted number of cases for the next week</p><p><span style=\"color:black;\">Low Priority</span></p>",
-              "ForeignID": "URD-45",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-45"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ]
             },
             {
               "id": "213",
               "guid": "6ade2b01-49a3-4272-9bdd-83c650cf24fb",
               "heading": "Stimulus/Response Sequences",
               "text": "<p>Automatic (daily)</p>",
-              "ForeignID": "URD-47",
-              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+              "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-47"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ]
             },
             {
               "id": "214",
               "guid": "7a745ff2-1b66-4402-8410-7ed20d349ad9",
               "heading": "Functional Requirements",
-              "ForeignID": "URD-49",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+              "history": [
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-49"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
+                }
+              ],
               "children": [
                 {
                   "id": "215",
                   "guid": "4b3d48a1-6844-44d5-82a2-969aeef02e3d",
                   "heading": "Functional Requirement 1",
                   "text": "<p>The system shall output daily predictions of the number of cases and volunteer availability for the next week. These predictions shall be based on report case history that is analyzed and put through a prediction algorithm. These daily outputs shall be saved for future access.</p>",
-                  "ForeignID": "URD-50",
-                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295"
+                  "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
+                  "history": [
+                    {
+                      "attributesChanged": {
+                        "ForeignID": "URD-50"
+                      },
+                      "changedBy": {
+                        "company": "a",
+                        "email": "a@mgail.com",
+                        "name": "Bre"
+                      },
+                      "changedOn": "2026-11-10T21:47:26.906Z"
+                    }
+                  ]
                 },
                 {
                   "id": "216",
@@ -4474,7 +5022,6 @@
       "id": "52",
       "guid": "2abcea26-8b67-420c-85be-9480e7fcd5f7",
       "heading": "Data Requirements",
-      "ForeignID": "URD-52",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -4487,6 +5034,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-52"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -4494,7 +5052,6 @@
           "id": "53",
           "guid": "f156f2ed-fb7c-4580-9167-ffaae825591e",
           "text": "<p><em><span style=\"color:black;\">&lt;This section describes various aspects of the data that the system will consume as inputs, process in some fashion, or create as outputs.&gt;</span></em></p>",
-          "ForeignID": "URD-53",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -4507,6 +5064,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-53"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         },
@@ -4514,7 +5082,6 @@
           "id": "54",
           "guid": "77c471b7-bb43-4737-abde-9d959d87530d",
           "heading": "Logical Data Model",
-          "ForeignID": "URD-54",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "attachments": [
             "URD-54_1_data_diagram.drawio.png"
@@ -4539,6 +5106,17 @@
                 "name": "T00727415"
               },
               "changedOn": "2026-11-10T21:13:57.791Z"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-54"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         },
@@ -4546,7 +5124,6 @@
           "id": "56",
           "guid": "2ffc1757-5b27-4311-aae2-13d126b3a349",
           "heading": "Data Dictionary",
-          "ForeignID": "URD-56",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -4559,6 +5136,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-56"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -4567,7 +5155,6 @@
               "guid": "ba72b996-7cc2-4a0f-aef2-4b6066ad4a1c",
               "heading": "DD-1 Volunteer Profile",
               "text": "<p>A person registered to help seniors. Created in UC-3, approved in UC-4, assigned in UC-5.</p>",
-              "ForeignID": "URD-57",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "links": {
                 "reference": [
@@ -4652,6 +5239,17 @@
                     "name": "Bre"
                   },
                   "changedOn": "2026-11-10T15:21:30.262Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-57"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ],
               "children": [
@@ -5811,7 +6409,6 @@
           "id": "58",
           "guid": "41ca5ee1-0e64-46bc-b560-3126dc260ff6",
           "heading": "Reports",
-          "ForeignID": "URD-58",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -5824,6 +6421,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-58"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -5831,7 +6439,6 @@
               "id": "59",
               "guid": "690aef82-7882-4548-95cc-aff0f3081922",
               "text": "<p><em><span style=\"color:black;\">&lt;If your application will generate any reports, identify them here and describe their characteristics. If a report must conform to a specific predefined layout you can specify that here as a constraint, perhaps with an example. Otherwise, focus on the logical descriptions of the report content, sort sequence, totaling levels, and so forth, deferring the detailed report layout to the design stage.&gt;</span></em></p>",
-              "ForeignID": "URD-59",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -5844,6 +6451,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-59"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -5853,7 +6471,6 @@
           "id": "60",
           "guid": "3d1ebf4e-ef9f-43d4-83b8-6cc4ec7feaf7",
           "heading": "Data Acquisition, Integrity, Retention, and Disposal",
-          "ForeignID": "URD-60",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -5866,6 +6483,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-60"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -5873,7 +6501,6 @@
               "id": "61",
               "guid": "402bd8a2-7f88-4fea-98cf-238d8ef728da",
               "text": "<p><em><span style=\"color:black;\">&lt;If relevant, describe how data is acquired and maintained. State any requirements regarding the need to protect the integrity of the system's data. Identify any specific techniques that are necessary, such as backups, checkpointing, mirroring, or data accuracy verification. State policies the system must enforce for either retaining or disposing of data, including temporary data, metadata, residual data (such as deleted records), cached data, local copies, archives, and interim backups.&gt;</span></em></p>",
-              "ForeignID": "URD-61",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -5886,6 +6513,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-61"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -5897,7 +6535,6 @@
       "id": "62",
       "guid": "16c66f79-b9c0-4a3e-a198-0eae997dd742",
       "heading": "External Interface Requirements",
-      "ForeignID": "URD-62",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -5910,6 +6547,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-62"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -5917,7 +6565,6 @@
           "id": "63",
           "guid": "1696037c-06b4-442d-9971-c9a2054b27f2",
           "text": "<p><em><span style=\"color:black;\">&lt;This section provides information to ensure that the system will communicate properly with users and with external hardware or software elements.&gt;</span></em></p>",
-          "ForeignID": "URD-63",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -5930,6 +6577,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-63"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         },
@@ -5937,7 +6595,6 @@
           "id": "64",
           "guid": "0eabe2e7-268b-4192-af3c-98927313a447",
           "heading": "User Interfaces",
-          "ForeignID": "URD-64",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -5950,6 +6607,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-64"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -5957,7 +6625,6 @@
               "id": "65",
               "guid": "81f54975-ec50-4aa4-93e1-bb1c71827db5",
               "heading": "\"Volunteer Application Approval\" View Mock-Up",
-              "ForeignID": "URD-65",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "attachments": [
                 "URD-65_1_ApplicationApproval.jpg"
@@ -6015,6 +6682,17 @@
                     "name": "T00727415"
                   },
                   "changedOn": "2026-11-10T21:12:33.140Z"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-65"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             },
@@ -6106,7 +6784,6 @@
           "id": "66",
           "guid": "64bbe3ed-90a9-4772-9c35-33b339bddea3",
           "heading": "Software Interfaces",
-          "ForeignID": "URD-66",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6119,6 +6796,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-66"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -6126,7 +6814,6 @@
               "id": "67",
               "guid": "b2cdb1f8-3471-403b-a8b6-383537414cd0",
               "text": "<p><em><span style=\"color:black;\">&lt;Describe the connections between this product and other software components (identified by name and version), including other applications, databases, operating systems, tools, libraries, websites, and integrated commercial components. State the purpose, formats, and contents of the messages, data, and control values exchanged between the software components. Specify the mappings of input and output data between the systems and any translations that need to be made for the data to get from one system to the other. Describe the services needed by or from external software components and the nature of the intercomponent communications. Identify data that will be exchanged between or shared across software components. Specify nonfunctional requirements affecting the interface, such as service levels for responses times and frequencies, or security controls and restrictions.&gt;</span></em></p>",
-              "ForeignID": "URD-67",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -6139,6 +6826,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-67"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -6148,7 +6846,6 @@
           "id": "68",
           "guid": "2c133e41-0239-4aea-93df-58368722ec97",
           "heading": "Hardware Interfaces",
-          "ForeignID": "URD-68",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6161,6 +6858,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-68"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -6168,7 +6876,6 @@
               "id": "69",
               "guid": "81a369a0-1263-4b7d-aac2-5c64b2ef8e44",
               "text": "<p><em><span style=\"color:black;\">&lt;Describe the characteristics of each interface between the software and hardware (if any) components of the system. This description might include the supported device types, the data and control interactions between the software and the hardware, and the communication protocols to be used. List the inputs and outputs, their formats, their valid values or ranges, and any timing issues developers need to be aware of. If this information is extensive, consider creating a separate interface specification document.&gt;</span></em></p>",
-              "ForeignID": "URD-69",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -6181,6 +6888,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-69"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -6190,7 +6908,6 @@
           "id": "70",
           "guid": "c0c1c786-d99b-4b4f-8777-0b463f135f56",
           "heading": "Communications Interfaces",
-          "ForeignID": "URD-70",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6203,6 +6920,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-70"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -6210,7 +6938,6 @@
               "id": "71",
               "guid": "fac1d70d-5436-47cc-830c-671d794eba8d",
               "text": "<p><em><span style=\"color:black;\">&lt;State the requirements for any communication functions the product will use, including e-mail, Web browser, network protocols, and electronic forms. Define any pertinent message formatting. Specify communication security or encryption issues, data transfer rates, handshaking, and synchronization mechanisms. State any constraints around these interfaces, such as whether e-mail attachments are acceptable or not.&gt;</span></em></p>",
-              "ForeignID": "URD-71",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -6223,6 +6950,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-71"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -6234,7 +6972,6 @@
       "id": "72",
       "guid": "d8242cdd-f42e-4fd6-9555-9ec44defb9c0",
       "heading": "Quality Attributes",
-      "ForeignID": "URD-72",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -6247,6 +6984,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-72"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -6254,7 +7002,6 @@
           "id": "73",
           "guid": "36b1f0e2-a0a4-4491-bf43-c7ee644b230b",
           "heading": "Usability",
-          "ForeignID": "URD-73",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6267,6 +7014,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-73"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -6274,7 +7032,6 @@
               "id": "74",
               "guid": "42e11e79-8cc1-43b3-ae1a-c2abeee0f748",
               "text": "<p><em><span style=\"color:black;\">&lt;Specify any requirements regarding characteristics that will make the software appear to be “user-friendly.” Usability encompasses ease of use, ease of learning; memorability; error avoidance, handling, and recovery; efficiency of interactions; accessibility; and ergonomics. Sometimes these can conflict with each other, as with ease of use over ease of learning. Indicate any user interface design standards or guidelines to which the application must conform.&gt;</span></em></p>",
-              "ForeignID": "URD-74",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -6287,6 +7044,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-74"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -6296,7 +7064,6 @@
           "id": "75",
           "guid": "28789f90-34fa-4271-9728-6d5cab5a843c",
           "heading": "Performance",
-          "ForeignID": "URD-75",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6309,6 +7076,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-75"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -6316,7 +7094,6 @@
               "id": "76",
               "guid": "af102d78-7692-4e00-b250-410f54e6acc2",
               "text": "<p><em><span style=\"color:black;\">&lt;State specific performance requirements for various system operations. If different functional requirements or features have different performance requirements, it's appropriate to specify those performance goals right with the corresponding functional requirements, rather than collecting them in this section.&gt;</span></em></p>",
-              "ForeignID": "URD-76",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -6329,6 +7106,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-76"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -6338,7 +7126,6 @@
           "id": "77",
           "guid": "49180ff9-fecd-4e36-9fb8-7e2e6e192faf",
           "heading": "Security",
-          "ForeignID": "URD-77",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6351,6 +7138,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-77"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -6358,7 +7156,6 @@
               "id": "78",
               "guid": "19439fcd-1a29-48ae-bc4e-ef5d175e329c",
               "text": "<p><em><span style=\"color:black;\">&lt;Specify any requirements regarding security or privacy issues that restrict access to or use of the product. These could refer to physical, data, or software security. Security requirements often originate in business rules, so identify any security or privacy policies or regulations to which the product must conform. If these are documented in a business rules repository, just refer to them.&gt;</span></em></p>",
-              "ForeignID": "URD-78",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -6371,6 +7168,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-78"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -6380,7 +7188,6 @@
           "id": "79",
           "guid": "3969e6e0-40e9-41e3-b122-b63b084233cb",
           "heading": "Safety",
-          "ForeignID": "URD-79",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6393,6 +7200,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-79"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -6400,7 +7218,6 @@
               "id": "80",
               "guid": "d5fbb384-2858-48a4-bc11-66bddfaf3da8",
               "text": "<p><em><span style=\"color:black;\">&lt;Specify requirements that are concerned with possible loss, damage, or harm that could result from use of the product. Define any safeguards or actions that must be taken, as well as potentially dangerous actions that must be prevented. Identify any safety certifications, policies, or regulations to which the product must conform.&gt;</span></em></p>",
-              "ForeignID": "URD-80",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -6413,6 +7230,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-80"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -6422,7 +7250,6 @@
           "id": "81",
           "guid": "343663fd-16a6-4450-be72-eb5970d6e0e0",
           "heading": "[Others as relevant]",
-          "ForeignID": "URD-81",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6435,6 +7262,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-81"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ],
           "children": [
@@ -6442,7 +7280,6 @@
               "id": "82",
               "guid": "febcb805-7fc3-4f64-9ee9-3a6ed011d501",
               "text": "<p><em><span style=\"color:black;\">&lt;Create a separate section in the SRS for each additional product quality attribute to describe characteristics that will be important to either customers or developers. Possibilities include availability, efficiency, installability, integrity, interoperability, modifiability, portability, reliability, reusability, robustness, scalability, and verifiability. Write these to be specific, quantitative, and verifiable. Clarify the relative priorities for various attributes, such as security over performance.&gt;</span></em></p>",
-              "ForeignID": "URD-82",
               "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
               "history": [
                 {
@@ -6455,6 +7292,17 @@
                   "changedOn": "2026-11-05T17:02:30.323Z",
                   "docId": "URD",
                   "structureAction": "Create"
+                },
+                {
+                  "attributesChanged": {
+                    "ForeignID": "URD-82"
+                  },
+                  "changedBy": {
+                    "company": "a",
+                    "email": "a@mgail.com",
+                    "name": "Bre"
+                  },
+                  "changedOn": "2026-11-10T21:47:26.906Z"
                 }
               ]
             }
@@ -6466,7 +7314,6 @@
       "id": "83",
       "guid": "10670709-e72d-4ebb-9138-35bf8a30253d",
       "heading": "Internationalization and Localization Requirements",
-      "ForeignID": "URD-83",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -6479,6 +7326,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-83"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -6486,7 +7344,6 @@
           "id": "84",
           "guid": "7f9bae3c-0bc3-4c75-badc-56d67bb3981e",
           "text": "<p><em><span style=\"color:black;\">&lt;Internationalization and localization requirements ensure that the product will be suitable for use in nations, cultures, and geographic locations other than those in which it was created. Such requirements might address differences in: currency; formatting of dates, numbers, addresses, and telephone numbers; language, including national spelling conventions within the same language (such as American versus British English), symbols used, and character sets; given name and family name order; time zones; international regulations and laws; cultural and political issues; paper sizes used; weights and measures; electrical voltages and plug shapes; and many others.&gt;</span></em></p>",
-          "ForeignID": "URD-84",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6499,6 +7356,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-84"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         }
@@ -6508,7 +7376,6 @@
       "id": "85",
       "guid": "b31026f2-5899-4027-b79a-176946be8326",
       "heading": "Other Requirements",
-      "ForeignID": "URD-85",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -6521,6 +7388,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-85"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -6528,7 +7406,6 @@
           "id": "86",
           "guid": "24173326-2599-4668-98ac-b91e34c31adc",
           "text": "<p><em><span style=\"color:black;\">&lt;Examples are: legal, regulatory or financial compliance, and standards requirements; requirements for product installation, configuration, startup, and shutdown; and logging, monitoring and audit trail requirements. Instead of just combining these all under \"Other,\" add any new sections to the template that are pertinent to your project. Omit this section if all your requirements are accommodated in other sections. &gt;</span></em></p>",
-          "ForeignID": "URD-86",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6541,6 +7418,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-86"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         }
@@ -6550,7 +7438,6 @@
       "id": "87",
       "guid": "d52174a2-a0c0-4135-ab51-7ea9a96090b9",
       "heading": "Glossary",
-      "ForeignID": "URD-87",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -6563,6 +7450,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-87"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -6570,7 +7468,6 @@
           "id": "88",
           "guid": "e177fc10-d201-4b61-8fc3-0d39e1421164",
           "text": "<p><em><span style=\"color:black;\">&lt;Define any specialized terms that a reader needs to know to understand the SRS, including acronyms and abbreviations. Spell out each acronym and provide its definition. Consider building a reusable enterprise-level glossary that spans multiple projects and incorporating by reference any terms that pertain to this project.&gt;</span></em></p>",
-          "ForeignID": "URD-88",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6583,6 +7480,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-88"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         }
@@ -6592,7 +7500,6 @@
       "id": "89",
       "guid": "c9bb14fe-9256-4d54-9d3e-a0e5904ca8db",
       "heading": "Analysis Models",
-      "ForeignID": "URD-89",
       "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
       "history": [
         {
@@ -6605,6 +7512,17 @@
           "changedOn": "2026-11-05T17:02:30.323Z",
           "docId": "URD",
           "structureAction": "Create"
+        },
+        {
+          "attributesChanged": {
+            "ForeignID": "URD-89"
+          },
+          "changedBy": {
+            "company": "a",
+            "email": "a@mgail.com",
+            "name": "Bre"
+          },
+          "changedOn": "2026-11-10T21:47:26.906Z"
         }
       ],
       "children": [
@@ -6612,7 +7530,6 @@
           "id": "90",
           "guid": "a8c96fe1-92e7-4a3a-8c11-a61eae6a3650",
           "text": "<p><em><span style=\"color:black;\">&lt;This optional section includes or points to pertinent analysis models such as data flow diagrams, feature trees, state-transition diagrams, or entity-relationship diagrams. You might prefer to insert certain models into the relevant sections of the specification instead of collecting them at the end.&gt;</span></em></p>",
-          "ForeignID": "URD-90",
           "ReqIFObjectType": "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295",
           "history": [
             {
@@ -6625,6 +7542,17 @@
               "changedOn": "2026-11-05T17:02:30.323Z",
               "docId": "URD",
               "structureAction": "Create"
+            },
+            {
+              "attributesChanged": {
+                "ForeignID": "URD-90"
+              },
+              "changedBy": {
+                "company": "a",
+                "email": "a@mgail.com",
+                "name": "Bre"
+              },
+              "changedOn": "2026-11-10T21:47:26.906Z"
             }
           ]
         }
@@ -6632,10 +7560,6 @@
     }
   ],
   "attributes": {
-    "ForeignID": {
-      "readOnly": true,
-      "type": "string"
-    },
     "Owner": {
       "name": "Owner",
       "type": "string"
@@ -6711,10 +7635,6 @@
         },
         {
           "columnId": "ReqIFObjectType",
-          "width": 150
-        },
-        {
-          "columnId": "ForeignID",
           "width": 150
         }
       ],

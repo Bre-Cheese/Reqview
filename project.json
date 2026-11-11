@@ -5,6 +5,21 @@
     "URD.json"
   ],
   "traceability": {
+    "derivation": {
+      "name": "Derivation",
+      "source": "Derives from",
+      "target": "Is derived by"
+    },
+    "implementation": {
+      "name": "Implementation",
+      "source": "Implements",
+      "target": "Is implemented by"
+    },
+    "mitigation": {
+      "name": "Mitigation",
+      "source": "Mitigates",
+      "target": "Is mitigated by"
+    },
     "reference": {
       "name": "Reference",
       "source": "References",
@@ -15,35 +30,59 @@
       "source": "Satisfies",
       "target": "Is satisfied by"
     },
-    "implementation": {
-      "name": "Implementation",
-      "source": "Implements",
-      "target": "Is implemented by"
-    },
-    "verification": {
-      "name": "Verification",
-      "source": "Verifies",
-      "target": "Is verified by"
-    },
     "usage": {
       "name": "Usage",
       "source": "Uses",
       "target": "Is used by"
     },
-    "mitigation": {
-      "name": "Mitigation",
-      "source": "Mitigates",
-      "target": "Is mitigated by"
-    },
-    "derivation": {
-      "name": "Derivation",
-      "source": "Derives from",
-      "target": "Is derived by"
+    "verification": {
+      "name": "Verification",
+      "source": "Verifies",
+      "target": "Is verified by"
     }
   },
   "integrations": {
     "reqif": {
       "datatypes": {
+        "_00b64c76-b3a0-4719-8e5a-97cbb106beca": {
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "longName": "VerificationMethod",
+          "specifiedValues": [
+            {
+              "identifier": "_1d6eeb0d-975f-4b7f-a5ad-b0a452ee0f7f",
+              "key": "0",
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Inspection",
+              "otherContent": "Inspection",
+              "reqviewKey": "Inspection"
+            },
+            {
+              "identifier": "_ac5e0630-89cf-4b8b-81d8-f802503544c8",
+              "key": "1",
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Analysis",
+              "otherContent": "Analysis",
+              "reqviewKey": "Analysis"
+            },
+            {
+              "identifier": "_b8a98328-42c6-4f8d-9aff-ff73b74a2772",
+              "key": "2",
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Demonstration",
+              "otherContent": "Demonstration",
+              "reqviewKey": "Demonstration"
+            },
+            {
+              "identifier": "_b9f24e89-a594-416a-828c-31c3d99a6ae5",
+              "key": "3",
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Test",
+              "otherContent": "Test",
+              "reqviewKey": "Test"
+            }
+          ],
+          "type": "ENUMERATION"
+        },
         "_4cd886c5-f815-40ec-8794-162b397bd9df": {
           "lastChange": "2022-03-01T00:00:00.000Z",
           "longName": "XHTMLString",
@@ -54,13 +93,194 @@
           "longName": "String",
           "type": "STRING"
         },
+        "_5d43dd76-804f-4343-a484-d15e4c064135": {
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "longName": "Priority",
+          "specifiedValues": [
+            {
+              "identifier": "_3a01e0f4-a41f-4d36-95eb-f5cc3b54c29f",
+              "key": "0",
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Low",
+              "otherContent": "Low",
+              "reqviewKey": "Low"
+            },
+            {
+              "identifier": "_145d2649-2455-47fb-8db0-48590e268e86",
+              "key": "1",
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Medium",
+              "otherContent": "Medium",
+              "reqviewKey": "Medium"
+            },
+            {
+              "identifier": "_b66a7dc9-e762-406e-b5c5-ab50abbc7d2c",
+              "key": "2",
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "High",
+              "otherContent": "High",
+              "reqviewKey": "High"
+            }
+          ],
+          "type": "ENUMERATION"
+        },
+        "_5dc2a7d3-f6fe-4c35-8648-8a85d7e1323c": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "XHTMLString",
+          "reqviewCommon": true,
+          "type": "XHTML"
+        },
+        "_77b0d5f1-9f37-4661-8d3f-85b8b36cc36c": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "DateTime",
+          "reqviewCommon": true,
+          "type": "DATE"
+        },
         "_abb3533d-d5e5-491e-8830-fa938d7de07e": {
           "lastChange": "2022-03-01T00:00:00.000Z",
           "longName": "DateTime",
           "type": "DATE"
+        },
+        "_fed80378-6714-48c4-8b4f-b10e425106ec": {
+          "lastChange": "2022-03-01T00:00:00.000Z",
+          "longName": "String",
+          "reqviewCommon": true,
+          "type": "STRING"
         }
       },
       "specTypes": {
+        "_0a1697df-5410-481b-99f6-1982860500a3": {
+          "lastChange": "2026-11-11T00:05:04.005Z",
+          "longName": "Reference",
+          "reqviewLinkTypeId": "reference",
+          "type": "SPEC-RELATION-TYPE"
+        },
+        "_124d4da9-ebe1-4d6c-8768-57d3620fb935": {
+          "lastChange": "2026-11-11T00:05:04.005Z",
+          "longName": "Satisfaction",
+          "reqviewLinkTypeId": "satisfaction",
+          "type": "SPEC-RELATION-TYPE"
+        },
+        "_20b3f332-2dc0-4c12-a289-29313b2e863c": {
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "longName": "ViSc Object Type",
+          "specAttributes": {
+            "_18d4f6db-d291-4b49-b12c-43429376bb43": {
+              "datatypeRef": "_fed80378-6714-48c4-8b4f-b10e425106ec",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignID",
+              "reqviewAttrId": "id",
+              "type": "STRING"
+            },
+            "_1e85926c-a8ca-4c94-94dc-83bec2b8bfcd": {
+              "datatypeRef": "_fed80378-6714-48c4-8b4f-b10e425106ec",
+              "isEditable": true,
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Source",
+              "reqviewAttrId": "Source",
+              "type": "STRING"
+            },
+            "_37baa3b4-d1e1-4eb3-93de-686583188373": {
+              "datatypeRef": "_5d43dd76-804f-4343-a484-d15e4c064135",
+              "isEditable": true,
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Priority",
+              "multiValued": false,
+              "reqviewAttrId": "Priority",
+              "type": "ENUMERATION"
+            },
+            "_5516926e-12a2-4734-92c3-ab13840b9223": {
+              "datatypeRef": "_fed80378-6714-48c4-8b4f-b10e425106ec",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ChapterName",
+              "reqviewAttrId": "heading",
+              "type": "STRING"
+            },
+            "_74bedef7-b0e4-4e76-8f2c-d7e6ad066ee7": {
+              "datatypeRef": "_fed80378-6714-48c4-8b4f-b10e425106ec",
+              "isEditable": true,
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Status",
+              "reqviewAttrId": "Status",
+              "type": "STRING"
+            },
+            "_7fed5dce-82bc-486c-90c4-9fa63d0f0259": {
+              "datatypeRef": "_5dc2a7d3-f6fe-4c35-8648-8a85d7e1323c",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.Text",
+              "reqviewAttrId": "text",
+              "type": "XHTML"
+            },
+            "_e28c6b7c-e7f6-4832-8bf3-ec80057d2cc9": {
+              "datatypeRef": "_fed80378-6714-48c4-8b4f-b10e425106ec",
+              "isEditable": true,
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Owner",
+              "reqviewAttrId": "Owner",
+              "type": "STRING"
+            },
+            "_f43cd1c1-5356-4d52-8e03-a4884f72acfe": {
+              "datatypeRef": "_00b64c76-b3a0-4719-8e5a-97cbb106beca",
+              "isEditable": true,
+              "lastChange": "2026-11-09T17:09:34.039Z",
+              "longName": "Verification Method",
+              "multiValued": false,
+              "reqviewAttrId": "VerificationMethod",
+              "type": "ENUMERATION"
+            }
+          },
+          "type": "SPEC-OBJECT-TYPE"
+        },
+        "_30cf4c24-6ad4-4a07-bcdf-d0254fd567c6": {
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "longName": "ViSc Type",
+          "specAttributes": {
+            "_33e7644c-788c-401b-b18a-b1453cd40350": {
+              "datatypeRef": "_fed80378-6714-48c4-8b4f-b10e425106ec",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignCreatedBy",
+              "reqviewAttrId": "createdBy",
+              "type": "STRING"
+            },
+            "_6c363034-8647-4398-bc7a-058576d3ad27": {
+              "datatypeRef": "_fed80378-6714-48c4-8b4f-b10e425106ec",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignModifiedBy",
+              "reqviewAttrId": "lastChangedBy",
+              "type": "STRING"
+            },
+            "_a001e865-5ba0-452f-aebb-5a92bb547bc0": {
+              "datatypeRef": "_77b0d5f1-9f37-4661-8d3f-85b8b36cc36c",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignCreatedOn",
+              "reqviewAttrId": "createdOn",
+              "type": "DATE"
+            },
+            "_c88499f1-7ae8-4607-9c97-f6e6feb55adf": {
+              "datatypeRef": "_fed80378-6714-48c4-8b4f-b10e425106ec",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.ForeignID",
+              "reqviewAttrId": "id",
+              "type": "STRING"
+            },
+            "_d544784a-332b-4d00-8267-831598e59019": {
+              "datatypeRef": "_5dc2a7d3-f6fe-4c35-8648-8a85d7e1323c",
+              "isEditable": false,
+              "lastChange": "2022-03-01T00:00:00.000Z",
+              "longName": "ReqIF.Description",
+              "reqviewAttrId": "name",
+              "type": "XHTML"
+            }
+          },
+          "type": "SPECIFICATION-TYPE"
+        },
         "_5b4a2d11-3c96-4d5a-9c21-63ba951a4295": {
           "lastChange": "2026-11-05T17:01:29.396Z",
           "longName": "URD Object Type",
@@ -91,6 +311,12 @@
             }
           },
           "type": "SPEC-OBJECT-TYPE"
+        },
+        "_6b988e9c-fc4c-440f-bf0a-4d521f787452": {
+          "lastChange": "2026-11-11T00:05:04.005Z",
+          "longName": "Derivation",
+          "reqviewLinkTypeId": "derivation",
+          "type": "SPEC-RELATION-TYPE"
         },
         "_8a34bad8-298f-464b-851c-d5572917f666": {
           "lastChange": "2026-11-05T17:01:29.396Z",

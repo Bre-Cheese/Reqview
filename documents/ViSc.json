@@ -785,8 +785,8 @@
     }
   ],
   "attributes": {
-    "Status": {
-      "name": "Status",
+    "Owner": {
+      "name": "Owner",
       "type": "string"
     },
     "Priority": {
@@ -808,8 +808,8 @@
       "name": "Source",
       "type": "string"
     },
-    "Owner": {
-      "name": "Owner",
+    "Status": {
+      "name": "Status",
       "type": "string"
     },
     "VerificationMethod": {
@@ -831,7 +831,8 @@
       ]
     }
   },
-  "templateColumns": {},
+  "templateColumns": {
+  },
   "views": {
     "Primary": {
       "columns": [
@@ -845,6 +846,719 @@
         }
       ],
       "default": true
+    }
+  },
+  "integrations": {
+    "reqif": {
+      "specObjects": {
+        "05de2197-e589-4d77-90ee-64c8e1a9915e": {
+          "identifier": "_05de2197-e589-4d77-90ee-64c8e1a9915e",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "1",
+          "specHierarchy": {
+            "identifier": "_750d46ce-5a68-49c3-948e-f0e9e9467699",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "0d506e0c-89a9-4e41-a6ee-1dc90518917a": {
+          "identifier": "_0d506e0c-89a9-4e41-a6ee-1dc90518917a",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "35",
+          "specHierarchy": {
+            "identifier": "_57b9cb81-6a56-482c-bc97-30a90c5d3005",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "14c8d466-a525-4dbe-9373-19d12c8da1a0": {
+          "identifier": "_14c8d466-a525-4dbe-9373-19d12c8da1a0",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "31",
+          "specHierarchy": {
+            "identifier": "_a1b68bd7-7ee0-4a5b-9533-fdc09cb70317",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "1583e607-7193-4dad-aa63-4edc1c079d00": {
+          "identifier": "_1583e607-7193-4dad-aa63-4edc1c079d00",
+          "lastChange": "2026-11-09T17:02:47.423Z",
+          "reqviewObjId": "59",
+          "specHierarchy": {
+            "identifier": "_8a58fd5e-9391-4e98-ab16-11b0517e5c2e",
+            "lastChange": "2026-11-09T17:02:47.423Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "1902e8be-fa1a-4bbb-9807-a80863e1b67c": {
+          "identifier": "_1902e8be-fa1a-4bbb-9807-a80863e1b67c",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "13",
+          "specHierarchy": {
+            "identifier": "_c54f80a5-ce8b-498b-bc23-d99fd759fde7",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "1ad42a52-20af-466e-be5e-81c8e4eb8ced": {
+          "identifier": "_1ad42a52-20af-466e-be5e-81c8e4eb8ced",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "64",
+          "specHierarchy": {
+            "identifier": "_2c7d7658-7ede-4617-af0f-2f57aa9e3cec",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "2183ef1e-7321-4be7-94f0-e3fdb1b73f2e": {
+          "identifier": "_2183ef1e-7321-4be7-94f0-e3fdb1b73f2e",
+          "lastChange": "2026-11-09T17:02:57.715Z",
+          "reqviewObjId": "69",
+          "specHierarchy": {
+            "identifier": "_4fdc5150-f4d6-4635-8fe2-6b1cb61f9c02",
+            "lastChange": "2026-11-09T17:02:57.715Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "27830ed5-b4ef-40fb-8afd-df69dafb369c": {
+          "identifier": "_27830ed5-b4ef-40fb-8afd-df69dafb369c",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "22",
+          "specHierarchy": {
+            "identifier": "_371453d3-54a0-4eba-90d2-a4f2a5af7b8d",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "2af630cc-d739-4772-a631-b70eb9eaff41": {
+          "identifier": "_2af630cc-d739-4772-a631-b70eb9eaff41",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "6",
+          "specHierarchy": {
+            "identifier": "_fb96bcf5-a8e0-4cc8-a378-b8001f3548a7",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "2ddde0ae-bf8e-47a5-9343-b3a0923acaf0": {
+          "identifier": "_2ddde0ae-bf8e-47a5-9343-b3a0923acaf0",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "17",
+          "specHierarchy": {
+            "identifier": "_7233ddc7-2011-457b-aecd-07fb42da7552",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "2ebdef97-ac20-4ad0-a884-da64de83daa5": {
+          "identifier": "_2ebdef97-ac20-4ad0-a884-da64de83daa5",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "7",
+          "specHierarchy": {
+            "identifier": "_bb99c99f-1cd8-490e-b772-5bebc39dd4fe",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "35aab811-1f82-49f4-9156-6f89c3ad9e77": {
+          "identifier": "_35aab811-1f82-49f4-9156-6f89c3ad9e77",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "19",
+          "specHierarchy": {
+            "identifier": "_6784f592-8821-452f-96ed-24a791a2c7f0",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "3a4cdc09-3fa4-427a-871a-6e04ca184e0f": {
+          "identifier": "_3a4cdc09-3fa4-427a-871a-6e04ca184e0f",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "67",
+          "specHierarchy": {
+            "identifier": "_2950932b-9aca-4d0a-aa14-7a83493de0bc",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "3b275bfe-74d9-4a9b-9d0a-458c242cfb05": {
+          "identifier": "_3b275bfe-74d9-4a9b-9d0a-458c242cfb05",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "41",
+          "specHierarchy": {
+            "identifier": "_6d9e4ce8-60a2-4fe8-baf9-de02254c67fd",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "3bcbaeaa-54dd-43fb-bbd4-e0f1066c9bef": {
+          "identifier": "_3bcbaeaa-54dd-43fb-bbd4-e0f1066c9bef",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "47",
+          "specHierarchy": {
+            "identifier": "_14504c79-0a82-43fa-b9ab-2b9488f436dd",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "4295dacb-cdc6-466f-9185-f92bba0c4a9f": {
+          "identifier": "_4295dacb-cdc6-466f-9185-f92bba0c4a9f",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "49",
+          "specHierarchy": {
+            "identifier": "_0be41372-ec49-4731-aa9e-73f5d577d1ae",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "4a0bd081-c5d2-4217-bdda-c4f4a34a6b73": {
+          "identifier": "_4a0bd081-c5d2-4217-bdda-c4f4a34a6b73",
+          "lastChange": "2026-11-09T17:02:51.466Z",
+          "reqviewObjId": "63",
+          "specHierarchy": {
+            "identifier": "_2135ace2-5392-4b5b-bc45-dc1195057700",
+            "lastChange": "2026-11-09T17:02:51.466Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "4bce4d9a-4366-4b0d-8117-e2d7a7fc6a66": {
+          "identifier": "_4bce4d9a-4366-4b0d-8117-e2d7a7fc6a66",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "5",
+          "specHierarchy": {
+            "identifier": "_4ffe985c-ada2-491a-a172-8250d42080cc",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "4eddac83-f5d7-4fea-917d-b8cf347666e9": {
+          "identifier": "_4eddac83-f5d7-4fea-917d-b8cf347666e9",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "16",
+          "specHierarchy": {
+            "identifier": "_39f1d312-d17e-462c-a4c6-07ee3a8a3cbc",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "51d05d76-ddd6-4ec7-b3d9-9fe79cf23a15": {
+          "identifier": "_51d05d76-ddd6-4ec7-b3d9-9fe79cf23a15",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "28",
+          "specHierarchy": {
+            "identifier": "_bb3bd3ae-6eb4-4a12-b1a6-bfca624c070a",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "525a08c3-0bcc-416f-a171-d43a978e4f0f": {
+          "identifier": "_525a08c3-0bcc-416f-a171-d43a978e4f0f",
+          "lastChange": "2026-11-09T17:02:39.042Z",
+          "reqviewObjId": "52",
+          "specHierarchy": {
+            "identifier": "_9b879508-34f0-44ee-b05f-eaadbf3b281f",
+            "lastChange": "2026-11-09T17:02:39.042Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "540f7b2b-310d-4240-ac98-a75f79cdbf64": {
+          "identifier": "_540f7b2b-310d-4240-ac98-a75f79cdbf64",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "9",
+          "specHierarchy": {
+            "identifier": "_0a880542-e399-4178-b499-563cc436666a",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "55bd19d6-623e-4106-a8e7-bd0b390796a0": {
+          "identifier": "_55bd19d6-623e-4106-a8e7-bd0b390796a0",
+          "lastChange": "2026-11-09T17:02:46.307Z",
+          "reqviewObjId": "58",
+          "specHierarchy": {
+            "identifier": "_0eac0486-6afe-46ed-b1e5-845fecd4f2fb",
+            "lastChange": "2026-11-09T17:02:46.307Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "566091b2-0cc6-410c-a305-669c112df805": {
+          "identifier": "_566091b2-0cc6-410c-a305-669c112df805",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "48",
+          "specHierarchy": {
+            "identifier": "_e8989cd5-625b-4aa2-a8f7-98c2e741b032",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "5664dfee-e3b8-4936-a428-295a362bd0b7": {
+          "identifier": "_5664dfee-e3b8-4936-a428-295a362bd0b7",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "55",
+          "specHierarchy": {
+            "identifier": "_3ef801dc-4235-48a3-825c-cfad087c6b20",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "5e6ac1de-16f6-4d30-a8c6-a796d6ef883a": {
+          "identifier": "_5e6ac1de-16f6-4d30-a8c6-a796d6ef883a",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "32",
+          "specHierarchy": {
+            "identifier": "_b2764fb0-8f65-42b0-83c2-1d5e02013a2d",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "67206e3f-3711-4183-9e2f-5b73b3020296": {
+          "identifier": "_67206e3f-3711-4183-9e2f-5b73b3020296",
+          "lastChange": "2026-11-09T17:02:31.843Z",
+          "reqviewObjId": "50",
+          "specHierarchy": {
+            "identifier": "_e282c93c-ada6-41b7-bc6a-0e5a39a4eac1",
+            "lastChange": "2026-11-09T17:02:31.843Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "6b140145-7f12-415f-a22b-0fac49dbd32f": {
+          "identifier": "_6b140145-7f12-415f-a22b-0fac49dbd32f",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "38",
+          "specHierarchy": {
+            "identifier": "_1748d4d2-f38c-4401-8dce-7205fcc43483",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "6e2d25e3-38a3-448e-8ae5-11c4f515185d": {
+          "identifier": "_6e2d25e3-38a3-448e-8ae5-11c4f515185d",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "44",
+          "specHierarchy": {
+            "identifier": "_1cfb3471-d1ce-41d0-8f0f-b0162cf76600",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "73b04dcb-ccb5-4a09-9d86-780c90ffbc4a": {
+          "identifier": "_73b04dcb-ccb5-4a09-9d86-780c90ffbc4a",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "10",
+          "specHierarchy": {
+            "identifier": "_348d2bcf-38b9-4f4a-9a9b-8fa9bba15e41",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "7553a013-5614-410f-843c-48fa7472b8ad": {
+          "identifier": "_7553a013-5614-410f-843c-48fa7472b8ad",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "18",
+          "specHierarchy": {
+            "identifier": "_7489ed13-d23d-47e8-9525-8eb9dc602a80",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "77352298-e571-4e87-8c4e-2b3a161054a6": {
+          "identifier": "_77352298-e571-4e87-8c4e-2b3a161054a6",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "15",
+          "specHierarchy": {
+            "identifier": "_9b92e18d-59dc-4b76-b050-6770b3bfaadf",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "7b001138-d4f8-42a6-a655-a92a0d4a2e8c": {
+          "identifier": "_7b001138-d4f8-42a6-a655-a92a0d4a2e8c",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "42",
+          "specHierarchy": {
+            "identifier": "_d8d6cb8e-b554-4336-8c71-22216cacdb40",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "7fae6dd1-a2e8-4e91-aa5f-aeb1b99eb381": {
+          "identifier": "_7fae6dd1-a2e8-4e91-aa5f-aeb1b99eb381",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "12",
+          "specHierarchy": {
+            "identifier": "_9cf221d7-9b60-490d-9201-ae3e5f4fe000",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "81d1f757-4d30-4d22-b616-1a4e0b646c91": {
+          "identifier": "_81d1f757-4d30-4d22-b616-1a4e0b646c91",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "2",
+          "specHierarchy": {
+            "identifier": "_c0a17bed-af46-48aa-8131-6fdee2f9e0fd",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "863bfa18-dd3c-46f2-b8c8-60b43cc5991b": {
+          "identifier": "_863bfa18-dd3c-46f2-b8c8-60b43cc5991b",
+          "lastChange": "2026-11-09T17:02:43.158Z",
+          "reqviewObjId": "56",
+          "specHierarchy": {
+            "identifier": "_1ae5f8e4-5dca-46d7-a771-13863c001f90",
+            "lastChange": "2026-11-09T17:02:43.158Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "8b10b7e3-edf6-415d-a9e2-caedde04907d": {
+          "identifier": "_8b10b7e3-edf6-415d-a9e2-caedde04907d",
+          "lastChange": "2026-11-09T17:02:56.573Z",
+          "reqviewObjId": "68",
+          "specHierarchy": {
+            "identifier": "_8dae7270-c8df-4c0e-89c3-aa1ccda08fa5",
+            "lastChange": "2026-11-09T17:02:56.573Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "8c7191b7-910a-45e7-b38d-5636cc8e3404": {
+          "identifier": "_8c7191b7-910a-45e7-b38d-5636cc8e3404",
+          "lastChange": "2026-11-03T21:40:11.491Z",
+          "reqviewObjId": "8",
+          "specHierarchy": {
+            "identifier": "_82690055-e3f4-46c9-af58-20ed19f3bbd3",
+            "lastChange": "2026-11-03T21:40:11.491Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "8cc8d3b5-30cc-459d-a22f-e3f160a2ca27": {
+          "identifier": "_8cc8d3b5-30cc-459d-a22f-e3f160a2ca27",
+          "lastChange": "2026-11-09T17:02:50.224Z",
+          "reqviewObjId": "61",
+          "specHierarchy": {
+            "identifier": "_d8539b29-a2c5-46cf-b04a-f40c4b88e15b",
+            "lastChange": "2026-11-09T17:02:50.224Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "8fbe06f6-4f4c-4008-9ced-4d23e79b8a1e": {
+          "identifier": "_8fbe06f6-4f4c-4008-9ced-4d23e79b8a1e",
+          "lastChange": "2026-11-05T17:13:50.582Z",
+          "reqviewObjId": "29",
+          "specHierarchy": {
+            "identifier": "_c57b7660-00eb-43d4-b662-8d907eb738fc",
+            "lastChange": "2026-11-05T17:13:50.582Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "9053379b-a28a-4bbc-81d0-00635ccbbc33": {
+          "identifier": "_9053379b-a28a-4bbc-81d0-00635ccbbc33",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "39",
+          "specHierarchy": {
+            "identifier": "_9d551222-2cec-4900-b841-a04129a6b0aa",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "916755e6-d73c-41cf-a2d8-91579e869dd7": {
+          "identifier": "_916755e6-d73c-41cf-a2d8-91579e869dd7",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "36",
+          "specHierarchy": {
+            "identifier": "_b53fa178-4712-499e-926f-db9f6333334f",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "93a228da-c237-41c3-8ee4-ae52d593616f": {
+          "identifier": "_93a228da-c237-41c3-8ee4-ae52d593616f",
+          "lastChange": "2026-11-09T17:02:49.494Z",
+          "reqviewObjId": "60",
+          "specHierarchy": {
+            "identifier": "_23493410-7c64-45a3-af78-48fb746c4734",
+            "lastChange": "2026-11-09T17:02:49.494Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "9541243f-317d-43ae-a128-9fe2a457b625": {
+          "identifier": "_9541243f-317d-43ae-a128-9fe2a457b625",
+          "lastChange": "2026-11-09T17:02:26.403Z",
+          "reqviewObjId": "25",
+          "specHierarchy": {
+            "identifier": "_6220dd74-d737-4da1-b35f-5a35021a5895",
+            "lastChange": "2026-11-09T17:02:26.403Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "9713f311-c1db-4719-b316-37826b12c12e": {
+          "identifier": "_9713f311-c1db-4719-b316-37826b12c12e",
+          "lastChange": "2026-11-09T17:02:54.071Z",
+          "reqviewObjId": "66",
+          "specHierarchy": {
+            "identifier": "_babca0dc-d65d-43e4-8510-3fc4179a70eb",
+            "lastChange": "2026-11-09T17:02:54.071Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "97e88e6d-4695-49f4-9dab-63b6bbc163df": {
+          "identifier": "_97e88e6d-4695-49f4-9dab-63b6bbc163df",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "21",
+          "specHierarchy": {
+            "identifier": "_a8053189-414d-48d8-a6ca-b5ab3cffa774",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "9d97a958-df78-44a9-9838-1ae05746788a": {
+          "identifier": "_9d97a958-df78-44a9-9838-1ae05746788a",
+          "lastChange": "2026-11-09T17:02:43.998Z",
+          "reqviewObjId": "57",
+          "specHierarchy": {
+            "identifier": "_ceb59f01-2228-4063-a376-1ff0c217e06a",
+            "lastChange": "2026-11-09T17:02:43.998Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "9e676250-a5e0-48c5-a339-002776a9eb25": {
+          "identifier": "_9e676250-a5e0-48c5-a339-002776a9eb25",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "37",
+          "specHierarchy": {
+            "identifier": "_2d45f679-90c8-47f1-912c-830f5b22974f",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "a062b39c-99a3-4851-8c29-4833d73548d5": {
+          "identifier": "_a062b39c-99a3-4851-8c29-4833d73548d5",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "20",
+          "specHierarchy": {
+            "identifier": "_c21c45ab-06bb-403d-aa87-3594f0ede44d",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "a440b960-622d-4513-a4dd-b804ee6981f9": {
+          "identifier": "_a440b960-622d-4513-a4dd-b804ee6981f9",
+          "lastChange": "2026-11-09T17:02:18.131Z",
+          "reqviewObjId": "24",
+          "specHierarchy": {
+            "identifier": "_f0111d4d-e260-4db3-ab4f-3c58c3eeb4ff",
+            "lastChange": "2026-11-09T17:02:18.131Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "a95f7072-295f-418e-a7eb-a32f982b0b76": {
+          "identifier": "_a95f7072-295f-418e-a7eb-a32f982b0b76",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "3",
+          "specHierarchy": {
+            "identifier": "_c03f783f-4530-4aa0-9550-22b689b59ed0",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "b1c804c7-1684-4aa3-a825-31d0c70edd07": {
+          "identifier": "_b1c804c7-1684-4aa3-a825-31d0c70edd07",
+          "lastChange": "2026-11-09T17:02:50.911Z",
+          "reqviewObjId": "62",
+          "specHierarchy": {
+            "identifier": "_da1a68a9-50e1-41f2-9df2-175a8b9691ad",
+            "lastChange": "2026-11-09T17:02:50.911Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "b258d1ad-951e-43d4-bd7c-a7475cf50f45": {
+          "identifier": "_b258d1ad-951e-43d4-bd7c-a7475cf50f45",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "26",
+          "specHierarchy": {
+            "identifier": "_e9c2fc14-455b-4be2-b589-59b8cca7cbfc",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "b4b59be1-30a8-42c2-bc4c-b90055df8591": {
+          "identifier": "_b4b59be1-30a8-42c2-bc4c-b90055df8591",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "11",
+          "specHierarchy": {
+            "identifier": "_0d98ff92-0ade-4648-bb4b-63f61ae9c51b",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "b88298e9-b84e-464e-bda3-2b08025fb038": {
+          "identifier": "_b88298e9-b84e-464e-bda3-2b08025fb038",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "4",
+          "specHierarchy": {
+            "identifier": "_f53e3796-f197-4abc-a2de-9054217a25a9",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "ba0a4c8c-a3e9-4afe-946f-74acebc387df": {
+          "identifier": "_ba0a4c8c-a3e9-4afe-946f-74acebc387df",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "23",
+          "specHierarchy": {
+            "identifier": "_10c291d3-e4db-46a4-851f-6cb41b46e809",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "bdf4c573-23b5-46f9-a161-26f9e7757409": {
+          "identifier": "_bdf4c573-23b5-46f9-a161-26f9e7757409",
+          "lastChange": "2026-11-09T17:02:40.178Z",
+          "reqviewObjId": "53",
+          "specHierarchy": {
+            "identifier": "_fd4aeeef-d735-4dc4-ba97-fa19d9ae4da0",
+            "lastChange": "2026-11-09T17:02:40.178Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "c89abaac-c504-4706-8e79-dc60632d8c28": {
+          "identifier": "_c89abaac-c504-4706-8e79-dc60632d8c28",
+          "lastChange": "2026-11-09T17:02:41.022Z",
+          "reqviewObjId": "54",
+          "specHierarchy": {
+            "identifier": "_f3561fcc-d487-4e02-9fe8-3046bea13623",
+            "lastChange": "2026-11-09T17:02:41.022Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "c9ec6f7a-8deb-4c1e-ac27-cbc95fae9ada": {
+          "identifier": "_c9ec6f7a-8deb-4c1e-ac27-cbc95fae9ada",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "46",
+          "specHierarchy": {
+            "identifier": "_e3446106-4fd0-4e83-bca0-43fff97df37c",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "cb1937d1-0ffd-4a3a-bcdd-120368861b7c": {
+          "identifier": "_cb1937d1-0ffd-4a3a-bcdd-120368861b7c",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "30",
+          "specHierarchy": {
+            "identifier": "_7dd6592c-a560-4a65-923d-d172b3cda53b",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "cc28f1a4-8670-4a24-b6c8-84fb6f89071f": {
+          "identifier": "_cc28f1a4-8670-4a24-b6c8-84fb6f89071f",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "27",
+          "specHierarchy": {
+            "identifier": "_f95fa741-1456-4a4f-ab53-4f97ca360ee4",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "cf9cc6d2-2f94-4b79-bfee-2a662005c87d": {
+          "identifier": "_cf9cc6d2-2f94-4b79-bfee-2a662005c87d",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "34",
+          "specHierarchy": {
+            "identifier": "_588b005c-99c4-409e-9dac-49b52d89dc0b",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "d11b140a-194c-4b8e-a897-10510865f03d": {
+          "identifier": "_d11b140a-194c-4b8e-a897-10510865f03d",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "51",
+          "specHierarchy": {
+            "identifier": "_d5fcd584-f2d2-4649-8158-632550c74804",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "d8a1f98b-a1c3-412f-9cfb-6d76d29211f1": {
+          "identifier": "_d8a1f98b-a1c3-412f-9cfb-6d76d29211f1",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "43",
+          "specHierarchy": {
+            "identifier": "_3ce33a81-da47-4054-b3b5-f00c858ad5f6",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "da1220f3-5ca7-487a-a363-a2f9aec69d17": {
+          "identifier": "_da1220f3-5ca7-487a-a363-a2f9aec69d17",
+          "lastChange": "2026-11-09T17:02:53.364Z",
+          "reqviewObjId": "65",
+          "specHierarchy": {
+            "identifier": "_c4e06a3a-1c18-441d-989e-3e4e0804bccc",
+            "lastChange": "2026-11-09T17:02:53.364Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "df9982b3-3b5c-4c7e-9427-c6e6f0b51e61": {
+          "identifier": "_df9982b3-3b5c-4c7e-9427-c6e6f0b51e61",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "33",
+          "specHierarchy": {
+            "identifier": "_94993321-d8db-4000-bb28-fdc0ef8ac648",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "e2d33f89-c06f-424c-95ef-467e1cabefa1": {
+          "identifier": "_e2d33f89-c06f-424c-95ef-467e1cabefa1",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "45",
+          "specHierarchy": {
+            "identifier": "_857ed5a3-a959-4ac6-814e-3121fad97358",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "ea164607-1313-4ef4-ad17-745000b34fdd": {
+          "identifier": "_ea164607-1313-4ef4-ad17-745000b34fdd",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "14",
+          "specHierarchy": {
+            "identifier": "_2d372c61-6305-42c4-86cc-0f473d7d32e3",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        },
+        "ea2a79eb-b8a8-4e53-8565-d3c4b75e7da5": {
+          "identifier": "_ea2a79eb-b8a8-4e53-8565-d3c4b75e7da5",
+          "lastChange": "2026-11-09T17:09:34.039Z",
+          "reqviewObjId": "40",
+          "specHierarchy": {
+            "identifier": "_f00c94e1-a3b9-4228-9140-a370efd35230",
+            "lastChange": "2026-11-09T17:09:34.039Z"
+          },
+          "specObjectTypeRef": "_20b3f332-2dc0-4c12-a289-29313b2e863c"
+        }
+      },
+      "specRelations": {
+      },
+      "specification": {
+        "attrValues": {
+          "_33e7644c-788c-401b-b18a-b1453cd40350": "T00727415, Thompson Rivers University, t00727415@mytru.ca",
+          "_6c363034-8647-4398-bc7a-058576d3ad27": "Bre, a, a@mgail.com",
+          "_a001e865-5ba0-452f-aebb-5a92bb547bc0": "2026-11-03T21:38:19.719Z",
+          "_c88499f1-7ae8-4607-9c97-f6e6feb55adf": "ViSc",
+          "_d544784a-332b-4d00-8267-831598e59019": "Vision and Scope Document"
+        },
+        "conversationId": "_ae538836-8823-43ba-a070-8892b76d6c04",
+        "identifier": "_e1ae531f-1fdc-436c-998b-1c88fe2b2b1c",
+        "lastChange": "2026-11-09T17:09:34.039Z",
+        "longName": "ViSc",
+        "reqviewSpecObjTypeId": "_20b3f332-2dc0-4c12-a289-29313b2e863c",
+        "specificationTypeRef": "_30cf4c24-6ad4-4a07-bcdf-d0254fd567c6"
+      }
     }
   },
   "metadata": {
